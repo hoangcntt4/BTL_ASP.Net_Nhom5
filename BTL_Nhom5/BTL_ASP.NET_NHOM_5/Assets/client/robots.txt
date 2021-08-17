@@ -1,0 +1,31 @@
+User-agent: googlebot
+User-agent: google
+User-agent: bingbot
+User-agent: bing
+User-agent: msnbot
+User-agent: msn
+User-agent: slurp
+User-agent: baiduspider
+User-agent: yandexbot
+User-agent: facebot
+User-agent: ia_archiver
+User-agent: AdsBot-Google
+User-agent: Googlebot-news
+User-agent: Googlebot-Image
+User-agent: Googlebot-Video
+User-agent: Mediapartners-Google
+User-agent: Googlebot-Mobile
+User-agent: adidxbot
+User-agent: msnbot-media
+User-agent: yandex
+User-agent: Siteliner
+User-agent: Twitterbot
+
+Disallow:/user/
+Crawl-delay: 10
+
+User-agent: coccocbot-web
+Crawl-delay: 30
+
+User-agent: *
+Disallow: /
