@@ -1,0 +1,21 @@
+﻿
+@{
+    ViewBag.Title = "Login";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<section class="log-reg container">
+    <div class="row">
+        <div class="col-lg-3 col-md-3 hidden-xs hidden-sm"></div><div class="col-lg-5 col-md-5 col-xs-12 col-sm-12 formUser">
+            <h6>Đăng nhập</h6><form method="post" class="f"><ul><input type="hidden" name="csrf" value="61d7a5657613191dc237b7cfccfd42d7-b2ab6ea3bb375c32e808fc517b9415b4"><li><input name="username" type="text" class="tb validate[required]" id="username" placeholder="Email" value=""></li><li><input name="password" type="password" class="tb validate[required]" id="password" placeholder="Mật khẩu" value=""></li><li class="btns"><input name="submit" type="submit" id="btnSubmit" class="htmlBtn first" value="Đăng nhập"></li></ul></form>            <a rel="follow" href="/user/signup" style="text-align: left;display: inline-block;width: 200px;float: left">
+                <i class="fa fa-sign-in"></i>
+                Đăng kí
+            </a>
+            <a rel="follow" href="/user/getpassword" style="text-align: left;display: inline-block;width: 200px;float: left">
+            </a><a class="getPass" rel="follow" href="/user/getpassword" style="text-align: left;display: inline-block;width: 200px;float: left">
+                <i class="fa fa-question-circle"></i>
+                Quên mật khẩu
+            </a>
+        </div><div class="col-lg-3 col-md-3 hidden-xs hidden-sm"></div>
+    </div>
+</section>
