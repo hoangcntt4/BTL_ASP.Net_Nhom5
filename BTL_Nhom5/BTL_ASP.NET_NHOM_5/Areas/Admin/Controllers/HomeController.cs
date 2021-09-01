@@ -6,7 +6,7 @@ using System.Web.Mvc;
 
 namespace BTL_ASP.NET_NHOM_5.Areas.Admin.Controllers
 {
-    public class HomeController : Controller
+    public class HomeController : BaseController
     {
         // GET: Admin/Home
         public ActionResult Index()

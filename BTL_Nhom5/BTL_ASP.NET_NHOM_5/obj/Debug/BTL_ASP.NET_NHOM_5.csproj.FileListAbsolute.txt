@@ -249,3 +249,933 @@ D:\Hoc olline\dohoamt\BTL_Nhom_7\BTL_ASP_Nhom5\BTL_Nhom5\BTL_ASP.NET_NHOM_5\bin\
 D:\Hoc olline\dohoamt\BTL_Nhom_7\BTL_ASP_Nhom5\BTL_Nhom5\BTL_ASP.NET_NHOM_5\bin\EntityFramework.SqlServer.dll
 D:\Hoc olline\dohoamt\BTL_Nhom_7\BTL_ASP_Nhom5\BTL_Nhom5\BTL_ASP.NET_NHOM_5\bin\EntityFramework.xml
 D:\Hoc olline\dohoamt\BTL_Nhom_7\BTL_ASP_Nhom5\BTL_Nhom5\BTL_ASP.NET_NHOM_5\bin\EntityFramework.SqlServer.xml
+D:\KyHeNam3\ASP.Net\BTL_ASP.Net_Nhom5\BTL_Nhom5\BTL_ASP.NET_NHOM_5\bin\BTL_ASP.NET_NHOM_5.dll.config
+D:\KyHeNam3\ASP.Net\BTL_ASP.Net_Nhom5\BTL_Nhom5\BTL_ASP.NET_NHOM_5\bin\BTL_ASP.NET_NHOM_5.dll
+D:\KyHeNam3\ASP.Net\BTL_ASP.Net_Nhom5\BTL_Nhom5\BTL_ASP.NET_NHOM_5\bin\BTL_ASP.NET_NHOM_5.pdb
+D:\KyHeNam3\ASP.Net\BTL_ASP.Net_Nhom5\BTL_Nhom5\BTL_ASP.NET_NHOM_5\bin\roslyn\csc.exe
+D:\KyHeNam3\ASP.Net\BTL_ASP.Net_Nhom5\BTL_Nhom5\BTL_ASP.NET_NHOM_5\bin\roslyn\csc.exe.config
+D:\KyHeNam3\ASP.Net\BTL_ASP.Net_Nhom5\BTL_Nhom5\BTL_ASP.NET_NHOM_5\bin\roslyn\csc.rsp
+D:\KyHeNam3\ASP.Net\BTL_ASP.Net_Nhom5\BTL_Nhom5\BTL_ASP.NET_NHOM_5\bin\roslyn\csi.exe
+D:\KyHeNam3\ASP.Net\BTL_ASP.Net_Nhom5\BTL_Nhom5\BTL_ASP.NET_NHOM_5\bin\roslyn\csi.exe.config
+D:\KyHeNam3\ASP.Net\BTL_ASP.Net_Nhom5\BTL_Nhom5\BTL_ASP.NET_NHOM_5\bin\roslyn\csi.rsp
+D:\KyHeNam3\ASP.Net\BTL_ASP.Net_Nhom5\BTL_Nhom5\BTL_ASP.NET_NHOM_5\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\KyHeNam3\ASP.Net\BTL_ASP.Net_Nhom5\BTL_Nhom5\BTL_ASP.NET_NHOM_5\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\KyHeNam3\ASP.Net\BTL_ASP.Net_Nhom5\BTL_Nhom5\BTL_ASP.NET_NHOM_5\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\KyHeNam3\ASP.Net\BTL_ASP.Net_Nhom5\BTL_Nhom5\BTL_ASP.NET_NHOM_5\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\KyHeNam3\ASP.Net\BTL_ASP.Net_Nhom5\BTL_Nhom5\BTL_ASP.NET_NHOM_5\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\KyHeNam3\ASP.Net\BTL_ASP.Net_Nhom5\BTL_Nhom5\BTL_ASP.NET_NHOM_5\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\KyHeNam3\ASP.Net\BTL_ASP.Net_Nhom5\BTL_Nhom5\BTL_ASP.NET_NHOM_5\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\KyHeNam3\ASP.Net\BTL_ASP.Net_Nhom5\BTL_Nhom5\BTL_ASP.NET_NHOM_5\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\KyHeNam3\ASP.Net\BTL_ASP.Net_Nhom5\BTL_Nhom5\BTL_ASP.NET_NHOM_5\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\KyHeNam3\ASP.Net\BTL_ASP.Net_Nhom5\BTL_Nhom5\BTL_ASP.NET_NHOM_5\bin\roslyn\Microsoft.Managed.Core.targets
+D:\KyHeNam3\ASP.Net\BTL_ASP.Net_Nhom5\BTL_Nhom5\BTL_ASP.NET_NHOM_5\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\KyHeNam3\ASP.Net\BTL_ASP.Net_Nhom5\BTL_Nhom5\BTL_ASP.NET_NHOM_5\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\KyHeNam3\ASP.Net\BTL_ASP.Net_Nhom5\BTL_Nhom5\BTL_ASP.NET_NHOM_5\bin\roslyn\System.AppContext.dll
+D:\KyHeNam3\ASP.Net\BTL_ASP.Net_Nhom5\BTL_Nhom5\BTL_ASP.NET_NHOM_5\bin\roslyn\System.Collections.Immutable.dll
+D:\KyHeNam3\ASP.Net\BTL_ASP.Net_Nhom5\BTL_Nhom5\BTL_ASP.NET_NHOM_5\bin\roslyn\System.Console.dll
+D:\KyHeNam3\ASP.Net\BTL_ASP.Net_Nhom5\BTL_Nhom5\BTL_ASP.NET_NHOM_5\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+D:\KyHeNam3\ASP.Net\BTL_ASP.Net_Nhom5\BTL_Nhom5\BTL_ASP.NET_NHOM_5\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\KyHeNam3\ASP.Net\BTL_ASP.Net_Nhom5\BTL_Nhom5\BTL_ASP.NET_NHOM_5\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\KyHeNam3\ASP.Net\BTL_ASP.Net_Nhom5\BTL_Nhom5\BTL_ASP.NET_NHOM_5\bin\roslyn\System.Globalization.Calendars.dll
+D:\KyHeNam3\ASP.Net\BTL_ASP.Net_Nhom5\BTL_Nhom5\BTL_ASP.NET_NHOM_5\bin\roslyn\System.IO.Compression.dll
+D:\KyHeNam3\ASP.Net\BTL_ASP.Net_Nhom5\BTL_Nhom5\BTL_ASP.NET_NHOM_5\bin\roslyn\System.IO.Compression.ZipFile.dll
+D:\KyHeNam3\ASP.Net\BTL_ASP.Net_Nhom5\BTL_Nhom5\BTL_ASP.NET_NHOM_5\bin\roslyn\System.IO.FileSystem.dll
+D:\KyHeNam3\ASP.Net\BTL_ASP.Net_Nhom5\BTL_Nhom5\BTL_ASP.NET_NHOM_5\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\KyHeNam3\ASP.Net\BTL_ASP.Net_Nhom5\BTL_Nhom5\BTL_ASP.NET_NHOM_5\bin\roslyn\System.Net.Http.dll
+D:\KyHeNam3\ASP.Net\BTL_ASP.Net_Nhom5\BTL_Nhom5\BTL_ASP.NET_NHOM_5\bin\roslyn\System.Net.Sockets.dll
+D:\KyHeNam3\ASP.Net\BTL_ASP.Net_Nhom5\BTL_Nhom5\BTL_ASP.NET_NHOM_5\bin\roslyn\System.Reflection.Metadata.dll
+D:\KyHeNam3\ASP.Net\BTL_ASP.Net_Nhom5\BTL_Nhom5\BTL_ASP.NET_NHOM_5\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\KyHeNam3\ASP.Net\BTL_ASP.Net_Nhom5\BTL_Nhom5\BTL_ASP.NET_NHOM_5\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\KyHeNam3\ASP.Net\BTL_ASP.Net_Nhom5\BTL_Nhom5\BTL_ASP.NET_NHOM_5\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\KyHeNam3\ASP.Net\BTL_ASP.Net_Nhom5\BTL_Nhom5\BTL_ASP.NET_NHOM_5\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\KyHeNam3\ASP.Net\BTL_ASP.Net_Nhom5\BTL_Nhom5\BTL_ASP.NET_NHOM_5\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\KyHeNam3\ASP.Net\BTL_ASP.Net_Nhom5\BTL_Nhom5\BTL_ASP.NET_NHOM_5\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\KyHeNam3\ASP.Net\BTL_ASP.Net_Nhom5\BTL_Nhom5\BTL_ASP.NET_NHOM_5\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\KyHeNam3\ASP.Net\BTL_ASP.Net_Nhom5\BTL_Nhom5\BTL_ASP.NET_NHOM_5\bin\roslyn\System.ValueTuple.dll
+D:\KyHeNam3\ASP.Net\BTL_ASP.Net_Nhom5\BTL_Nhom5\BTL_ASP.NET_NHOM_5\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\KyHeNam3\ASP.Net\BTL_ASP.Net_Nhom5\BTL_Nhom5\BTL_ASP.NET_NHOM_5\bin\roslyn\System.Xml.XmlDocument.dll
+D:\KyHeNam3\ASP.Net\BTL_ASP.Net_Nhom5\BTL_Nhom5\BTL_ASP.NET_NHOM_5\bin\roslyn\System.Xml.XPath.dll
+D:\KyHeNam3\ASP.Net\BTL_ASP.Net_Nhom5\BTL_Nhom5\BTL_ASP.NET_NHOM_5\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\KyHeNam3\ASP.Net\BTL_ASP.Net_Nhom5\BTL_Nhom5\BTL_ASP.NET_NHOM_5\bin\roslyn\vbc.exe
+D:\KyHeNam3\ASP.Net\BTL_ASP.Net_Nhom5\BTL_Nhom5\BTL_ASP.NET_NHOM_5\bin\roslyn\vbc.exe.config
+D:\KyHeNam3\ASP.Net\BTL_ASP.Net_Nhom5\BTL_Nhom5\BTL_ASP.NET_NHOM_5\bin\roslyn\vbc.rsp
+D:\KyHeNam3\ASP.Net\BTL_ASP.Net_Nhom5\BTL_Nhom5\BTL_ASP.NET_NHOM_5\bin\roslyn\VBCSCompiler.exe
+D:\KyHeNam3\ASP.Net\BTL_ASP.Net_Nhom5\BTL_Nhom5\BTL_ASP.NET_NHOM_5\bin\roslyn\VBCSCompiler.exe.config
+D:\KyHeNam3\ASP.Net\BTL_ASP.Net_Nhom5\BTL_Nhom5\BTL_ASP.NET_NHOM_5\bin\Antlr3.Runtime.dll
+D:\KyHeNam3\ASP.Net\BTL_ASP.Net_Nhom5\BTL_Nhom5\BTL_ASP.NET_NHOM_5\bin\EntityFramework.dll
+D:\KyHeNam3\ASP.Net\BTL_ASP.Net_Nhom5\BTL_Nhom5\BTL_ASP.NET_NHOM_5\bin\EntityFramework.SqlServer.dll
+D:\KyHeNam3\ASP.Net\BTL_ASP.Net_Nhom5\BTL_Nhom5\BTL_ASP.NET_NHOM_5\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\KyHeNam3\ASP.Net\BTL_ASP.Net_Nhom5\BTL_Nhom5\BTL_ASP.NET_NHOM_5\bin\Microsoft.Web.Infrastructure.dll
+D:\KyHeNam3\ASP.Net\BTL_ASP.Net_Nhom5\BTL_Nhom5\BTL_ASP.NET_NHOM_5\bin\Newtonsoft.Json.dll
+D:\KyHeNam3\ASP.Net\BTL_ASP.Net_Nhom5\BTL_Nhom5\BTL_ASP.NET_NHOM_5\bin\PagedList.dll
+D:\KyHeNam3\ASP.Net\BTL_ASP.Net_Nhom5\BTL_Nhom5\BTL_ASP.NET_NHOM_5\bin\PagedList.Mvc.dll
+D:\KyHeNam3\ASP.Net\BTL_ASP.Net_Nhom5\BTL_Nhom5\BTL_ASP.NET_NHOM_5\bin\System.Buffers.dll
+D:\KyHeNam3\ASP.Net\BTL_ASP.Net_Nhom5\BTL_Nhom5\BTL_ASP.NET_NHOM_5\bin\System.Runtime.CompilerServices.Unsafe.dll
+D:\KyHeNam3\ASP.Net\BTL_ASP.Net_Nhom5\BTL_Nhom5\BTL_ASP.NET_NHOM_5\bin\System.Text.Encoding.CodePages.dll
+D:\KyHeNam3\ASP.Net\BTL_ASP.Net_Nhom5\BTL_Nhom5\BTL_ASP.NET_NHOM_5\bin\System.Web.Helpers.dll
+D:\KyHeNam3\ASP.Net\BTL_ASP.Net_Nhom5\BTL_Nhom5\BTL_ASP.NET_NHOM_5\bin\System.Web.Mvc.dll
+D:\KyHeNam3\ASP.Net\BTL_ASP.Net_Nhom5\BTL_Nhom5\BTL_ASP.NET_NHOM_5\bin\System.Web.Optimization.dll
+D:\KyHeNam3\ASP.Net\BTL_ASP.Net_Nhom5\BTL_Nhom5\BTL_ASP.NET_NHOM_5\bin\System.Web.Razor.dll
+D:\KyHeNam3\ASP.Net\BTL_ASP.Net_Nhom5\BTL_Nhom5\BTL_ASP.NET_NHOM_5\bin\System.Web.WebPages.Deployment.dll
+D:\KyHeNam3\ASP.Net\BTL_ASP.Net_Nhom5\BTL_Nhom5\BTL_ASP.NET_NHOM_5\bin\System.Web.WebPages.dll
+D:\KyHeNam3\ASP.Net\BTL_ASP.Net_Nhom5\BTL_Nhom5\BTL_ASP.NET_NHOM_5\bin\System.Web.WebPages.Razor.dll
+D:\KyHeNam3\ASP.Net\BTL_ASP.Net_Nhom5\BTL_Nhom5\BTL_ASP.NET_NHOM_5\bin\WebGrease.dll
+D:\KyHeNam3\ASP.Net\BTL_ASP.Net_Nhom5\BTL_Nhom5\BTL_ASP.NET_NHOM_5\bin\EntityFramework.xml
+D:\KyHeNam3\ASP.Net\BTL_ASP.Net_Nhom5\BTL_Nhom5\BTL_ASP.NET_NHOM_5\bin\EntityFramework.SqlServer.xml
+D:\KyHeNam3\ASP.Net\BTL_ASP.Net_Nhom5\BTL_Nhom5\BTL_ASP.NET_NHOM_5\bin\PagedList.xml
+D:\KyHeNam3\ASP.Net\BTL_ASP.Net_Nhom5\BTL_Nhom5\BTL_ASP.NET_NHOM_5\bin\PagedList.Mvc.xml
+D:\KyHeNam3\ASP.Net\BTL_ASP.Net_Nhom5\BTL_Nhom5\BTL_ASP.NET_NHOM_5\bin\System.Buffers.xml
+D:\KyHeNam3\ASP.Net\BTL_ASP.Net_Nhom5\BTL_Nhom5\BTL_ASP.NET_NHOM_5\bin\System.Runtime.CompilerServices.Unsafe.xml
+D:\KyHeNam3\ASP.Net\BTL_ASP.Net_Nhom5\BTL_Nhom5\BTL_ASP.NET_NHOM_5\bin\System.Text.Encoding.CodePages.xml
+D:\KyHeNam3\ASP.Net\BTL_ASP.Net_Nhom5\BTL_Nhom5\BTL_ASP.NET_NHOM_5\bin\System.Web.Helpers.xml
+D:\KyHeNam3\ASP.Net\BTL_ASP.Net_Nhom5\BTL_Nhom5\BTL_ASP.NET_NHOM_5\bin\System.Web.Mvc.xml
+D:\KyHeNam3\ASP.Net\BTL_ASP.Net_Nhom5\BTL_Nhom5\BTL_ASP.NET_NHOM_5\bin\System.Web.Optimization.xml
+D:\KyHeNam3\ASP.Net\BTL_ASP.Net_Nhom5\BTL_Nhom5\BTL_ASP.NET_NHOM_5\bin\System.Web.Razor.xml
+D:\KyHeNam3\ASP.Net\BTL_ASP.Net_Nhom5\BTL_Nhom5\BTL_ASP.NET_NHOM_5\bin\System.Web.WebPages.xml
+D:\KyHeNam3\ASP.Net\BTL_ASP.Net_Nhom5\BTL_Nhom5\BTL_ASP.NET_NHOM_5\bin\System.Web.WebPages.Deployment.xml
+D:\KyHeNam3\ASP.Net\BTL_ASP.Net_Nhom5\BTL_Nhom5\BTL_ASP.NET_NHOM_5\bin\System.Web.WebPages.Razor.xml
+D:\KyHeNam3\ASP.Net\BTL_ASP.Net_Nhom5\BTL_Nhom5\BTL_ASP.NET_NHOM_5\bin\Newtonsoft.Json.xml
+D:\KyHeNam3\ASP.Net\BTL_ASP.Net_Nhom5\BTL_Nhom5\BTL_ASP.NET_NHOM_5\bin\Antlr3.Runtime.pdb
+D:\KyHeNam3\ASP.Net\BTL_ASP.Net_Nhom5\BTL_Nhom5\BTL_ASP.NET_NHOM_5\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\KyHeNam3\ASP.Net\BTL_ASP.Net_Nhom5\BTL_Nhom5\BTL_ASP.NET_NHOM_5\obj\Debug\BTL_ASP.NET_NHOM_5.csproj.CoreCompileInputs.cache
+D:\KyHeNam3\ASP.Net\BTL_ASP.Net_Nhom5\BTL_Nhom5\BTL_ASP.NET_NHOM_5\obj\Debug\BTL_ASP.NET_NHOM_5.csproj.CopyComplete
+D:\KyHeNam3\ASP.Net\BTL_ASP.Net_Nhom5\BTL_Nhom5\BTL_ASP.NET_NHOM_5\obj\Debug\BTL_ASP.NET_NHOM_5.dll
+D:\KyHeNam3\ASP.Net\BTL_ASP.Net_Nhom5\BTL_Nhom5\BTL_ASP.NET_NHOM_5\obj\Debug\BTL_ASP.NET_NHOM_5.pdb
+D:\KyHeNam3\ASP.Net\BTL_ASP.Net_Nhom5\BTL_Nhom5\BTL_ASP.NET_NHOM_5\obj\Debug\BTL_ASP.NET_NHOM_5.csproj.AssemblyReference.cache
+C:\Users\ADMIN\OneDrive\Máy tính\BTL_ASP.Net\BTL_ASP.Net_Nhom5\BTL_Nhom5\BTL_ASP.NET_NHOM_5\bin\BTL_ASP.NET_NHOM_5.dll.config
+C:\Users\ADMIN\OneDrive\Máy tính\BTL_ASP.Net\BTL_ASP.Net_Nhom5\BTL_Nhom5\BTL_ASP.NET_NHOM_5\bin\BTL_ASP.NET_NHOM_5.dll
+C:\Users\ADMIN\OneDrive\Máy tính\BTL_ASP.Net\BTL_ASP.Net_Nhom5\BTL_Nhom5\BTL_ASP.NET_NHOM_5\bin\BTL_ASP.NET_NHOM_5.pdb
+C:\Users\ADMIN\OneDrive\Máy tính\BTL_ASP.Net\BTL_ASP.Net_Nhom5\BTL_Nhom5\BTL_ASP.NET_NHOM_5\bin\roslyn\csc.exe
+C:\Users\ADMIN\OneDrive\Máy tính\BTL_ASP.Net\BTL_ASP.Net_Nhom5\BTL_Nhom5\BTL_ASP.NET_NHOM_5\bin\roslyn\csc.exe.config
+C:\Users\ADMIN\OneDrive\Máy tính\BTL_ASP.Net\BTL_ASP.Net_Nhom5\BTL_Nhom5\BTL_ASP.NET_NHOM_5\bin\roslyn\csc.rsp
+C:\Users\ADMIN\OneDrive\Máy tính\BTL_ASP.Net\BTL_ASP.Net_Nhom5\BTL_Nhom5\BTL_ASP.NET_NHOM_5\bin\roslyn\csi.exe
+C:\Users\ADMIN\OneDrive\Máy tính\BTL_ASP.Net\BTL_ASP.Net_Nhom5\BTL_Nhom5\BTL_ASP.NET_NHOM_5\bin\roslyn\csi.exe.config
+C:\Users\ADMIN\OneDrive\Máy tính\BTL_ASP.Net\BTL_ASP.Net_Nhom5\BTL_Nhom5\BTL_ASP.NET_NHOM_5\bin\roslyn\csi.rsp
+C:\Users\ADMIN\OneDrive\Máy tính\BTL_ASP.Net\BTL_ASP.Net_Nhom5\BTL_Nhom5\BTL_ASP.NET_NHOM_5\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\ADMIN\OneDrive\Máy tính\BTL_ASP.Net\BTL_ASP.Net_Nhom5\BTL_Nhom5\BTL_ASP.NET_NHOM_5\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\ADMIN\OneDrive\Máy tính\BTL_ASP.Net\BTL_ASP.Net_Nhom5\BTL_Nhom5\BTL_ASP.NET_NHOM_5\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\ADMIN\OneDrive\Máy tính\BTL_ASP.Net\BTL_ASP.Net_Nhom5\BTL_Nhom5\BTL_ASP.NET_NHOM_5\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\ADMIN\OneDrive\Máy tính\BTL_ASP.Net\BTL_ASP.Net_Nhom5\BTL_Nhom5\BTL_ASP.NET_NHOM_5\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\ADMIN\OneDrive\Máy tính\BTL_ASP.Net\BTL_ASP.Net_Nhom5\BTL_Nhom5\BTL_ASP.NET_NHOM_5\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\ADMIN\OneDrive\Máy tính\BTL_ASP.Net\BTL_ASP.Net_Nhom5\BTL_Nhom5\BTL_ASP.NET_NHOM_5\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\ADMIN\OneDrive\Máy tính\BTL_ASP.Net\BTL_ASP.Net_Nhom5\BTL_Nhom5\BTL_ASP.NET_NHOM_5\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\ADMIN\OneDrive\Máy tính\BTL_ASP.Net\BTL_ASP.Net_Nhom5\BTL_Nhom5\BTL_ASP.NET_NHOM_5\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\ADMIN\OneDrive\Máy tính\BTL_ASP.Net\BTL_ASP.Net_Nhom5\BTL_Nhom5\BTL_ASP.NET_NHOM_5\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\ADMIN\OneDrive\Máy tính\BTL_ASP.Net\BTL_ASP.Net_Nhom5\BTL_Nhom5\BTL_ASP.NET_NHOM_5\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\ADMIN\OneDrive\Máy tính\BTL_ASP.Net\BTL_ASP.Net_Nhom5\BTL_Nhom5\BTL_ASP.NET_NHOM_5\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\ADMIN\OneDrive\Máy tính\BTL_ASP.Net\BTL_ASP.Net_Nhom5\BTL_Nhom5\BTL_ASP.NET_NHOM_5\bin\roslyn\System.AppContext.dll
+C:\Users\ADMIN\OneDrive\Máy tính\BTL_ASP.Net\BTL_ASP.Net_Nhom5\BTL_Nhom5\BTL_ASP.NET_NHOM_5\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\ADMIN\OneDrive\Máy tính\BTL_ASP.Net\BTL_ASP.Net_Nhom5\BTL_Nhom5\BTL_ASP.NET_NHOM_5\bin\roslyn\System.Console.dll
+C:\Users\ADMIN\OneDrive\Máy tính\BTL_ASP.Net\BTL_ASP.Net_Nhom5\BTL_Nhom5\BTL_ASP.NET_NHOM_5\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\ADMIN\OneDrive\Máy tính\BTL_ASP.Net\BTL_ASP.Net_Nhom5\BTL_Nhom5\BTL_ASP.NET_NHOM_5\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\ADMIN\OneDrive\Máy tính\BTL_ASP.Net\BTL_ASP.Net_Nhom5\BTL_Nhom5\BTL_ASP.NET_NHOM_5\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\ADMIN\OneDrive\Máy tính\BTL_ASP.Net\BTL_ASP.Net_Nhom5\BTL_Nhom5\BTL_ASP.NET_NHOM_5\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\ADMIN\OneDrive\Máy tính\BTL_ASP.Net\BTL_ASP.Net_Nhom5\BTL_Nhom5\BTL_ASP.NET_NHOM_5\bin\roslyn\System.IO.Compression.dll
+C:\Users\ADMIN\OneDrive\Máy tính\BTL_ASP.Net\BTL_ASP.Net_Nhom5\BTL_Nhom5\BTL_ASP.NET_NHOM_5\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\ADMIN\OneDrive\Máy tính\BTL_ASP.Net\BTL_ASP.Net_Nhom5\BTL_Nhom5\BTL_ASP.NET_NHOM_5\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\ADMIN\OneDrive\Máy tính\BTL_ASP.Net\BTL_ASP.Net_Nhom5\BTL_Nhom5\BTL_ASP.NET_NHOM_5\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\ADMIN\OneDrive\Máy tính\BTL_ASP.Net\BTL_ASP.Net_Nhom5\BTL_Nhom5\BTL_ASP.NET_NHOM_5\bin\roslyn\System.Net.Http.dll
+C:\Users\ADMIN\OneDrive\Máy tính\BTL_ASP.Net\BTL_ASP.Net_Nhom5\BTL_Nhom5\BTL_ASP.NET_NHOM_5\bin\roslyn\System.Net.Sockets.dll
+C:\Users\ADMIN\OneDrive\Máy tính\BTL_ASP.Net\BTL_ASP.Net_Nhom5\BTL_Nhom5\BTL_ASP.NET_NHOM_5\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\ADMIN\OneDrive\Máy tính\BTL_ASP.Net\BTL_ASP.Net_Nhom5\BTL_Nhom5\BTL_ASP.NET_NHOM_5\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\ADMIN\OneDrive\Máy tính\BTL_ASP.Net\BTL_ASP.Net_Nhom5\BTL_Nhom5\BTL_ASP.NET_NHOM_5\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\ADMIN\OneDrive\Máy tính\BTL_ASP.Net\BTL_ASP.Net_Nhom5\BTL_Nhom5\BTL_ASP.NET_NHOM_5\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\ADMIN\OneDrive\Máy tính\BTL_ASP.Net\BTL_ASP.Net_Nhom5\BTL_Nhom5\BTL_ASP.NET_NHOM_5\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\ADMIN\OneDrive\Máy tính\BTL_ASP.Net\BTL_ASP.Net_Nhom5\BTL_Nhom5\BTL_ASP.NET_NHOM_5\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\ADMIN\OneDrive\Máy tính\BTL_ASP.Net\BTL_ASP.Net_Nhom5\BTL_Nhom5\BTL_ASP.NET_NHOM_5\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\ADMIN\OneDrive\Máy tính\BTL_ASP.Net\BTL_ASP.Net_Nhom5\BTL_Nhom5\BTL_ASP.NET_NHOM_5\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\ADMIN\OneDrive\Máy tính\BTL_ASP.Net\BTL_ASP.Net_Nhom5\BTL_Nhom5\BTL_ASP.NET_NHOM_5\bin\roslyn\System.ValueTuple.dll
+C:\Users\ADMIN\OneDrive\Máy tính\BTL_ASP.Net\BTL_ASP.Net_Nhom5\BTL_Nhom5\BTL_ASP.NET_NHOM_5\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\ADMIN\OneDrive\Máy tính\BTL_ASP.Net\BTL_ASP.Net_Nhom5\BTL_Nhom5\BTL_ASP.NET_NHOM_5\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\ADMIN\OneDrive\Máy tính\BTL_ASP.Net\BTL_ASP.Net_Nhom5\BTL_Nhom5\BTL_ASP.NET_NHOM_5\bin\roslyn\System.Xml.XPath.dll
+C:\Users\ADMIN\OneDrive\Máy tính\BTL_ASP.Net\BTL_ASP.Net_Nhom5\BTL_Nhom5\BTL_ASP.NET_NHOM_5\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\ADMIN\OneDrive\Máy tính\BTL_ASP.Net\BTL_ASP.Net_Nhom5\BTL_Nhom5\BTL_ASP.NET_NHOM_5\bin\roslyn\vbc.exe
+C:\Users\ADMIN\OneDrive\Máy tính\BTL_ASP.Net\BTL_ASP.Net_Nhom5\BTL_Nhom5\BTL_ASP.NET_NHOM_5\bin\roslyn\vbc.exe.config
+C:\Users\ADMIN\OneDrive\Máy tính\BTL_ASP.Net\BTL_ASP.Net_Nhom5\BTL_Nhom5\BTL_ASP.NET_NHOM_5\bin\roslyn\vbc.rsp
+C:\Users\ADMIN\OneDrive\Máy tính\BTL_ASP.Net\BTL_ASP.Net_Nhom5\BTL_Nhom5\BTL_ASP.NET_NHOM_5\bin\roslyn\VBCSCompiler.exe
+C:\Users\ADMIN\OneDrive\Máy tính\BTL_ASP.Net\BTL_ASP.Net_Nhom5\BTL_Nhom5\BTL_ASP.NET_NHOM_5\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\ADMIN\OneDrive\Máy tính\BTL_ASP.Net\BTL_ASP.Net_Nhom5\BTL_Nhom5\BTL_ASP.NET_NHOM_5\bin\Antlr3.Runtime.dll
+C:\Users\ADMIN\OneDrive\Máy tính\BTL_ASP.Net\BTL_ASP.Net_Nhom5\BTL_Nhom5\BTL_ASP.NET_NHOM_5\bin\EntityFramework.dll
+C:\Users\ADMIN\OneDrive\Máy tính\BTL_ASP.Net\BTL_ASP.Net_Nhom5\BTL_Nhom5\BTL_ASP.NET_NHOM_5\bin\EntityFramework.SqlServer.dll
+C:\Users\ADMIN\OneDrive\Máy tính\BTL_ASP.Net\BTL_ASP.Net_Nhom5\BTL_Nhom5\BTL_ASP.NET_NHOM_5\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\ADMIN\OneDrive\Máy tính\BTL_ASP.Net\BTL_ASP.Net_Nhom5\BTL_Nhom5\BTL_ASP.NET_NHOM_5\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\ADMIN\OneDrive\Máy tính\BTL_ASP.Net\BTL_ASP.Net_Nhom5\BTL_Nhom5\BTL_ASP.NET_NHOM_5\bin\Newtonsoft.Json.dll
+C:\Users\ADMIN\OneDrive\Máy tính\BTL_ASP.Net\BTL_ASP.Net_Nhom5\BTL_Nhom5\BTL_ASP.NET_NHOM_5\bin\PagedList.dll
+C:\Users\ADMIN\OneDrive\Máy tính\BTL_ASP.Net\BTL_ASP.Net_Nhom5\BTL_Nhom5\BTL_ASP.NET_NHOM_5\bin\PagedList.Mvc.dll
+C:\Users\ADMIN\OneDrive\Máy tính\BTL_ASP.Net\BTL_ASP.Net_Nhom5\BTL_Nhom5\BTL_ASP.NET_NHOM_5\bin\System.Buffers.dll
+C:\Users\ADMIN\OneDrive\Máy tính\BTL_ASP.Net\BTL_ASP.Net_Nhom5\BTL_Nhom5\BTL_ASP.NET_NHOM_5\bin\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\ADMIN\OneDrive\Máy tính\BTL_ASP.Net\BTL_ASP.Net_Nhom5\BTL_Nhom5\BTL_ASP.NET_NHOM_5\bin\System.Text.Encoding.CodePages.dll
+C:\Users\ADMIN\OneDrive\Máy tính\BTL_ASP.Net\BTL_ASP.Net_Nhom5\BTL_Nhom5\BTL_ASP.NET_NHOM_5\bin\System.Web.Helpers.dll
+C:\Users\ADMIN\OneDrive\Máy tính\BTL_ASP.Net\BTL_ASP.Net_Nhom5\BTL_Nhom5\BTL_ASP.NET_NHOM_5\bin\System.Web.Mvc.dll
+C:\Users\ADMIN\OneDrive\Máy tính\BTL_ASP.Net\BTL_ASP.Net_Nhom5\BTL_Nhom5\BTL_ASP.NET_NHOM_5\bin\System.Web.Optimization.dll
+C:\Users\ADMIN\OneDrive\Máy tính\BTL_ASP.Net\BTL_ASP.Net_Nhom5\BTL_Nhom5\BTL_ASP.NET_NHOM_5\bin\System.Web.Razor.dll
+C:\Users\ADMIN\OneDrive\Máy tính\BTL_ASP.Net\BTL_ASP.Net_Nhom5\BTL_Nhom5\BTL_ASP.NET_NHOM_5\bin\System.Web.WebPages.Deployment.dll
+C:\Users\ADMIN\OneDrive\Máy tính\BTL_ASP.Net\BTL_ASP.Net_Nhom5\BTL_Nhom5\BTL_ASP.NET_NHOM_5\bin\System.Web.WebPages.dll
+C:\Users\ADMIN\OneDrive\Máy tính\BTL_ASP.Net\BTL_ASP.Net_Nhom5\BTL_Nhom5\BTL_ASP.NET_NHOM_5\bin\System.Web.WebPages.Razor.dll
+C:\Users\ADMIN\OneDrive\Máy tính\BTL_ASP.Net\BTL_ASP.Net_Nhom5\BTL_Nhom5\BTL_ASP.NET_NHOM_5\bin\WebGrease.dll
+C:\Users\ADMIN\OneDrive\Máy tính\BTL_ASP.Net\BTL_ASP.Net_Nhom5\BTL_Nhom5\BTL_ASP.NET_NHOM_5\bin\EntityFramework.xml
+C:\Users\ADMIN\OneDrive\Máy tính\BTL_ASP.Net\BTL_ASP.Net_Nhom5\BTL_Nhom5\BTL_ASP.NET_NHOM_5\bin\EntityFramework.SqlServer.xml
+C:\Users\ADMIN\OneDrive\Máy tính\BTL_ASP.Net\BTL_ASP.Net_Nhom5\BTL_Nhom5\BTL_ASP.NET_NHOM_5\bin\PagedList.xml
+C:\Users\ADMIN\OneDrive\Máy tính\BTL_ASP.Net\BTL_ASP.Net_Nhom5\BTL_Nhom5\BTL_ASP.NET_NHOM_5\bin\PagedList.Mvc.xml
+C:\Users\ADMIN\OneDrive\Máy tính\BTL_ASP.Net\BTL_ASP.Net_Nhom5\BTL_Nhom5\BTL_ASP.NET_NHOM_5\bin\System.Buffers.xml
+C:\Users\ADMIN\OneDrive\Máy tính\BTL_ASP.Net\BTL_ASP.Net_Nhom5\BTL_Nhom5\BTL_ASP.NET_NHOM_5\bin\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\ADMIN\OneDrive\Máy tính\BTL_ASP.Net\BTL_ASP.Net_Nhom5\BTL_Nhom5\BTL_ASP.NET_NHOM_5\bin\System.Text.Encoding.CodePages.xml
+C:\Users\ADMIN\OneDrive\Máy tính\BTL_ASP.Net\BTL_ASP.Net_Nhom5\BTL_Nhom5\BTL_ASP.NET_NHOM_5\bin\System.Web.Helpers.xml
+C:\Users\ADMIN\OneDrive\Máy tính\BTL_ASP.Net\BTL_ASP.Net_Nhom5\BTL_Nhom5\BTL_ASP.NET_NHOM_5\bin\System.Web.Mvc.xml
+C:\Users\ADMIN\OneDrive\Máy tính\BTL_ASP.Net\BTL_ASP.Net_Nhom5\BTL_Nhom5\BTL_ASP.NET_NHOM_5\bin\System.Web.Optimization.xml
+C:\Users\ADMIN\OneDrive\Máy tính\BTL_ASP.Net\BTL_ASP.Net_Nhom5\BTL_Nhom5\BTL_ASP.NET_NHOM_5\bin\System.Web.Razor.xml
+C:\Users\ADMIN\OneDrive\Máy tính\BTL_ASP.Net\BTL_ASP.Net_Nhom5\BTL_Nhom5\BTL_ASP.NET_NHOM_5\bin\System.Web.WebPages.xml
+C:\Users\ADMIN\OneDrive\Máy tính\BTL_ASP.Net\BTL_ASP.Net_Nhom5\BTL_Nhom5\BTL_ASP.NET_NHOM_5\bin\System.Web.WebPages.Deployment.xml
+C:\Users\ADMIN\OneDrive\Máy tính\BTL_ASP.Net\BTL_ASP.Net_Nhom5\BTL_Nhom5\BTL_ASP.NET_NHOM_5\bin\System.Web.WebPages.Razor.xml
+C:\Users\ADMIN\OneDrive\Máy tính\BTL_ASP.Net\BTL_ASP.Net_Nhom5\BTL_Nhom5\BTL_ASP.NET_NHOM_5\bin\Newtonsoft.Json.xml
+C:\Users\ADMIN\OneDrive\Máy tính\BTL_ASP.Net\BTL_ASP.Net_Nhom5\BTL_Nhom5\BTL_ASP.NET_NHOM_5\bin\Antlr3.Runtime.pdb
+C:\Users\ADMIN\OneDrive\Máy tính\BTL_ASP.Net\BTL_ASP.Net_Nhom5\BTL_Nhom5\BTL_ASP.NET_NHOM_5\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\ADMIN\OneDrive\Máy tính\BTL_ASP.Net\BTL_ASP.Net_Nhom5\BTL_Nhom5\BTL_ASP.NET_NHOM_5\obj\Debug\BTL_ASP.NET_NHOM_5.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\OneDrive\Máy tính\BTL_ASP.Net\BTL_ASP.Net_Nhom5\BTL_Nhom5\BTL_ASP.NET_NHOM_5\obj\Debug\BTL_ASP.NET_NHOM_5.csproj.CopyComplete
+C:\Users\ADMIN\OneDrive\Máy tính\BTL_ASP.Net\BTL_ASP.Net_Nhom5\BTL_Nhom5\BTL_ASP.NET_NHOM_5\obj\Debug\BTL_ASP.NET_NHOM_5.dll
+C:\Users\ADMIN\OneDrive\Máy tính\BTL_ASP.Net\BTL_ASP.Net_Nhom5\BTL_Nhom5\BTL_ASP.NET_NHOM_5\obj\Debug\BTL_ASP.NET_NHOM_5.pdb
+C:\Users\ADMIN\OneDrive\Máy tính\BTL_ASP.Net\BTL_ASP.Net_Nhom5\BTL_Nhom5\BTL_ASP.NET_NHOM_5\obj\Debug\BTL_ASP.NET_NHOM_5.csproj.AssemblyReference.cache
+D:\KyHeNam3\BTL_ASP.Net\BTL_ASP.Net_Nhom5\BTL_Nhom5\BTL_ASP.NET_NHOM_5\bin\BTL_ASP.NET_NHOM_5.dll.config
+D:\KyHeNam3\BTL_ASP.Net\BTL_ASP.Net_Nhom5\BTL_Nhom5\BTL_ASP.NET_NHOM_5\bin\BTL_ASP.NET_NHOM_5.dll
+D:\KyHeNam3\BTL_ASP.Net\BTL_ASP.Net_Nhom5\BTL_Nhom5\BTL_ASP.NET_NHOM_5\bin\BTL_ASP.NET_NHOM_5.pdb
+D:\KyHeNam3\BTL_ASP.Net\BTL_ASP.Net_Nhom5\BTL_Nhom5\BTL_ASP.NET_NHOM_5\bin\roslyn\csc.exe
+D:\KyHeNam3\BTL_ASP.Net\BTL_ASP.Net_Nhom5\BTL_Nhom5\BTL_ASP.NET_NHOM_5\bin\roslyn\csc.exe.config
+D:\KyHeNam3\BTL_ASP.Net\BTL_ASP.Net_Nhom5\BTL_Nhom5\BTL_ASP.NET_NHOM_5\bin\roslyn\csc.rsp
+D:\KyHeNam3\BTL_ASP.Net\BTL_ASP.Net_Nhom5\BTL_Nhom5\BTL_ASP.NET_NHOM_5\bin\roslyn\csi.exe
+D:\KyHeNam3\BTL_ASP.Net\BTL_ASP.Net_Nhom5\BTL_Nhom5\BTL_ASP.NET_NHOM_5\bin\roslyn\csi.exe.config
+D:\KyHeNam3\BTL_ASP.Net\BTL_ASP.Net_Nhom5\BTL_Nhom5\BTL_ASP.NET_NHOM_5\bin\roslyn\csi.rsp
+D:\KyHeNam3\BTL_ASP.Net\BTL_ASP.Net_Nhom5\BTL_Nhom5\BTL_ASP.NET_NHOM_5\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\KyHeNam3\BTL_ASP.Net\BTL_ASP.Net_Nhom5\BTL_Nhom5\BTL_ASP.NET_NHOM_5\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\KyHeNam3\BTL_ASP.Net\BTL_ASP.Net_Nhom5\BTL_Nhom5\BTL_ASP.NET_NHOM_5\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\KyHeNam3\BTL_ASP.Net\BTL_ASP.Net_Nhom5\BTL_Nhom5\BTL_ASP.NET_NHOM_5\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\KyHeNam3\BTL_ASP.Net\BTL_ASP.Net_Nhom5\BTL_Nhom5\BTL_ASP.NET_NHOM_5\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\KyHeNam3\BTL_ASP.Net\BTL_ASP.Net_Nhom5\BTL_Nhom5\BTL_ASP.NET_NHOM_5\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\KyHeNam3\BTL_ASP.Net\BTL_ASP.Net_Nhom5\BTL_Nhom5\BTL_ASP.NET_NHOM_5\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\KyHeNam3\BTL_ASP.Net\BTL_ASP.Net_Nhom5\BTL_Nhom5\BTL_ASP.NET_NHOM_5\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\KyHeNam3\BTL_ASP.Net\BTL_ASP.Net_Nhom5\BTL_Nhom5\BTL_ASP.NET_NHOM_5\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\KyHeNam3\BTL_ASP.Net\BTL_ASP.Net_Nhom5\BTL_Nhom5\BTL_ASP.NET_NHOM_5\bin\roslyn\Microsoft.Managed.Core.targets
+D:\KyHeNam3\BTL_ASP.Net\BTL_ASP.Net_Nhom5\BTL_Nhom5\BTL_ASP.NET_NHOM_5\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\KyHeNam3\BTL_ASP.Net\BTL_ASP.Net_Nhom5\BTL_Nhom5\BTL_ASP.NET_NHOM_5\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\KyHeNam3\BTL_ASP.Net\BTL_ASP.Net_Nhom5\BTL_Nhom5\BTL_ASP.NET_NHOM_5\bin\roslyn\System.AppContext.dll
+D:\KyHeNam3\BTL_ASP.Net\BTL_ASP.Net_Nhom5\BTL_Nhom5\BTL_ASP.NET_NHOM_5\bin\roslyn\System.Collections.Immutable.dll
+D:\KyHeNam3\BTL_ASP.Net\BTL_ASP.Net_Nhom5\BTL_Nhom5\BTL_ASP.NET_NHOM_5\bin\roslyn\System.Console.dll
+D:\KyHeNam3\BTL_ASP.Net\BTL_ASP.Net_Nhom5\BTL_Nhom5\BTL_ASP.NET_NHOM_5\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+D:\KyHeNam3\BTL_ASP.Net\BTL_ASP.Net_Nhom5\BTL_Nhom5\BTL_ASP.NET_NHOM_5\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\KyHeNam3\BTL_ASP.Net\BTL_ASP.Net_Nhom5\BTL_Nhom5\BTL_ASP.NET_NHOM_5\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\KyHeNam3\BTL_ASP.Net\BTL_ASP.Net_Nhom5\BTL_Nhom5\BTL_ASP.NET_NHOM_5\bin\roslyn\System.Globalization.Calendars.dll
+D:\KyHeNam3\BTL_ASP.Net\BTL_ASP.Net_Nhom5\BTL_Nhom5\BTL_ASP.NET_NHOM_5\bin\roslyn\System.IO.Compression.dll
+D:\KyHeNam3\BTL_ASP.Net\BTL_ASP.Net_Nhom5\BTL_Nhom5\BTL_ASP.NET_NHOM_5\bin\roslyn\System.IO.Compression.ZipFile.dll
+D:\KyHeNam3\BTL_ASP.Net\BTL_ASP.Net_Nhom5\BTL_Nhom5\BTL_ASP.NET_NHOM_5\bin\roslyn\System.IO.FileSystem.dll
+D:\KyHeNam3\BTL_ASP.Net\BTL_ASP.Net_Nhom5\BTL_Nhom5\BTL_ASP.NET_NHOM_5\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\KyHeNam3\BTL_ASP.Net\BTL_ASP.Net_Nhom5\BTL_Nhom5\BTL_ASP.NET_NHOM_5\bin\roslyn\System.Net.Http.dll
+D:\KyHeNam3\BTL_ASP.Net\BTL_ASP.Net_Nhom5\BTL_Nhom5\BTL_ASP.NET_NHOM_5\bin\roslyn\System.Net.Sockets.dll
+D:\KyHeNam3\BTL_ASP.Net\BTL_ASP.Net_Nhom5\BTL_Nhom5\BTL_ASP.NET_NHOM_5\bin\roslyn\System.Reflection.Metadata.dll
+D:\KyHeNam3\BTL_ASP.Net\BTL_ASP.Net_Nhom5\BTL_Nhom5\BTL_ASP.NET_NHOM_5\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\KyHeNam3\BTL_ASP.Net\BTL_ASP.Net_Nhom5\BTL_Nhom5\BTL_ASP.NET_NHOM_5\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\KyHeNam3\BTL_ASP.Net\BTL_ASP.Net_Nhom5\BTL_Nhom5\BTL_ASP.NET_NHOM_5\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\KyHeNam3\BTL_ASP.Net\BTL_ASP.Net_Nhom5\BTL_Nhom5\BTL_ASP.NET_NHOM_5\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\KyHeNam3\BTL_ASP.Net\BTL_ASP.Net_Nhom5\BTL_Nhom5\BTL_ASP.NET_NHOM_5\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\KyHeNam3\BTL_ASP.Net\BTL_ASP.Net_Nhom5\BTL_Nhom5\BTL_ASP.NET_NHOM_5\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\KyHeNam3\BTL_ASP.Net\BTL_ASP.Net_Nhom5\BTL_Nhom5\BTL_ASP.NET_NHOM_5\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\KyHeNam3\BTL_ASP.Net\BTL_ASP.Net_Nhom5\BTL_Nhom5\BTL_ASP.NET_NHOM_5\bin\roslyn\System.ValueTuple.dll
+D:\KyHeNam3\BTL_ASP.Net\BTL_ASP.Net_Nhom5\BTL_Nhom5\BTL_ASP.NET_NHOM_5\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\KyHeNam3\BTL_ASP.Net\BTL_ASP.Net_Nhom5\BTL_Nhom5\BTL_ASP.NET_NHOM_5\bin\roslyn\System.Xml.XmlDocument.dll
+D:\KyHeNam3\BTL_ASP.Net\BTL_ASP.Net_Nhom5\BTL_Nhom5\BTL_ASP.NET_NHOM_5\bin\roslyn\System.Xml.XPath.dll
+D:\KyHeNam3\BTL_ASP.Net\BTL_ASP.Net_Nhom5\BTL_Nhom5\BTL_ASP.NET_NHOM_5\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\KyHeNam3\BTL_ASP.Net\BTL_ASP.Net_Nhom5\BTL_Nhom5\BTL_ASP.NET_NHOM_5\bin\roslyn\vbc.exe
+D:\KyHeNam3\BTL_ASP.Net\BTL_ASP.Net_Nhom5\BTL_Nhom5\BTL_ASP.NET_NHOM_5\bin\roslyn\vbc.exe.config
+D:\KyHeNam3\BTL_ASP.Net\BTL_ASP.Net_Nhom5\BTL_Nhom5\BTL_ASP.NET_NHOM_5\bin\roslyn\vbc.rsp
+D:\KyHeNam3\BTL_ASP.Net\BTL_ASP.Net_Nhom5\BTL_Nhom5\BTL_ASP.NET_NHOM_5\bin\roslyn\VBCSCompiler.exe
+D:\KyHeNam3\BTL_ASP.Net\BTL_ASP.Net_Nhom5\BTL_Nhom5\BTL_ASP.NET_NHOM_5\bin\roslyn\VBCSCompiler.exe.config
+D:\KyHeNam3\BTL_ASP.Net\BTL_ASP.Net_Nhom5\BTL_Nhom5\BTL_ASP.NET_NHOM_5\bin\Antlr3.Runtime.dll
+D:\KyHeNam3\BTL_ASP.Net\BTL_ASP.Net_Nhom5\BTL_Nhom5\BTL_ASP.NET_NHOM_5\bin\EntityFramework.dll
+D:\KyHeNam3\BTL_ASP.Net\BTL_ASP.Net_Nhom5\BTL_Nhom5\BTL_ASP.NET_NHOM_5\bin\EntityFramework.SqlServer.dll
+D:\KyHeNam3\BTL_ASP.Net\BTL_ASP.Net_Nhom5\BTL_Nhom5\BTL_ASP.NET_NHOM_5\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\KyHeNam3\BTL_ASP.Net\BTL_ASP.Net_Nhom5\BTL_Nhom5\BTL_ASP.NET_NHOM_5\bin\Microsoft.Web.Infrastructure.dll
+D:\KyHeNam3\BTL_ASP.Net\BTL_ASP.Net_Nhom5\BTL_Nhom5\BTL_ASP.NET_NHOM_5\bin\Newtonsoft.Json.dll
+D:\KyHeNam3\BTL_ASP.Net\BTL_ASP.Net_Nhom5\BTL_Nhom5\BTL_ASP.NET_NHOM_5\bin\PagedList.dll
+D:\KyHeNam3\BTL_ASP.Net\BTL_ASP.Net_Nhom5\BTL_Nhom5\BTL_ASP.NET_NHOM_5\bin\PagedList.Mvc.dll
+D:\KyHeNam3\BTL_ASP.Net\BTL_ASP.Net_Nhom5\BTL_Nhom5\BTL_ASP.NET_NHOM_5\bin\System.Buffers.dll
+D:\KyHeNam3\BTL_ASP.Net\BTL_ASP.Net_Nhom5\BTL_Nhom5\BTL_ASP.NET_NHOM_5\bin\System.Runtime.CompilerServices.Unsafe.dll
+D:\KyHeNam3\BTL_ASP.Net\BTL_ASP.Net_Nhom5\BTL_Nhom5\BTL_ASP.NET_NHOM_5\bin\System.Text.Encoding.CodePages.dll
+D:\KyHeNam3\BTL_ASP.Net\BTL_ASP.Net_Nhom5\BTL_Nhom5\BTL_ASP.NET_NHOM_5\bin\System.Web.Helpers.dll
+D:\KyHeNam3\BTL_ASP.Net\BTL_ASP.Net_Nhom5\BTL_Nhom5\BTL_ASP.NET_NHOM_5\bin\System.Web.Mvc.dll
+D:\KyHeNam3\BTL_ASP.Net\BTL_ASP.Net_Nhom5\BTL_Nhom5\BTL_ASP.NET_NHOM_5\bin\System.Web.Optimization.dll
+D:\KyHeNam3\BTL_ASP.Net\BTL_ASP.Net_Nhom5\BTL_Nhom5\BTL_ASP.NET_NHOM_5\bin\System.Web.Razor.dll
+D:\KyHeNam3\BTL_ASP.Net\BTL_ASP.Net_Nhom5\BTL_Nhom5\BTL_ASP.NET_NHOM_5\bin\System.Web.WebPages.Deployment.dll
+D:\KyHeNam3\BTL_ASP.Net\BTL_ASP.Net_Nhom5\BTL_Nhom5\BTL_ASP.NET_NHOM_5\bin\System.Web.WebPages.dll
+D:\KyHeNam3\BTL_ASP.Net\BTL_ASP.Net_Nhom5\BTL_Nhom5\BTL_ASP.NET_NHOM_5\bin\System.Web.WebPages.Razor.dll
+D:\KyHeNam3\BTL_ASP.Net\BTL_ASP.Net_Nhom5\BTL_Nhom5\BTL_ASP.NET_NHOM_5\bin\WebGrease.dll
+D:\KyHeNam3\BTL_ASP.Net\BTL_ASP.Net_Nhom5\BTL_Nhom5\BTL_ASP.NET_NHOM_5\bin\EntityFramework.xml
+D:\KyHeNam3\BTL_ASP.Net\BTL_ASP.Net_Nhom5\BTL_Nhom5\BTL_ASP.NET_NHOM_5\bin\EntityFramework.SqlServer.xml
+D:\KyHeNam3\BTL_ASP.Net\BTL_ASP.Net_Nhom5\BTL_Nhom5\BTL_ASP.NET_NHOM_5\bin\PagedList.xml
+D:\KyHeNam3\BTL_ASP.Net\BTL_ASP.Net_Nhom5\BTL_Nhom5\BTL_ASP.NET_NHOM_5\bin\PagedList.Mvc.xml
+D:\KyHeNam3\BTL_ASP.Net\BTL_ASP.Net_Nhom5\BTL_Nhom5\BTL_ASP.NET_NHOM_5\bin\System.Buffers.xml
+D:\KyHeNam3\BTL_ASP.Net\BTL_ASP.Net_Nhom5\BTL_Nhom5\BTL_ASP.NET_NHOM_5\bin\System.Runtime.CompilerServices.Unsafe.xml
+D:\KyHeNam3\BTL_ASP.Net\BTL_ASP.Net_Nhom5\BTL_Nhom5\BTL_ASP.NET_NHOM_5\bin\System.Text.Encoding.CodePages.xml
+D:\KyHeNam3\BTL_ASP.Net\BTL_ASP.Net_Nhom5\BTL_Nhom5\BTL_ASP.NET_NHOM_5\bin\System.Web.Helpers.xml
+D:\KyHeNam3\BTL_ASP.Net\BTL_ASP.Net_Nhom5\BTL_Nhom5\BTL_ASP.NET_NHOM_5\bin\System.Web.Mvc.xml
+D:\KyHeNam3\BTL_ASP.Net\BTL_ASP.Net_Nhom5\BTL_Nhom5\BTL_ASP.NET_NHOM_5\bin\System.Web.Optimization.xml
+D:\KyHeNam3\BTL_ASP.Net\BTL_ASP.Net_Nhom5\BTL_Nhom5\BTL_ASP.NET_NHOM_5\bin\System.Web.Razor.xml
+D:\KyHeNam3\BTL_ASP.Net\BTL_ASP.Net_Nhom5\BTL_Nhom5\BTL_ASP.NET_NHOM_5\bin\System.Web.WebPages.xml
+D:\KyHeNam3\BTL_ASP.Net\BTL_ASP.Net_Nhom5\BTL_Nhom5\BTL_ASP.NET_NHOM_5\bin\System.Web.WebPages.Deployment.xml
+D:\KyHeNam3\BTL_ASP.Net\BTL_ASP.Net_Nhom5\BTL_Nhom5\BTL_ASP.NET_NHOM_5\bin\System.Web.WebPages.Razor.xml
+D:\KyHeNam3\BTL_ASP.Net\BTL_ASP.Net_Nhom5\BTL_Nhom5\BTL_ASP.NET_NHOM_5\bin\Newtonsoft.Json.xml
+D:\KyHeNam3\BTL_ASP.Net\BTL_ASP.Net_Nhom5\BTL_Nhom5\BTL_ASP.NET_NHOM_5\bin\Antlr3.Runtime.pdb
+D:\KyHeNam3\BTL_ASP.Net\BTL_ASP.Net_Nhom5\BTL_Nhom5\BTL_ASP.NET_NHOM_5\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\KyHeNam3\BTL_ASP.Net\BTL_ASP.Net_Nhom5\BTL_Nhom5\BTL_ASP.NET_NHOM_5\obj\Debug\BTL_ASP.NET_NHOM_5.csproj.AssemblyReference.cache
+D:\KyHeNam3\BTL_ASP.Net\BTL_ASP.Net_Nhom5\BTL_Nhom5\BTL_ASP.NET_NHOM_5\obj\Debug\BTL_ASP.NET_NHOM_5.csproj.CoreCompileInputs.cache
+D:\KyHeNam3\BTL_ASP.Net\BTL_ASP.Net_Nhom5\BTL_Nhom5\BTL_ASP.NET_NHOM_5\obj\Debug\BTL_ASP.NET_NHOM_5.csproj.CopyComplete
+D:\KyHeNam3\BTL_ASP.Net\BTL_ASP.Net_Nhom5\BTL_Nhom5\BTL_ASP.NET_NHOM_5\obj\Debug\BTL_ASP.NET_NHOM_5.dll
+D:\KyHeNam3\BTL_ASP.Net\BTL_ASP.Net_Nhom5\BTL_Nhom5\BTL_ASP.NET_NHOM_5\obj\Debug\BTL_ASP.NET_NHOM_5.pdb
+D:\Hoc olline\CNTTA\Nhom4\BTL_ASP.Net\BTL_ASP.Net_Nhom5\BTL_Nhom5\BTL_ASP.NET_NHOM_5\bin\BTL_ASP.NET_NHOM_5.dll.config
+D:\Hoc olline\CNTTA\Nhom4\BTL_ASP.Net\BTL_ASP.Net_Nhom5\BTL_Nhom5\BTL_ASP.NET_NHOM_5\bin\BTL_ASP.NET_NHOM_5.dll
+D:\Hoc olline\CNTTA\Nhom4\BTL_ASP.Net\BTL_ASP.Net_Nhom5\BTL_Nhom5\BTL_ASP.NET_NHOM_5\bin\BTL_ASP.NET_NHOM_5.pdb
+D:\Hoc olline\CNTTA\Nhom4\BTL_ASP.Net\BTL_ASP.Net_Nhom5\BTL_Nhom5\BTL_ASP.NET_NHOM_5\bin\roslyn\csc.exe
+D:\Hoc olline\CNTTA\Nhom4\BTL_ASP.Net\BTL_ASP.Net_Nhom5\BTL_Nhom5\BTL_ASP.NET_NHOM_5\bin\roslyn\csc.exe.config
+D:\Hoc olline\CNTTA\Nhom4\BTL_ASP.Net\BTL_ASP.Net_Nhom5\BTL_Nhom5\BTL_ASP.NET_NHOM_5\bin\roslyn\csc.rsp
+D:\Hoc olline\CNTTA\Nhom4\BTL_ASP.Net\BTL_ASP.Net_Nhom5\BTL_Nhom5\BTL_ASP.NET_NHOM_5\bin\roslyn\csi.exe
+D:\Hoc olline\CNTTA\Nhom4\BTL_ASP.Net\BTL_ASP.Net_Nhom5\BTL_Nhom5\BTL_ASP.NET_NHOM_5\bin\roslyn\csi.exe.config
+D:\Hoc olline\CNTTA\Nhom4\BTL_ASP.Net\BTL_ASP.Net_Nhom5\BTL_Nhom5\BTL_ASP.NET_NHOM_5\bin\roslyn\csi.rsp
+D:\Hoc olline\CNTTA\Nhom4\BTL_ASP.Net\BTL_ASP.Net_Nhom5\BTL_Nhom5\BTL_ASP.NET_NHOM_5\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Hoc olline\CNTTA\Nhom4\BTL_ASP.Net\BTL_ASP.Net_Nhom5\BTL_Nhom5\BTL_ASP.NET_NHOM_5\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Hoc olline\CNTTA\Nhom4\BTL_ASP.Net\BTL_ASP.Net_Nhom5\BTL_Nhom5\BTL_ASP.NET_NHOM_5\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Hoc olline\CNTTA\Nhom4\BTL_ASP.Net\BTL_ASP.Net_Nhom5\BTL_Nhom5\BTL_ASP.NET_NHOM_5\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Hoc olline\CNTTA\Nhom4\BTL_ASP.Net\BTL_ASP.Net_Nhom5\BTL_Nhom5\BTL_ASP.NET_NHOM_5\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\Hoc olline\CNTTA\Nhom4\BTL_ASP.Net\BTL_ASP.Net_Nhom5\BTL_Nhom5\BTL_ASP.NET_NHOM_5\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Hoc olline\CNTTA\Nhom4\BTL_ASP.Net\BTL_ASP.Net_Nhom5\BTL_Nhom5\BTL_ASP.NET_NHOM_5\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Hoc olline\CNTTA\Nhom4\BTL_ASP.Net\BTL_ASP.Net_Nhom5\BTL_Nhom5\BTL_ASP.NET_NHOM_5\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\Hoc olline\CNTTA\Nhom4\BTL_ASP.Net\BTL_ASP.Net_Nhom5\BTL_Nhom5\BTL_ASP.NET_NHOM_5\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\Hoc olline\CNTTA\Nhom4\BTL_ASP.Net\BTL_ASP.Net_Nhom5\BTL_Nhom5\BTL_ASP.NET_NHOM_5\bin\roslyn\Microsoft.Managed.Core.targets
+D:\Hoc olline\CNTTA\Nhom4\BTL_ASP.Net\BTL_ASP.Net_Nhom5\BTL_Nhom5\BTL_ASP.NET_NHOM_5\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Hoc olline\CNTTA\Nhom4\BTL_ASP.Net\BTL_ASP.Net_Nhom5\BTL_Nhom5\BTL_ASP.NET_NHOM_5\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\Hoc olline\CNTTA\Nhom4\BTL_ASP.Net\BTL_ASP.Net_Nhom5\BTL_Nhom5\BTL_ASP.NET_NHOM_5\bin\roslyn\System.AppContext.dll
+D:\Hoc olline\CNTTA\Nhom4\BTL_ASP.Net\BTL_ASP.Net_Nhom5\BTL_Nhom5\BTL_ASP.NET_NHOM_5\bin\roslyn\System.Collections.Immutable.dll
+D:\Hoc olline\CNTTA\Nhom4\BTL_ASP.Net\BTL_ASP.Net_Nhom5\BTL_Nhom5\BTL_ASP.NET_NHOM_5\bin\roslyn\System.Console.dll
+D:\Hoc olline\CNTTA\Nhom4\BTL_ASP.Net\BTL_ASP.Net_Nhom5\BTL_Nhom5\BTL_ASP.NET_NHOM_5\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+D:\Hoc olline\CNTTA\Nhom4\BTL_ASP.Net\BTL_ASP.Net_Nhom5\BTL_Nhom5\BTL_ASP.NET_NHOM_5\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\Hoc olline\CNTTA\Nhom4\BTL_ASP.Net\BTL_ASP.Net_Nhom5\BTL_Nhom5\BTL_ASP.NET_NHOM_5\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\Hoc olline\CNTTA\Nhom4\BTL_ASP.Net\BTL_ASP.Net_Nhom5\BTL_Nhom5\BTL_ASP.NET_NHOM_5\bin\roslyn\System.Globalization.Calendars.dll
+D:\Hoc olline\CNTTA\Nhom4\BTL_ASP.Net\BTL_ASP.Net_Nhom5\BTL_Nhom5\BTL_ASP.NET_NHOM_5\bin\roslyn\System.IO.Compression.dll
+D:\Hoc olline\CNTTA\Nhom4\BTL_ASP.Net\BTL_ASP.Net_Nhom5\BTL_Nhom5\BTL_ASP.NET_NHOM_5\bin\roslyn\System.IO.Compression.ZipFile.dll
+D:\Hoc olline\CNTTA\Nhom4\BTL_ASP.Net\BTL_ASP.Net_Nhom5\BTL_Nhom5\BTL_ASP.NET_NHOM_5\bin\roslyn\System.IO.FileSystem.dll
+D:\Hoc olline\CNTTA\Nhom4\BTL_ASP.Net\BTL_ASP.Net_Nhom5\BTL_Nhom5\BTL_ASP.NET_NHOM_5\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\Hoc olline\CNTTA\Nhom4\BTL_ASP.Net\BTL_ASP.Net_Nhom5\BTL_Nhom5\BTL_ASP.NET_NHOM_5\bin\roslyn\System.Net.Http.dll
+D:\Hoc olline\CNTTA\Nhom4\BTL_ASP.Net\BTL_ASP.Net_Nhom5\BTL_Nhom5\BTL_ASP.NET_NHOM_5\bin\roslyn\System.Net.Sockets.dll
+D:\Hoc olline\CNTTA\Nhom4\BTL_ASP.Net\BTL_ASP.Net_Nhom5\BTL_Nhom5\BTL_ASP.NET_NHOM_5\bin\roslyn\System.Reflection.Metadata.dll
+D:\Hoc olline\CNTTA\Nhom4\BTL_ASP.Net\BTL_ASP.Net_Nhom5\BTL_Nhom5\BTL_ASP.NET_NHOM_5\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\Hoc olline\CNTTA\Nhom4\BTL_ASP.Net\BTL_ASP.Net_Nhom5\BTL_Nhom5\BTL_ASP.NET_NHOM_5\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\Hoc olline\CNTTA\Nhom4\BTL_ASP.Net\BTL_ASP.Net_Nhom5\BTL_Nhom5\BTL_ASP.NET_NHOM_5\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\Hoc olline\CNTTA\Nhom4\BTL_ASP.Net\BTL_ASP.Net_Nhom5\BTL_Nhom5\BTL_ASP.NET_NHOM_5\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\Hoc olline\CNTTA\Nhom4\BTL_ASP.Net\BTL_ASP.Net_Nhom5\BTL_Nhom5\BTL_ASP.NET_NHOM_5\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\Hoc olline\CNTTA\Nhom4\BTL_ASP.Net\BTL_ASP.Net_Nhom5\BTL_Nhom5\BTL_ASP.NET_NHOM_5\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\Hoc olline\CNTTA\Nhom4\BTL_ASP.Net\BTL_ASP.Net_Nhom5\BTL_Nhom5\BTL_ASP.NET_NHOM_5\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\Hoc olline\CNTTA\Nhom4\BTL_ASP.Net\BTL_ASP.Net_Nhom5\BTL_Nhom5\BTL_ASP.NET_NHOM_5\bin\roslyn\System.ValueTuple.dll
+D:\Hoc olline\CNTTA\Nhom4\BTL_ASP.Net\BTL_ASP.Net_Nhom5\BTL_Nhom5\BTL_ASP.NET_NHOM_5\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\Hoc olline\CNTTA\Nhom4\BTL_ASP.Net\BTL_ASP.Net_Nhom5\BTL_Nhom5\BTL_ASP.NET_NHOM_5\bin\roslyn\System.Xml.XmlDocument.dll
+D:\Hoc olline\CNTTA\Nhom4\BTL_ASP.Net\BTL_ASP.Net_Nhom5\BTL_Nhom5\BTL_ASP.NET_NHOM_5\bin\roslyn\System.Xml.XPath.dll
+D:\Hoc olline\CNTTA\Nhom4\BTL_ASP.Net\BTL_ASP.Net_Nhom5\BTL_Nhom5\BTL_ASP.NET_NHOM_5\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\Hoc olline\CNTTA\Nhom4\BTL_ASP.Net\BTL_ASP.Net_Nhom5\BTL_Nhom5\BTL_ASP.NET_NHOM_5\bin\roslyn\vbc.exe
+D:\Hoc olline\CNTTA\Nhom4\BTL_ASP.Net\BTL_ASP.Net_Nhom5\BTL_Nhom5\BTL_ASP.NET_NHOM_5\bin\roslyn\vbc.exe.config
+D:\Hoc olline\CNTTA\Nhom4\BTL_ASP.Net\BTL_ASP.Net_Nhom5\BTL_Nhom5\BTL_ASP.NET_NHOM_5\bin\roslyn\vbc.rsp
+D:\Hoc olline\CNTTA\Nhom4\BTL_ASP.Net\BTL_ASP.Net_Nhom5\BTL_Nhom5\BTL_ASP.NET_NHOM_5\bin\roslyn\VBCSCompiler.exe
+D:\Hoc olline\CNTTA\Nhom4\BTL_ASP.Net\BTL_ASP.Net_Nhom5\BTL_Nhom5\BTL_ASP.NET_NHOM_5\bin\roslyn\VBCSCompiler.exe.config
+D:\Hoc olline\CNTTA\Nhom4\BTL_ASP.Net\BTL_ASP.Net_Nhom5\BTL_Nhom5\BTL_ASP.NET_NHOM_5\bin\Antlr3.Runtime.dll
+D:\Hoc olline\CNTTA\Nhom4\BTL_ASP.Net\BTL_ASP.Net_Nhom5\BTL_Nhom5\BTL_ASP.NET_NHOM_5\bin\EntityFramework.dll
+D:\Hoc olline\CNTTA\Nhom4\BTL_ASP.Net\BTL_ASP.Net_Nhom5\BTL_Nhom5\BTL_ASP.NET_NHOM_5\bin\EntityFramework.SqlServer.dll
+D:\Hoc olline\CNTTA\Nhom4\BTL_ASP.Net\BTL_ASP.Net_Nhom5\BTL_Nhom5\BTL_ASP.NET_NHOM_5\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Hoc olline\CNTTA\Nhom4\BTL_ASP.Net\BTL_ASP.Net_Nhom5\BTL_Nhom5\BTL_ASP.NET_NHOM_5\bin\Microsoft.Web.Infrastructure.dll
+D:\Hoc olline\CNTTA\Nhom4\BTL_ASP.Net\BTL_ASP.Net_Nhom5\BTL_Nhom5\BTL_ASP.NET_NHOM_5\bin\Newtonsoft.Json.dll
+D:\Hoc olline\CNTTA\Nhom4\BTL_ASP.Net\BTL_ASP.Net_Nhom5\BTL_Nhom5\BTL_ASP.NET_NHOM_5\bin\PagedList.dll
+D:\Hoc olline\CNTTA\Nhom4\BTL_ASP.Net\BTL_ASP.Net_Nhom5\BTL_Nhom5\BTL_ASP.NET_NHOM_5\bin\PagedList.Mvc.dll
+D:\Hoc olline\CNTTA\Nhom4\BTL_ASP.Net\BTL_ASP.Net_Nhom5\BTL_Nhom5\BTL_ASP.NET_NHOM_5\bin\System.Buffers.dll
+D:\Hoc olline\CNTTA\Nhom4\BTL_ASP.Net\BTL_ASP.Net_Nhom5\BTL_Nhom5\BTL_ASP.NET_NHOM_5\bin\System.Runtime.CompilerServices.Unsafe.dll
+D:\Hoc olline\CNTTA\Nhom4\BTL_ASP.Net\BTL_ASP.Net_Nhom5\BTL_Nhom5\BTL_ASP.NET_NHOM_5\bin\System.Text.Encoding.CodePages.dll
+D:\Hoc olline\CNTTA\Nhom4\BTL_ASP.Net\BTL_ASP.Net_Nhom5\BTL_Nhom5\BTL_ASP.NET_NHOM_5\bin\System.Web.Helpers.dll
+D:\Hoc olline\CNTTA\Nhom4\BTL_ASP.Net\BTL_ASP.Net_Nhom5\BTL_Nhom5\BTL_ASP.NET_NHOM_5\bin\System.Web.Mvc.dll
+D:\Hoc olline\CNTTA\Nhom4\BTL_ASP.Net\BTL_ASP.Net_Nhom5\BTL_Nhom5\BTL_ASP.NET_NHOM_5\bin\System.Web.Optimization.dll
+D:\Hoc olline\CNTTA\Nhom4\BTL_ASP.Net\BTL_ASP.Net_Nhom5\BTL_Nhom5\BTL_ASP.NET_NHOM_5\bin\System.Web.Razor.dll
+D:\Hoc olline\CNTTA\Nhom4\BTL_ASP.Net\BTL_ASP.Net_Nhom5\BTL_Nhom5\BTL_ASP.NET_NHOM_5\bin\System.Web.WebPages.Deployment.dll
+D:\Hoc olline\CNTTA\Nhom4\BTL_ASP.Net\BTL_ASP.Net_Nhom5\BTL_Nhom5\BTL_ASP.NET_NHOM_5\bin\System.Web.WebPages.dll
+D:\Hoc olline\CNTTA\Nhom4\BTL_ASP.Net\BTL_ASP.Net_Nhom5\BTL_Nhom5\BTL_ASP.NET_NHOM_5\bin\System.Web.WebPages.Razor.dll
+D:\Hoc olline\CNTTA\Nhom4\BTL_ASP.Net\BTL_ASP.Net_Nhom5\BTL_Nhom5\BTL_ASP.NET_NHOM_5\bin\WebGrease.dll
+D:\Hoc olline\CNTTA\Nhom4\BTL_ASP.Net\BTL_ASP.Net_Nhom5\BTL_Nhom5\BTL_ASP.NET_NHOM_5\bin\EntityFramework.xml
+D:\Hoc olline\CNTTA\Nhom4\BTL_ASP.Net\BTL_ASP.Net_Nhom5\BTL_Nhom5\BTL_ASP.NET_NHOM_5\bin\EntityFramework.SqlServer.xml
+D:\Hoc olline\CNTTA\Nhom4\BTL_ASP.Net\BTL_ASP.Net_Nhom5\BTL_Nhom5\BTL_ASP.NET_NHOM_5\bin\PagedList.xml
+D:\Hoc olline\CNTTA\Nhom4\BTL_ASP.Net\BTL_ASP.Net_Nhom5\BTL_Nhom5\BTL_ASP.NET_NHOM_5\bin\PagedList.Mvc.xml
+D:\Hoc olline\CNTTA\Nhom4\BTL_ASP.Net\BTL_ASP.Net_Nhom5\BTL_Nhom5\BTL_ASP.NET_NHOM_5\bin\System.Buffers.xml
+D:\Hoc olline\CNTTA\Nhom4\BTL_ASP.Net\BTL_ASP.Net_Nhom5\BTL_Nhom5\BTL_ASP.NET_NHOM_5\bin\System.Runtime.CompilerServices.Unsafe.xml
+D:\Hoc olline\CNTTA\Nhom4\BTL_ASP.Net\BTL_ASP.Net_Nhom5\BTL_Nhom5\BTL_ASP.NET_NHOM_5\bin\System.Text.Encoding.CodePages.xml
+D:\Hoc olline\CNTTA\Nhom4\BTL_ASP.Net\BTL_ASP.Net_Nhom5\BTL_Nhom5\BTL_ASP.NET_NHOM_5\bin\System.Web.Helpers.xml
+D:\Hoc olline\CNTTA\Nhom4\BTL_ASP.Net\BTL_ASP.Net_Nhom5\BTL_Nhom5\BTL_ASP.NET_NHOM_5\bin\System.Web.Mvc.xml
+D:\Hoc olline\CNTTA\Nhom4\BTL_ASP.Net\BTL_ASP.Net_Nhom5\BTL_Nhom5\BTL_ASP.NET_NHOM_5\bin\System.Web.Optimization.xml
+D:\Hoc olline\CNTTA\Nhom4\BTL_ASP.Net\BTL_ASP.Net_Nhom5\BTL_Nhom5\BTL_ASP.NET_NHOM_5\bin\System.Web.Razor.xml
+D:\Hoc olline\CNTTA\Nhom4\BTL_ASP.Net\BTL_ASP.Net_Nhom5\BTL_Nhom5\BTL_ASP.NET_NHOM_5\bin\System.Web.WebPages.xml
+D:\Hoc olline\CNTTA\Nhom4\BTL_ASP.Net\BTL_ASP.Net_Nhom5\BTL_Nhom5\BTL_ASP.NET_NHOM_5\bin\System.Web.WebPages.Deployment.xml
+D:\Hoc olline\CNTTA\Nhom4\BTL_ASP.Net\BTL_ASP.Net_Nhom5\BTL_Nhom5\BTL_ASP.NET_NHOM_5\bin\System.Web.WebPages.Razor.xml
+D:\Hoc olline\CNTTA\Nhom4\BTL_ASP.Net\BTL_ASP.Net_Nhom5\BTL_Nhom5\BTL_ASP.NET_NHOM_5\bin\Newtonsoft.Json.xml
+D:\Hoc olline\CNTTA\Nhom4\BTL_ASP.Net\BTL_ASP.Net_Nhom5\BTL_Nhom5\BTL_ASP.NET_NHOM_5\bin\Antlr3.Runtime.pdb
+D:\Hoc olline\CNTTA\Nhom4\BTL_ASP.Net\BTL_ASP.Net_Nhom5\BTL_Nhom5\BTL_ASP.NET_NHOM_5\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Hoc olline\CNTTA\Nhom4\BTL_ASP.Net\BTL_ASP.Net_Nhom5\BTL_Nhom5\BTL_ASP.NET_NHOM_5\obj\Debug\BTL_ASP.NET_NHOM_5.csproj.AssemblyReference.cache
+D:\Hoc olline\CNTTA\Nhom4\BTL_ASP.Net\BTL_ASP.Net_Nhom5\BTL_Nhom5\BTL_ASP.NET_NHOM_5\obj\Debug\BTL_ASP.NET_NHOM_5.csproj.CoreCompileInputs.cache
+D:\Hoc olline\CNTTA\Nhom4\BTL_ASP.Net\BTL_ASP.Net_Nhom5\BTL_Nhom5\BTL_ASP.NET_NHOM_5\obj\Debug\BTL_ASP.NET_NHOM_5.csproj.CopyComplete
+D:\Hoc olline\CNTTA\Nhom4\BTL_ASP.Net\BTL_ASP.Net_Nhom5\BTL_Nhom5\BTL_ASP.NET_NHOM_5\obj\Debug\BTL_ASP.NET_NHOM_5.dll
+D:\Hoc olline\CNTTA\Nhom4\BTL_ASP.Net\BTL_ASP.Net_Nhom5\BTL_Nhom5\BTL_ASP.NET_NHOM_5\obj\Debug\BTL_ASP.NET_NHOM_5.pdb
+E:\BTL_ASP.Net_Nhom5\BTL_Nhom5\BTL_ASP.NET_NHOM_5\bin\BTL_ASP.NET_NHOM_5.dll.config
+E:\BTL_ASP.Net_Nhom5\BTL_Nhom5\BTL_ASP.NET_NHOM_5\bin\BTL_ASP.NET_NHOM_5.dll
+E:\BTL_ASP.Net_Nhom5\BTL_Nhom5\BTL_ASP.NET_NHOM_5\bin\BTL_ASP.NET_NHOM_5.pdb
+E:\BTL_ASP.Net_Nhom5\BTL_Nhom5\BTL_ASP.NET_NHOM_5\bin\roslyn\csc.exe
+E:\BTL_ASP.Net_Nhom5\BTL_Nhom5\BTL_ASP.NET_NHOM_5\bin\roslyn\csc.exe.config
+E:\BTL_ASP.Net_Nhom5\BTL_Nhom5\BTL_ASP.NET_NHOM_5\bin\roslyn\csc.rsp
+E:\BTL_ASP.Net_Nhom5\BTL_Nhom5\BTL_ASP.NET_NHOM_5\bin\roslyn\csi.exe
+E:\BTL_ASP.Net_Nhom5\BTL_Nhom5\BTL_ASP.NET_NHOM_5\bin\roslyn\csi.exe.config
+E:\BTL_ASP.Net_Nhom5\BTL_Nhom5\BTL_ASP.NET_NHOM_5\bin\roslyn\csi.rsp
+E:\BTL_ASP.Net_Nhom5\BTL_Nhom5\BTL_ASP.NET_NHOM_5\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\BTL_ASP.Net_Nhom5\BTL_Nhom5\BTL_ASP.NET_NHOM_5\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\BTL_ASP.Net_Nhom5\BTL_Nhom5\BTL_ASP.NET_NHOM_5\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\BTL_ASP.Net_Nhom5\BTL_Nhom5\BTL_ASP.NET_NHOM_5\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\BTL_ASP.Net_Nhom5\BTL_Nhom5\BTL_ASP.NET_NHOM_5\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\BTL_ASP.Net_Nhom5\BTL_Nhom5\BTL_ASP.NET_NHOM_5\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\BTL_ASP.Net_Nhom5\BTL_Nhom5\BTL_ASP.NET_NHOM_5\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\BTL_ASP.Net_Nhom5\BTL_Nhom5\BTL_ASP.NET_NHOM_5\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\BTL_ASP.Net_Nhom5\BTL_Nhom5\BTL_ASP.NET_NHOM_5\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\BTL_ASP.Net_Nhom5\BTL_Nhom5\BTL_ASP.NET_NHOM_5\bin\roslyn\Microsoft.Managed.Core.targets
+E:\BTL_ASP.Net_Nhom5\BTL_Nhom5\BTL_ASP.NET_NHOM_5\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\BTL_ASP.Net_Nhom5\BTL_Nhom5\BTL_ASP.NET_NHOM_5\bin\roslyn\Microsoft.Win32.Primitives.dll
+E:\BTL_ASP.Net_Nhom5\BTL_Nhom5\BTL_ASP.NET_NHOM_5\bin\roslyn\System.AppContext.dll
+E:\BTL_ASP.Net_Nhom5\BTL_Nhom5\BTL_ASP.NET_NHOM_5\bin\roslyn\System.Collections.Immutable.dll
+E:\BTL_ASP.Net_Nhom5\BTL_Nhom5\BTL_ASP.NET_NHOM_5\bin\roslyn\System.Console.dll
+E:\BTL_ASP.Net_Nhom5\BTL_Nhom5\BTL_ASP.NET_NHOM_5\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+E:\BTL_ASP.Net_Nhom5\BTL_Nhom5\BTL_ASP.NET_NHOM_5\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+E:\BTL_ASP.Net_Nhom5\BTL_Nhom5\BTL_ASP.NET_NHOM_5\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\BTL_ASP.Net_Nhom5\BTL_Nhom5\BTL_ASP.NET_NHOM_5\bin\roslyn\System.Globalization.Calendars.dll
+E:\BTL_ASP.Net_Nhom5\BTL_Nhom5\BTL_ASP.NET_NHOM_5\bin\roslyn\System.IO.Compression.dll
+E:\BTL_ASP.Net_Nhom5\BTL_Nhom5\BTL_ASP.NET_NHOM_5\bin\roslyn\System.IO.Compression.ZipFile.dll
+E:\BTL_ASP.Net_Nhom5\BTL_Nhom5\BTL_ASP.NET_NHOM_5\bin\roslyn\System.IO.FileSystem.dll
+E:\BTL_ASP.Net_Nhom5\BTL_Nhom5\BTL_ASP.NET_NHOM_5\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\BTL_ASP.Net_Nhom5\BTL_Nhom5\BTL_ASP.NET_NHOM_5\bin\roslyn\System.Net.Http.dll
+E:\BTL_ASP.Net_Nhom5\BTL_Nhom5\BTL_ASP.NET_NHOM_5\bin\roslyn\System.Net.Sockets.dll
+E:\BTL_ASP.Net_Nhom5\BTL_Nhom5\BTL_ASP.NET_NHOM_5\bin\roslyn\System.Reflection.Metadata.dll
+E:\BTL_ASP.Net_Nhom5\BTL_Nhom5\BTL_ASP.NET_NHOM_5\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+E:\BTL_ASP.Net_Nhom5\BTL_Nhom5\BTL_ASP.NET_NHOM_5\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+E:\BTL_ASP.Net_Nhom5\BTL_Nhom5\BTL_ASP.NET_NHOM_5\bin\roslyn\System.Security.Cryptography.Encoding.dll
+E:\BTL_ASP.Net_Nhom5\BTL_Nhom5\BTL_ASP.NET_NHOM_5\bin\roslyn\System.Security.Cryptography.Primitives.dll
+E:\BTL_ASP.Net_Nhom5\BTL_Nhom5\BTL_ASP.NET_NHOM_5\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+E:\BTL_ASP.Net_Nhom5\BTL_Nhom5\BTL_ASP.NET_NHOM_5\bin\roslyn\System.Text.Encoding.CodePages.dll
+E:\BTL_ASP.Net_Nhom5\BTL_Nhom5\BTL_ASP.NET_NHOM_5\bin\roslyn\System.Threading.Tasks.Extensions.dll
+E:\BTL_ASP.Net_Nhom5\BTL_Nhom5\BTL_ASP.NET_NHOM_5\bin\roslyn\System.ValueTuple.dll
+E:\BTL_ASP.Net_Nhom5\BTL_Nhom5\BTL_ASP.NET_NHOM_5\bin\roslyn\System.Xml.ReaderWriter.dll
+E:\BTL_ASP.Net_Nhom5\BTL_Nhom5\BTL_ASP.NET_NHOM_5\bin\roslyn\System.Xml.XmlDocument.dll
+E:\BTL_ASP.Net_Nhom5\BTL_Nhom5\BTL_ASP.NET_NHOM_5\bin\roslyn\System.Xml.XPath.dll
+E:\BTL_ASP.Net_Nhom5\BTL_Nhom5\BTL_ASP.NET_NHOM_5\bin\roslyn\System.Xml.XPath.XDocument.dll
+E:\BTL_ASP.Net_Nhom5\BTL_Nhom5\BTL_ASP.NET_NHOM_5\bin\roslyn\vbc.exe
+E:\BTL_ASP.Net_Nhom5\BTL_Nhom5\BTL_ASP.NET_NHOM_5\bin\roslyn\vbc.exe.config
+E:\BTL_ASP.Net_Nhom5\BTL_Nhom5\BTL_ASP.NET_NHOM_5\bin\roslyn\vbc.rsp
+E:\BTL_ASP.Net_Nhom5\BTL_Nhom5\BTL_ASP.NET_NHOM_5\bin\roslyn\VBCSCompiler.exe
+E:\BTL_ASP.Net_Nhom5\BTL_Nhom5\BTL_ASP.NET_NHOM_5\bin\roslyn\VBCSCompiler.exe.config
+E:\BTL_ASP.Net_Nhom5\BTL_Nhom5\BTL_ASP.NET_NHOM_5\bin\Antlr3.Runtime.dll
+E:\BTL_ASP.Net_Nhom5\BTL_Nhom5\BTL_ASP.NET_NHOM_5\bin\EntityFramework.dll
+E:\BTL_ASP.Net_Nhom5\BTL_Nhom5\BTL_ASP.NET_NHOM_5\bin\EntityFramework.SqlServer.dll
+E:\BTL_ASP.Net_Nhom5\BTL_Nhom5\BTL_ASP.NET_NHOM_5\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\BTL_ASP.Net_Nhom5\BTL_Nhom5\BTL_ASP.NET_NHOM_5\bin\Microsoft.Web.Infrastructure.dll
+E:\BTL_ASP.Net_Nhom5\BTL_Nhom5\BTL_ASP.NET_NHOM_5\bin\Newtonsoft.Json.dll
+E:\BTL_ASP.Net_Nhom5\BTL_Nhom5\BTL_ASP.NET_NHOM_5\bin\PagedList.dll
+E:\BTL_ASP.Net_Nhom5\BTL_Nhom5\BTL_ASP.NET_NHOM_5\bin\PagedList.Mvc.dll
+E:\BTL_ASP.Net_Nhom5\BTL_Nhom5\BTL_ASP.NET_NHOM_5\bin\System.Buffers.dll
+E:\BTL_ASP.Net_Nhom5\BTL_Nhom5\BTL_ASP.NET_NHOM_5\bin\System.Runtime.CompilerServices.Unsafe.dll
+E:\BTL_ASP.Net_Nhom5\BTL_Nhom5\BTL_ASP.NET_NHOM_5\bin\System.Text.Encoding.CodePages.dll
+E:\BTL_ASP.Net_Nhom5\BTL_Nhom5\BTL_ASP.NET_NHOM_5\bin\System.Web.Helpers.dll
+E:\BTL_ASP.Net_Nhom5\BTL_Nhom5\BTL_ASP.NET_NHOM_5\bin\System.Web.Mvc.dll
+E:\BTL_ASP.Net_Nhom5\BTL_Nhom5\BTL_ASP.NET_NHOM_5\bin\System.Web.Optimization.dll
+E:\BTL_ASP.Net_Nhom5\BTL_Nhom5\BTL_ASP.NET_NHOM_5\bin\System.Web.Razor.dll
+E:\BTL_ASP.Net_Nhom5\BTL_Nhom5\BTL_ASP.NET_NHOM_5\bin\System.Web.WebPages.Deployment.dll
+E:\BTL_ASP.Net_Nhom5\BTL_Nhom5\BTL_ASP.NET_NHOM_5\bin\System.Web.WebPages.dll
+E:\BTL_ASP.Net_Nhom5\BTL_Nhom5\BTL_ASP.NET_NHOM_5\bin\System.Web.WebPages.Razor.dll
+E:\BTL_ASP.Net_Nhom5\BTL_Nhom5\BTL_ASP.NET_NHOM_5\bin\WebGrease.dll
+E:\BTL_ASP.Net_Nhom5\BTL_Nhom5\BTL_ASP.NET_NHOM_5\bin\EntityFramework.xml
+E:\BTL_ASP.Net_Nhom5\BTL_Nhom5\BTL_ASP.NET_NHOM_5\bin\EntityFramework.SqlServer.xml
+E:\BTL_ASP.Net_Nhom5\BTL_Nhom5\BTL_ASP.NET_NHOM_5\bin\PagedList.xml
+E:\BTL_ASP.Net_Nhom5\BTL_Nhom5\BTL_ASP.NET_NHOM_5\bin\PagedList.Mvc.xml
+E:\BTL_ASP.Net_Nhom5\BTL_Nhom5\BTL_ASP.NET_NHOM_5\bin\System.Buffers.xml
+E:\BTL_ASP.Net_Nhom5\BTL_Nhom5\BTL_ASP.NET_NHOM_5\bin\System.Runtime.CompilerServices.Unsafe.xml
+E:\BTL_ASP.Net_Nhom5\BTL_Nhom5\BTL_ASP.NET_NHOM_5\bin\System.Text.Encoding.CodePages.xml
+E:\BTL_ASP.Net_Nhom5\BTL_Nhom5\BTL_ASP.NET_NHOM_5\bin\System.Web.Helpers.xml
+E:\BTL_ASP.Net_Nhom5\BTL_Nhom5\BTL_ASP.NET_NHOM_5\bin\System.Web.Mvc.xml
+E:\BTL_ASP.Net_Nhom5\BTL_Nhom5\BTL_ASP.NET_NHOM_5\bin\System.Web.Optimization.xml
+E:\BTL_ASP.Net_Nhom5\BTL_Nhom5\BTL_ASP.NET_NHOM_5\bin\System.Web.Razor.xml
+E:\BTL_ASP.Net_Nhom5\BTL_Nhom5\BTL_ASP.NET_NHOM_5\bin\System.Web.WebPages.xml
+E:\BTL_ASP.Net_Nhom5\BTL_Nhom5\BTL_ASP.NET_NHOM_5\bin\System.Web.WebPages.Deployment.xml
+E:\BTL_ASP.Net_Nhom5\BTL_Nhom5\BTL_ASP.NET_NHOM_5\bin\System.Web.WebPages.Razor.xml
+E:\BTL_ASP.Net_Nhom5\BTL_Nhom5\BTL_ASP.NET_NHOM_5\bin\Newtonsoft.Json.xml
+E:\BTL_ASP.Net_Nhom5\BTL_Nhom5\BTL_ASP.NET_NHOM_5\bin\Antlr3.Runtime.pdb
+E:\BTL_ASP.Net_Nhom5\BTL_Nhom5\BTL_ASP.NET_NHOM_5\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\BTL_ASP.Net_Nhom5\BTL_Nhom5\BTL_ASP.NET_NHOM_5\obj\Debug\BTL_ASP.NET_NHOM_5.csproj.AssemblyReference.cache
+E:\BTL_ASP.Net_Nhom5\BTL_Nhom5\BTL_ASP.NET_NHOM_5\obj\Debug\BTL_ASP.NET_NHOM_5.csproj.CoreCompileInputs.cache
+E:\BTL_ASP.Net_Nhom5\BTL_Nhom5\BTL_ASP.NET_NHOM_5\obj\Debug\BTL_ASP.NET_NHOM_5.csproj.CopyComplete
+E:\BTL_ASP.Net_Nhom5\BTL_Nhom5\BTL_ASP.NET_NHOM_5\obj\Debug\BTL_ASP.NET_NHOM_5.dll
+E:\BTL_ASP.Net_Nhom5\BTL_Nhom5\BTL_ASP.NET_NHOM_5\obj\Debug\BTL_ASP.NET_NHOM_5.pdb
+D:\Hoc olline\.Net\Duc878\BTL_ASP.Net_Nhom5\BTL_Nhom5\BTL_ASP.NET_NHOM_5\bin\BTL_ASP.NET_NHOM_5.dll.config
+D:\Hoc olline\.Net\Duc878\BTL_ASP.Net_Nhom5\BTL_Nhom5\BTL_ASP.NET_NHOM_5\bin\BTL_ASP.NET_NHOM_5.dll
+D:\Hoc olline\.Net\Duc878\BTL_ASP.Net_Nhom5\BTL_Nhom5\BTL_ASP.NET_NHOM_5\bin\BTL_ASP.NET_NHOM_5.pdb
+D:\Hoc olline\.Net\Duc878\BTL_ASP.Net_Nhom5\BTL_Nhom5\BTL_ASP.NET_NHOM_5\bin\roslyn\csc.exe
+D:\Hoc olline\.Net\Duc878\BTL_ASP.Net_Nhom5\BTL_Nhom5\BTL_ASP.NET_NHOM_5\bin\roslyn\csc.exe.config
+D:\Hoc olline\.Net\Duc878\BTL_ASP.Net_Nhom5\BTL_Nhom5\BTL_ASP.NET_NHOM_5\bin\roslyn\csc.rsp
+D:\Hoc olline\.Net\Duc878\BTL_ASP.Net_Nhom5\BTL_Nhom5\BTL_ASP.NET_NHOM_5\bin\roslyn\csi.exe
+D:\Hoc olline\.Net\Duc878\BTL_ASP.Net_Nhom5\BTL_Nhom5\BTL_ASP.NET_NHOM_5\bin\roslyn\csi.exe.config
+D:\Hoc olline\.Net\Duc878\BTL_ASP.Net_Nhom5\BTL_Nhom5\BTL_ASP.NET_NHOM_5\bin\roslyn\csi.rsp
+D:\Hoc olline\.Net\Duc878\BTL_ASP.Net_Nhom5\BTL_Nhom5\BTL_ASP.NET_NHOM_5\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Hoc olline\.Net\Duc878\BTL_ASP.Net_Nhom5\BTL_Nhom5\BTL_ASP.NET_NHOM_5\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Hoc olline\.Net\Duc878\BTL_ASP.Net_Nhom5\BTL_Nhom5\BTL_ASP.NET_NHOM_5\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Hoc olline\.Net\Duc878\BTL_ASP.Net_Nhom5\BTL_Nhom5\BTL_ASP.NET_NHOM_5\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Hoc olline\.Net\Duc878\BTL_ASP.Net_Nhom5\BTL_Nhom5\BTL_ASP.NET_NHOM_5\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\Hoc olline\.Net\Duc878\BTL_ASP.Net_Nhom5\BTL_Nhom5\BTL_ASP.NET_NHOM_5\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Hoc olline\.Net\Duc878\BTL_ASP.Net_Nhom5\BTL_Nhom5\BTL_ASP.NET_NHOM_5\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Hoc olline\.Net\Duc878\BTL_ASP.Net_Nhom5\BTL_Nhom5\BTL_ASP.NET_NHOM_5\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\Hoc olline\.Net\Duc878\BTL_ASP.Net_Nhom5\BTL_Nhom5\BTL_ASP.NET_NHOM_5\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\Hoc olline\.Net\Duc878\BTL_ASP.Net_Nhom5\BTL_Nhom5\BTL_ASP.NET_NHOM_5\bin\roslyn\Microsoft.Managed.Core.targets
+D:\Hoc olline\.Net\Duc878\BTL_ASP.Net_Nhom5\BTL_Nhom5\BTL_ASP.NET_NHOM_5\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Hoc olline\.Net\Duc878\BTL_ASP.Net_Nhom5\BTL_Nhom5\BTL_ASP.NET_NHOM_5\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\Hoc olline\.Net\Duc878\BTL_ASP.Net_Nhom5\BTL_Nhom5\BTL_ASP.NET_NHOM_5\bin\roslyn\System.AppContext.dll
+D:\Hoc olline\.Net\Duc878\BTL_ASP.Net_Nhom5\BTL_Nhom5\BTL_ASP.NET_NHOM_5\bin\roslyn\System.Collections.Immutable.dll
+D:\Hoc olline\.Net\Duc878\BTL_ASP.Net_Nhom5\BTL_Nhom5\BTL_ASP.NET_NHOM_5\bin\roslyn\System.Console.dll
+D:\Hoc olline\.Net\Duc878\BTL_ASP.Net_Nhom5\BTL_Nhom5\BTL_ASP.NET_NHOM_5\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+D:\Hoc olline\.Net\Duc878\BTL_ASP.Net_Nhom5\BTL_Nhom5\BTL_ASP.NET_NHOM_5\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\Hoc olline\.Net\Duc878\BTL_ASP.Net_Nhom5\BTL_Nhom5\BTL_ASP.NET_NHOM_5\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\Hoc olline\.Net\Duc878\BTL_ASP.Net_Nhom5\BTL_Nhom5\BTL_ASP.NET_NHOM_5\bin\roslyn\System.Globalization.Calendars.dll
+D:\Hoc olline\.Net\Duc878\BTL_ASP.Net_Nhom5\BTL_Nhom5\BTL_ASP.NET_NHOM_5\bin\roslyn\System.IO.Compression.dll
+D:\Hoc olline\.Net\Duc878\BTL_ASP.Net_Nhom5\BTL_Nhom5\BTL_ASP.NET_NHOM_5\bin\roslyn\System.IO.Compression.ZipFile.dll
+D:\Hoc olline\.Net\Duc878\BTL_ASP.Net_Nhom5\BTL_Nhom5\BTL_ASP.NET_NHOM_5\bin\roslyn\System.IO.FileSystem.dll
+D:\Hoc olline\.Net\Duc878\BTL_ASP.Net_Nhom5\BTL_Nhom5\BTL_ASP.NET_NHOM_5\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\Hoc olline\.Net\Duc878\BTL_ASP.Net_Nhom5\BTL_Nhom5\BTL_ASP.NET_NHOM_5\bin\roslyn\System.Net.Http.dll
+D:\Hoc olline\.Net\Duc878\BTL_ASP.Net_Nhom5\BTL_Nhom5\BTL_ASP.NET_NHOM_5\bin\roslyn\System.Net.Sockets.dll
+D:\Hoc olline\.Net\Duc878\BTL_ASP.Net_Nhom5\BTL_Nhom5\BTL_ASP.NET_NHOM_5\bin\roslyn\System.Reflection.Metadata.dll
+D:\Hoc olline\.Net\Duc878\BTL_ASP.Net_Nhom5\BTL_Nhom5\BTL_ASP.NET_NHOM_5\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\Hoc olline\.Net\Duc878\BTL_ASP.Net_Nhom5\BTL_Nhom5\BTL_ASP.NET_NHOM_5\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\Hoc olline\.Net\Duc878\BTL_ASP.Net_Nhom5\BTL_Nhom5\BTL_ASP.NET_NHOM_5\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\Hoc olline\.Net\Duc878\BTL_ASP.Net_Nhom5\BTL_Nhom5\BTL_ASP.NET_NHOM_5\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\Hoc olline\.Net\Duc878\BTL_ASP.Net_Nhom5\BTL_Nhom5\BTL_ASP.NET_NHOM_5\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\Hoc olline\.Net\Duc878\BTL_ASP.Net_Nhom5\BTL_Nhom5\BTL_ASP.NET_NHOM_5\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\Hoc olline\.Net\Duc878\BTL_ASP.Net_Nhom5\BTL_Nhom5\BTL_ASP.NET_NHOM_5\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\Hoc olline\.Net\Duc878\BTL_ASP.Net_Nhom5\BTL_Nhom5\BTL_ASP.NET_NHOM_5\bin\roslyn\System.ValueTuple.dll
+D:\Hoc olline\.Net\Duc878\BTL_ASP.Net_Nhom5\BTL_Nhom5\BTL_ASP.NET_NHOM_5\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\Hoc olline\.Net\Duc878\BTL_ASP.Net_Nhom5\BTL_Nhom5\BTL_ASP.NET_NHOM_5\bin\roslyn\System.Xml.XmlDocument.dll
+D:\Hoc olline\.Net\Duc878\BTL_ASP.Net_Nhom5\BTL_Nhom5\BTL_ASP.NET_NHOM_5\bin\roslyn\System.Xml.XPath.dll
+D:\Hoc olline\.Net\Duc878\BTL_ASP.Net_Nhom5\BTL_Nhom5\BTL_ASP.NET_NHOM_5\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\Hoc olline\.Net\Duc878\BTL_ASP.Net_Nhom5\BTL_Nhom5\BTL_ASP.NET_NHOM_5\bin\roslyn\vbc.exe
+D:\Hoc olline\.Net\Duc878\BTL_ASP.Net_Nhom5\BTL_Nhom5\BTL_ASP.NET_NHOM_5\bin\roslyn\vbc.exe.config
+D:\Hoc olline\.Net\Duc878\BTL_ASP.Net_Nhom5\BTL_Nhom5\BTL_ASP.NET_NHOM_5\bin\roslyn\vbc.rsp
+D:\Hoc olline\.Net\Duc878\BTL_ASP.Net_Nhom5\BTL_Nhom5\BTL_ASP.NET_NHOM_5\bin\roslyn\VBCSCompiler.exe
+D:\Hoc olline\.Net\Duc878\BTL_ASP.Net_Nhom5\BTL_Nhom5\BTL_ASP.NET_NHOM_5\bin\roslyn\VBCSCompiler.exe.config
+D:\Hoc olline\.Net\Duc878\BTL_ASP.Net_Nhom5\BTL_Nhom5\BTL_ASP.NET_NHOM_5\bin\Antlr3.Runtime.dll
+D:\Hoc olline\.Net\Duc878\BTL_ASP.Net_Nhom5\BTL_Nhom5\BTL_ASP.NET_NHOM_5\bin\EntityFramework.dll
+D:\Hoc olline\.Net\Duc878\BTL_ASP.Net_Nhom5\BTL_Nhom5\BTL_ASP.NET_NHOM_5\bin\EntityFramework.SqlServer.dll
+D:\Hoc olline\.Net\Duc878\BTL_ASP.Net_Nhom5\BTL_Nhom5\BTL_ASP.NET_NHOM_5\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Hoc olline\.Net\Duc878\BTL_ASP.Net_Nhom5\BTL_Nhom5\BTL_ASP.NET_NHOM_5\bin\Microsoft.Web.Infrastructure.dll
+D:\Hoc olline\.Net\Duc878\BTL_ASP.Net_Nhom5\BTL_Nhom5\BTL_ASP.NET_NHOM_5\bin\Newtonsoft.Json.dll
+D:\Hoc olline\.Net\Duc878\BTL_ASP.Net_Nhom5\BTL_Nhom5\BTL_ASP.NET_NHOM_5\bin\PagedList.dll
+D:\Hoc olline\.Net\Duc878\BTL_ASP.Net_Nhom5\BTL_Nhom5\BTL_ASP.NET_NHOM_5\bin\PagedList.Mvc.dll
+D:\Hoc olline\.Net\Duc878\BTL_ASP.Net_Nhom5\BTL_Nhom5\BTL_ASP.NET_NHOM_5\bin\System.Buffers.dll
+D:\Hoc olline\.Net\Duc878\BTL_ASP.Net_Nhom5\BTL_Nhom5\BTL_ASP.NET_NHOM_5\bin\System.Runtime.CompilerServices.Unsafe.dll
+D:\Hoc olline\.Net\Duc878\BTL_ASP.Net_Nhom5\BTL_Nhom5\BTL_ASP.NET_NHOM_5\bin\System.Text.Encoding.CodePages.dll
+D:\Hoc olline\.Net\Duc878\BTL_ASP.Net_Nhom5\BTL_Nhom5\BTL_ASP.NET_NHOM_5\bin\System.Web.Helpers.dll
+D:\Hoc olline\.Net\Duc878\BTL_ASP.Net_Nhom5\BTL_Nhom5\BTL_ASP.NET_NHOM_5\bin\System.Web.Mvc.dll
+D:\Hoc olline\.Net\Duc878\BTL_ASP.Net_Nhom5\BTL_Nhom5\BTL_ASP.NET_NHOM_5\bin\System.Web.Optimization.dll
+D:\Hoc olline\.Net\Duc878\BTL_ASP.Net_Nhom5\BTL_Nhom5\BTL_ASP.NET_NHOM_5\bin\System.Web.Razor.dll
+D:\Hoc olline\.Net\Duc878\BTL_ASP.Net_Nhom5\BTL_Nhom5\BTL_ASP.NET_NHOM_5\bin\System.Web.WebPages.Deployment.dll
+D:\Hoc olline\.Net\Duc878\BTL_ASP.Net_Nhom5\BTL_Nhom5\BTL_ASP.NET_NHOM_5\bin\System.Web.WebPages.dll
+D:\Hoc olline\.Net\Duc878\BTL_ASP.Net_Nhom5\BTL_Nhom5\BTL_ASP.NET_NHOM_5\bin\System.Web.WebPages.Razor.dll
+D:\Hoc olline\.Net\Duc878\BTL_ASP.Net_Nhom5\BTL_Nhom5\BTL_ASP.NET_NHOM_5\bin\WebGrease.dll
+D:\Hoc olline\.Net\Duc878\BTL_ASP.Net_Nhom5\BTL_Nhom5\BTL_ASP.NET_NHOM_5\bin\EntityFramework.xml
+D:\Hoc olline\.Net\Duc878\BTL_ASP.Net_Nhom5\BTL_Nhom5\BTL_ASP.NET_NHOM_5\bin\EntityFramework.SqlServer.xml
+D:\Hoc olline\.Net\Duc878\BTL_ASP.Net_Nhom5\BTL_Nhom5\BTL_ASP.NET_NHOM_5\bin\PagedList.xml
+D:\Hoc olline\.Net\Duc878\BTL_ASP.Net_Nhom5\BTL_Nhom5\BTL_ASP.NET_NHOM_5\bin\PagedList.Mvc.xml
+D:\Hoc olline\.Net\Duc878\BTL_ASP.Net_Nhom5\BTL_Nhom5\BTL_ASP.NET_NHOM_5\bin\System.Buffers.xml
+D:\Hoc olline\.Net\Duc878\BTL_ASP.Net_Nhom5\BTL_Nhom5\BTL_ASP.NET_NHOM_5\bin\System.Runtime.CompilerServices.Unsafe.xml
+D:\Hoc olline\.Net\Duc878\BTL_ASP.Net_Nhom5\BTL_Nhom5\BTL_ASP.NET_NHOM_5\bin\System.Text.Encoding.CodePages.xml
+D:\Hoc olline\.Net\Duc878\BTL_ASP.Net_Nhom5\BTL_Nhom5\BTL_ASP.NET_NHOM_5\bin\System.Web.Helpers.xml
+D:\Hoc olline\.Net\Duc878\BTL_ASP.Net_Nhom5\BTL_Nhom5\BTL_ASP.NET_NHOM_5\bin\System.Web.Mvc.xml
+D:\Hoc olline\.Net\Duc878\BTL_ASP.Net_Nhom5\BTL_Nhom5\BTL_ASP.NET_NHOM_5\bin\System.Web.Optimization.xml
+D:\Hoc olline\.Net\Duc878\BTL_ASP.Net_Nhom5\BTL_Nhom5\BTL_ASP.NET_NHOM_5\bin\System.Web.Razor.xml
+D:\Hoc olline\.Net\Duc878\BTL_ASP.Net_Nhom5\BTL_Nhom5\BTL_ASP.NET_NHOM_5\bin\System.Web.WebPages.xml
+D:\Hoc olline\.Net\Duc878\BTL_ASP.Net_Nhom5\BTL_Nhom5\BTL_ASP.NET_NHOM_5\bin\System.Web.WebPages.Deployment.xml
+D:\Hoc olline\.Net\Duc878\BTL_ASP.Net_Nhom5\BTL_Nhom5\BTL_ASP.NET_NHOM_5\bin\System.Web.WebPages.Razor.xml
+D:\Hoc olline\.Net\Duc878\BTL_ASP.Net_Nhom5\BTL_Nhom5\BTL_ASP.NET_NHOM_5\bin\Newtonsoft.Json.xml
+D:\Hoc olline\.Net\Duc878\BTL_ASP.Net_Nhom5\BTL_Nhom5\BTL_ASP.NET_NHOM_5\bin\Antlr3.Runtime.pdb
+D:\Hoc olline\.Net\Duc878\BTL_ASP.Net_Nhom5\BTL_Nhom5\BTL_ASP.NET_NHOM_5\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Hoc olline\.Net\Duc878\BTL_ASP.Net_Nhom5\BTL_Nhom5\BTL_ASP.NET_NHOM_5\obj\Debug\BTL_ASP.NET_NHOM_5.csproj.AssemblyReference.cache
+D:\Hoc olline\.Net\Duc878\BTL_ASP.Net_Nhom5\BTL_Nhom5\BTL_ASP.NET_NHOM_5\obj\Debug\BTL_ASP.NET_NHOM_5.csproj.CoreCompileInputs.cache
+D:\Hoc olline\.Net\Duc878\BTL_ASP.Net_Nhom5\BTL_Nhom5\BTL_ASP.NET_NHOM_5\obj\Debug\BTL_ASP.NET_NHOM_5.csproj.CopyComplete
+D:\Hoc olline\.Net\Duc878\BTL_ASP.Net_Nhom5\BTL_Nhom5\BTL_ASP.NET_NHOM_5\obj\Debug\BTL_ASP.NET_NHOM_5.dll
+D:\Hoc olline\.Net\Duc878\BTL_ASP.Net_Nhom5\BTL_Nhom5\BTL_ASP.NET_NHOM_5\obj\Debug\BTL_ASP.NET_NHOM_5.pdb
+C:\Users\DELL\Downloads\BTL_Nhom5\BTL_ASP.NET_NHOM_5\bin\BTL_ASP.NET_NHOM_5.dll.config
+C:\Users\DELL\Downloads\BTL_Nhom5\BTL_ASP.NET_NHOM_5\bin\BTL_ASP.NET_NHOM_5.dll
+C:\Users\DELL\Downloads\BTL_Nhom5\BTL_ASP.NET_NHOM_5\bin\BTL_ASP.NET_NHOM_5.pdb
+C:\Users\DELL\Downloads\BTL_Nhom5\BTL_ASP.NET_NHOM_5\bin\roslyn\csc.exe
+C:\Users\DELL\Downloads\BTL_Nhom5\BTL_ASP.NET_NHOM_5\bin\roslyn\csc.exe.config
+C:\Users\DELL\Downloads\BTL_Nhom5\BTL_ASP.NET_NHOM_5\bin\roslyn\csc.rsp
+C:\Users\DELL\Downloads\BTL_Nhom5\BTL_ASP.NET_NHOM_5\bin\roslyn\csi.exe
+C:\Users\DELL\Downloads\BTL_Nhom5\BTL_ASP.NET_NHOM_5\bin\roslyn\csi.exe.config
+C:\Users\DELL\Downloads\BTL_Nhom5\BTL_ASP.NET_NHOM_5\bin\roslyn\csi.rsp
+C:\Users\DELL\Downloads\BTL_Nhom5\BTL_ASP.NET_NHOM_5\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\DELL\Downloads\BTL_Nhom5\BTL_ASP.NET_NHOM_5\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\DELL\Downloads\BTL_Nhom5\BTL_ASP.NET_NHOM_5\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\DELL\Downloads\BTL_Nhom5\BTL_ASP.NET_NHOM_5\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\DELL\Downloads\BTL_Nhom5\BTL_ASP.NET_NHOM_5\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\DELL\Downloads\BTL_Nhom5\BTL_ASP.NET_NHOM_5\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\DELL\Downloads\BTL_Nhom5\BTL_ASP.NET_NHOM_5\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\DELL\Downloads\BTL_Nhom5\BTL_ASP.NET_NHOM_5\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\DELL\Downloads\BTL_Nhom5\BTL_ASP.NET_NHOM_5\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\DELL\Downloads\BTL_Nhom5\BTL_ASP.NET_NHOM_5\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\DELL\Downloads\BTL_Nhom5\BTL_ASP.NET_NHOM_5\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\DELL\Downloads\BTL_Nhom5\BTL_ASP.NET_NHOM_5\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\DELL\Downloads\BTL_Nhom5\BTL_ASP.NET_NHOM_5\bin\roslyn\System.AppContext.dll
+C:\Users\DELL\Downloads\BTL_Nhom5\BTL_ASP.NET_NHOM_5\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\DELL\Downloads\BTL_Nhom5\BTL_ASP.NET_NHOM_5\bin\roslyn\System.Console.dll
+C:\Users\DELL\Downloads\BTL_Nhom5\BTL_ASP.NET_NHOM_5\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\DELL\Downloads\BTL_Nhom5\BTL_ASP.NET_NHOM_5\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\DELL\Downloads\BTL_Nhom5\BTL_ASP.NET_NHOM_5\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\DELL\Downloads\BTL_Nhom5\BTL_ASP.NET_NHOM_5\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\DELL\Downloads\BTL_Nhom5\BTL_ASP.NET_NHOM_5\bin\roslyn\System.IO.Compression.dll
+C:\Users\DELL\Downloads\BTL_Nhom5\BTL_ASP.NET_NHOM_5\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\DELL\Downloads\BTL_Nhom5\BTL_ASP.NET_NHOM_5\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\DELL\Downloads\BTL_Nhom5\BTL_ASP.NET_NHOM_5\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\DELL\Downloads\BTL_Nhom5\BTL_ASP.NET_NHOM_5\bin\roslyn\System.Net.Http.dll
+C:\Users\DELL\Downloads\BTL_Nhom5\BTL_ASP.NET_NHOM_5\bin\roslyn\System.Net.Sockets.dll
+C:\Users\DELL\Downloads\BTL_Nhom5\BTL_ASP.NET_NHOM_5\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\DELL\Downloads\BTL_Nhom5\BTL_ASP.NET_NHOM_5\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\DELL\Downloads\BTL_Nhom5\BTL_ASP.NET_NHOM_5\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\DELL\Downloads\BTL_Nhom5\BTL_ASP.NET_NHOM_5\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\DELL\Downloads\BTL_Nhom5\BTL_ASP.NET_NHOM_5\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\DELL\Downloads\BTL_Nhom5\BTL_ASP.NET_NHOM_5\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\DELL\Downloads\BTL_Nhom5\BTL_ASP.NET_NHOM_5\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\DELL\Downloads\BTL_Nhom5\BTL_ASP.NET_NHOM_5\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\DELL\Downloads\BTL_Nhom5\BTL_ASP.NET_NHOM_5\bin\roslyn\System.ValueTuple.dll
+C:\Users\DELL\Downloads\BTL_Nhom5\BTL_ASP.NET_NHOM_5\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\DELL\Downloads\BTL_Nhom5\BTL_ASP.NET_NHOM_5\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\DELL\Downloads\BTL_Nhom5\BTL_ASP.NET_NHOM_5\bin\roslyn\System.Xml.XPath.dll
+C:\Users\DELL\Downloads\BTL_Nhom5\BTL_ASP.NET_NHOM_5\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\DELL\Downloads\BTL_Nhom5\BTL_ASP.NET_NHOM_5\bin\roslyn\vbc.exe
+C:\Users\DELL\Downloads\BTL_Nhom5\BTL_ASP.NET_NHOM_5\bin\roslyn\vbc.exe.config
+C:\Users\DELL\Downloads\BTL_Nhom5\BTL_ASP.NET_NHOM_5\bin\roslyn\vbc.rsp
+C:\Users\DELL\Downloads\BTL_Nhom5\BTL_ASP.NET_NHOM_5\bin\roslyn\VBCSCompiler.exe
+C:\Users\DELL\Downloads\BTL_Nhom5\BTL_ASP.NET_NHOM_5\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\DELL\Downloads\BTL_Nhom5\BTL_ASP.NET_NHOM_5\bin\Antlr3.Runtime.dll
+C:\Users\DELL\Downloads\BTL_Nhom5\BTL_ASP.NET_NHOM_5\bin\EntityFramework.dll
+C:\Users\DELL\Downloads\BTL_Nhom5\BTL_ASP.NET_NHOM_5\bin\EntityFramework.SqlServer.dll
+C:\Users\DELL\Downloads\BTL_Nhom5\BTL_ASP.NET_NHOM_5\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\DELL\Downloads\BTL_Nhom5\BTL_ASP.NET_NHOM_5\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\DELL\Downloads\BTL_Nhom5\BTL_ASP.NET_NHOM_5\bin\Newtonsoft.Json.dll
+C:\Users\DELL\Downloads\BTL_Nhom5\BTL_ASP.NET_NHOM_5\bin\PagedList.dll
+C:\Users\DELL\Downloads\BTL_Nhom5\BTL_ASP.NET_NHOM_5\bin\PagedList.Mvc.dll
+C:\Users\DELL\Downloads\BTL_Nhom5\BTL_ASP.NET_NHOM_5\bin\System.Buffers.dll
+C:\Users\DELL\Downloads\BTL_Nhom5\BTL_ASP.NET_NHOM_5\bin\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\DELL\Downloads\BTL_Nhom5\BTL_ASP.NET_NHOM_5\bin\System.Text.Encoding.CodePages.dll
+C:\Users\DELL\Downloads\BTL_Nhom5\BTL_ASP.NET_NHOM_5\bin\System.Web.Helpers.dll
+C:\Users\DELL\Downloads\BTL_Nhom5\BTL_ASP.NET_NHOM_5\bin\System.Web.Mvc.dll
+C:\Users\DELL\Downloads\BTL_Nhom5\BTL_ASP.NET_NHOM_5\bin\System.Web.Optimization.dll
+C:\Users\DELL\Downloads\BTL_Nhom5\BTL_ASP.NET_NHOM_5\bin\System.Web.Razor.dll
+C:\Users\DELL\Downloads\BTL_Nhom5\BTL_ASP.NET_NHOM_5\bin\System.Web.WebPages.Deployment.dll
+C:\Users\DELL\Downloads\BTL_Nhom5\BTL_ASP.NET_NHOM_5\bin\System.Web.WebPages.dll
+C:\Users\DELL\Downloads\BTL_Nhom5\BTL_ASP.NET_NHOM_5\bin\System.Web.WebPages.Razor.dll
+C:\Users\DELL\Downloads\BTL_Nhom5\BTL_ASP.NET_NHOM_5\bin\WebGrease.dll
+C:\Users\DELL\Downloads\BTL_Nhom5\BTL_ASP.NET_NHOM_5\bin\EntityFramework.xml
+C:\Users\DELL\Downloads\BTL_Nhom5\BTL_ASP.NET_NHOM_5\bin\EntityFramework.SqlServer.xml
+C:\Users\DELL\Downloads\BTL_Nhom5\BTL_ASP.NET_NHOM_5\bin\PagedList.xml
+C:\Users\DELL\Downloads\BTL_Nhom5\BTL_ASP.NET_NHOM_5\bin\PagedList.Mvc.xml
+C:\Users\DELL\Downloads\BTL_Nhom5\BTL_ASP.NET_NHOM_5\bin\System.Buffers.xml
+C:\Users\DELL\Downloads\BTL_Nhom5\BTL_ASP.NET_NHOM_5\bin\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\DELL\Downloads\BTL_Nhom5\BTL_ASP.NET_NHOM_5\bin\System.Text.Encoding.CodePages.xml
+C:\Users\DELL\Downloads\BTL_Nhom5\BTL_ASP.NET_NHOM_5\bin\System.Web.Helpers.xml
+C:\Users\DELL\Downloads\BTL_Nhom5\BTL_ASP.NET_NHOM_5\bin\System.Web.Mvc.xml
+C:\Users\DELL\Downloads\BTL_Nhom5\BTL_ASP.NET_NHOM_5\bin\System.Web.Optimization.xml
+C:\Users\DELL\Downloads\BTL_Nhom5\BTL_ASP.NET_NHOM_5\bin\System.Web.Razor.xml
+C:\Users\DELL\Downloads\BTL_Nhom5\BTL_ASP.NET_NHOM_5\bin\System.Web.WebPages.xml
+C:\Users\DELL\Downloads\BTL_Nhom5\BTL_ASP.NET_NHOM_5\bin\System.Web.WebPages.Deployment.xml
+C:\Users\DELL\Downloads\BTL_Nhom5\BTL_ASP.NET_NHOM_5\bin\System.Web.WebPages.Razor.xml
+C:\Users\DELL\Downloads\BTL_Nhom5\BTL_ASP.NET_NHOM_5\bin\Newtonsoft.Json.xml
+C:\Users\DELL\Downloads\BTL_Nhom5\BTL_ASP.NET_NHOM_5\bin\Antlr3.Runtime.pdb
+C:\Users\DELL\Downloads\BTL_Nhom5\BTL_ASP.NET_NHOM_5\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\DELL\Downloads\BTL_Nhom5\BTL_ASP.NET_NHOM_5\obj\Debug\BTL_ASP.NET_NHOM_5.csproj.AssemblyReference.cache
+C:\Users\DELL\Downloads\BTL_Nhom5\BTL_ASP.NET_NHOM_5\obj\Debug\BTL_ASP.NET_NHOM_5.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Downloads\BTL_Nhom5\BTL_ASP.NET_NHOM_5\obj\Debug\BTL_ASP.NET_NHOM_5.csproj.CopyComplete
+C:\Users\DELL\Downloads\BTL_Nhom5\BTL_ASP.NET_NHOM_5\obj\Debug\BTL_ASP.NET_NHOM_5.dll
+C:\Users\DELL\Downloads\BTL_Nhom5\BTL_ASP.NET_NHOM_5\obj\Debug\BTL_ASP.NET_NHOM_5.pdb
+C:\Users\ADMIN\OneDrive\Máy tính\BTL_Nhom5\BTL_ASP.NET_NHOM_5\bin\BTL_ASP.NET_NHOM_5.dll.config
+C:\Users\ADMIN\OneDrive\Máy tính\BTL_Nhom5\BTL_ASP.NET_NHOM_5\bin\BTL_ASP.NET_NHOM_5.dll
+C:\Users\ADMIN\OneDrive\Máy tính\BTL_Nhom5\BTL_ASP.NET_NHOM_5\bin\BTL_ASP.NET_NHOM_5.pdb
+C:\Users\ADMIN\OneDrive\Máy tính\BTL_Nhom5\BTL_ASP.NET_NHOM_5\bin\roslyn\csc.exe
+C:\Users\ADMIN\OneDrive\Máy tính\BTL_Nhom5\BTL_ASP.NET_NHOM_5\bin\roslyn\csc.exe.config
+C:\Users\ADMIN\OneDrive\Máy tính\BTL_Nhom5\BTL_ASP.NET_NHOM_5\bin\roslyn\csc.rsp
+C:\Users\ADMIN\OneDrive\Máy tính\BTL_Nhom5\BTL_ASP.NET_NHOM_5\bin\roslyn\csi.exe
+C:\Users\ADMIN\OneDrive\Máy tính\BTL_Nhom5\BTL_ASP.NET_NHOM_5\bin\roslyn\csi.exe.config
+C:\Users\ADMIN\OneDrive\Máy tính\BTL_Nhom5\BTL_ASP.NET_NHOM_5\bin\roslyn\csi.rsp
+C:\Users\ADMIN\OneDrive\Máy tính\BTL_Nhom5\BTL_ASP.NET_NHOM_5\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\ADMIN\OneDrive\Máy tính\BTL_Nhom5\BTL_ASP.NET_NHOM_5\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\ADMIN\OneDrive\Máy tính\BTL_Nhom5\BTL_ASP.NET_NHOM_5\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\ADMIN\OneDrive\Máy tính\BTL_Nhom5\BTL_ASP.NET_NHOM_5\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\ADMIN\OneDrive\Máy tính\BTL_Nhom5\BTL_ASP.NET_NHOM_5\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\ADMIN\OneDrive\Máy tính\BTL_Nhom5\BTL_ASP.NET_NHOM_5\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\ADMIN\OneDrive\Máy tính\BTL_Nhom5\BTL_ASP.NET_NHOM_5\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\ADMIN\OneDrive\Máy tính\BTL_Nhom5\BTL_ASP.NET_NHOM_5\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\ADMIN\OneDrive\Máy tính\BTL_Nhom5\BTL_ASP.NET_NHOM_5\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\ADMIN\OneDrive\Máy tính\BTL_Nhom5\BTL_ASP.NET_NHOM_5\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\ADMIN\OneDrive\Máy tính\BTL_Nhom5\BTL_ASP.NET_NHOM_5\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\ADMIN\OneDrive\Máy tính\BTL_Nhom5\BTL_ASP.NET_NHOM_5\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\ADMIN\OneDrive\Máy tính\BTL_Nhom5\BTL_ASP.NET_NHOM_5\bin\roslyn\System.AppContext.dll
+C:\Users\ADMIN\OneDrive\Máy tính\BTL_Nhom5\BTL_ASP.NET_NHOM_5\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\ADMIN\OneDrive\Máy tính\BTL_Nhom5\BTL_ASP.NET_NHOM_5\bin\roslyn\System.Console.dll
+C:\Users\ADMIN\OneDrive\Máy tính\BTL_Nhom5\BTL_ASP.NET_NHOM_5\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\ADMIN\OneDrive\Máy tính\BTL_Nhom5\BTL_ASP.NET_NHOM_5\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\ADMIN\OneDrive\Máy tính\BTL_Nhom5\BTL_ASP.NET_NHOM_5\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\ADMIN\OneDrive\Máy tính\BTL_Nhom5\BTL_ASP.NET_NHOM_5\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\ADMIN\OneDrive\Máy tính\BTL_Nhom5\BTL_ASP.NET_NHOM_5\bin\roslyn\System.IO.Compression.dll
+C:\Users\ADMIN\OneDrive\Máy tính\BTL_Nhom5\BTL_ASP.NET_NHOM_5\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\ADMIN\OneDrive\Máy tính\BTL_Nhom5\BTL_ASP.NET_NHOM_5\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\ADMIN\OneDrive\Máy tính\BTL_Nhom5\BTL_ASP.NET_NHOM_5\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\ADMIN\OneDrive\Máy tính\BTL_Nhom5\BTL_ASP.NET_NHOM_5\bin\roslyn\System.Net.Http.dll
+C:\Users\ADMIN\OneDrive\Máy tính\BTL_Nhom5\BTL_ASP.NET_NHOM_5\bin\roslyn\System.Net.Sockets.dll
+C:\Users\ADMIN\OneDrive\Máy tính\BTL_Nhom5\BTL_ASP.NET_NHOM_5\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\ADMIN\OneDrive\Máy tính\BTL_Nhom5\BTL_ASP.NET_NHOM_5\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\ADMIN\OneDrive\Máy tính\BTL_Nhom5\BTL_ASP.NET_NHOM_5\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\ADMIN\OneDrive\Máy tính\BTL_Nhom5\BTL_ASP.NET_NHOM_5\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\ADMIN\OneDrive\Máy tính\BTL_Nhom5\BTL_ASP.NET_NHOM_5\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\ADMIN\OneDrive\Máy tính\BTL_Nhom5\BTL_ASP.NET_NHOM_5\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\ADMIN\OneDrive\Máy tính\BTL_Nhom5\BTL_ASP.NET_NHOM_5\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\ADMIN\OneDrive\Máy tính\BTL_Nhom5\BTL_ASP.NET_NHOM_5\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\ADMIN\OneDrive\Máy tính\BTL_Nhom5\BTL_ASP.NET_NHOM_5\bin\roslyn\System.ValueTuple.dll
+C:\Users\ADMIN\OneDrive\Máy tính\BTL_Nhom5\BTL_ASP.NET_NHOM_5\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\ADMIN\OneDrive\Máy tính\BTL_Nhom5\BTL_ASP.NET_NHOM_5\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\ADMIN\OneDrive\Máy tính\BTL_Nhom5\BTL_ASP.NET_NHOM_5\bin\roslyn\System.Xml.XPath.dll
+C:\Users\ADMIN\OneDrive\Máy tính\BTL_Nhom5\BTL_ASP.NET_NHOM_5\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\ADMIN\OneDrive\Máy tính\BTL_Nhom5\BTL_ASP.NET_NHOM_5\bin\roslyn\vbc.exe
+C:\Users\ADMIN\OneDrive\Máy tính\BTL_Nhom5\BTL_ASP.NET_NHOM_5\bin\roslyn\vbc.exe.config
+C:\Users\ADMIN\OneDrive\Máy tính\BTL_Nhom5\BTL_ASP.NET_NHOM_5\bin\roslyn\vbc.rsp
+C:\Users\ADMIN\OneDrive\Máy tính\BTL_Nhom5\BTL_ASP.NET_NHOM_5\bin\roslyn\VBCSCompiler.exe
+C:\Users\ADMIN\OneDrive\Máy tính\BTL_Nhom5\BTL_ASP.NET_NHOM_5\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\ADMIN\OneDrive\Máy tính\BTL_Nhom5\BTL_ASP.NET_NHOM_5\bin\Antlr3.Runtime.dll
+C:\Users\ADMIN\OneDrive\Máy tính\BTL_Nhom5\BTL_ASP.NET_NHOM_5\bin\EntityFramework.dll
+C:\Users\ADMIN\OneDrive\Máy tính\BTL_Nhom5\BTL_ASP.NET_NHOM_5\bin\EntityFramework.SqlServer.dll
+C:\Users\ADMIN\OneDrive\Máy tính\BTL_Nhom5\BTL_ASP.NET_NHOM_5\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\ADMIN\OneDrive\Máy tính\BTL_Nhom5\BTL_ASP.NET_NHOM_5\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\ADMIN\OneDrive\Máy tính\BTL_Nhom5\BTL_ASP.NET_NHOM_5\bin\Newtonsoft.Json.dll
+C:\Users\ADMIN\OneDrive\Máy tính\BTL_Nhom5\BTL_ASP.NET_NHOM_5\bin\PagedList.dll
+C:\Users\ADMIN\OneDrive\Máy tính\BTL_Nhom5\BTL_ASP.NET_NHOM_5\bin\PagedList.Mvc.dll
+C:\Users\ADMIN\OneDrive\Máy tính\BTL_Nhom5\BTL_ASP.NET_NHOM_5\bin\System.Buffers.dll
+C:\Users\ADMIN\OneDrive\Máy tính\BTL_Nhom5\BTL_ASP.NET_NHOM_5\bin\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\ADMIN\OneDrive\Máy tính\BTL_Nhom5\BTL_ASP.NET_NHOM_5\bin\System.Text.Encoding.CodePages.dll
+C:\Users\ADMIN\OneDrive\Máy tính\BTL_Nhom5\BTL_ASP.NET_NHOM_5\bin\System.Web.Helpers.dll
+C:\Users\ADMIN\OneDrive\Máy tính\BTL_Nhom5\BTL_ASP.NET_NHOM_5\bin\System.Web.Mvc.dll
+C:\Users\ADMIN\OneDrive\Máy tính\BTL_Nhom5\BTL_ASP.NET_NHOM_5\bin\System.Web.Optimization.dll
+C:\Users\ADMIN\OneDrive\Máy tính\BTL_Nhom5\BTL_ASP.NET_NHOM_5\bin\System.Web.Razor.dll
+C:\Users\ADMIN\OneDrive\Máy tính\BTL_Nhom5\BTL_ASP.NET_NHOM_5\bin\System.Web.WebPages.Deployment.dll
+C:\Users\ADMIN\OneDrive\Máy tính\BTL_Nhom5\BTL_ASP.NET_NHOM_5\bin\System.Web.WebPages.dll
+C:\Users\ADMIN\OneDrive\Máy tính\BTL_Nhom5\BTL_ASP.NET_NHOM_5\bin\System.Web.WebPages.Razor.dll
+C:\Users\ADMIN\OneDrive\Máy tính\BTL_Nhom5\BTL_ASP.NET_NHOM_5\bin\WebGrease.dll
+C:\Users\ADMIN\OneDrive\Máy tính\BTL_Nhom5\BTL_ASP.NET_NHOM_5\bin\EntityFramework.xml
+C:\Users\ADMIN\OneDrive\Máy tính\BTL_Nhom5\BTL_ASP.NET_NHOM_5\bin\EntityFramework.SqlServer.xml
+C:\Users\ADMIN\OneDrive\Máy tính\BTL_Nhom5\BTL_ASP.NET_NHOM_5\bin\PagedList.xml
+C:\Users\ADMIN\OneDrive\Máy tính\BTL_Nhom5\BTL_ASP.NET_NHOM_5\bin\PagedList.Mvc.xml
+C:\Users\ADMIN\OneDrive\Máy tính\BTL_Nhom5\BTL_ASP.NET_NHOM_5\bin\System.Buffers.xml
+C:\Users\ADMIN\OneDrive\Máy tính\BTL_Nhom5\BTL_ASP.NET_NHOM_5\bin\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\ADMIN\OneDrive\Máy tính\BTL_Nhom5\BTL_ASP.NET_NHOM_5\bin\System.Text.Encoding.CodePages.xml
+C:\Users\ADMIN\OneDrive\Máy tính\BTL_Nhom5\BTL_ASP.NET_NHOM_5\bin\System.Web.Helpers.xml
+C:\Users\ADMIN\OneDrive\Máy tính\BTL_Nhom5\BTL_ASP.NET_NHOM_5\bin\System.Web.Mvc.xml
+C:\Users\ADMIN\OneDrive\Máy tính\BTL_Nhom5\BTL_ASP.NET_NHOM_5\bin\System.Web.Optimization.xml
+C:\Users\ADMIN\OneDrive\Máy tính\BTL_Nhom5\BTL_ASP.NET_NHOM_5\bin\System.Web.Razor.xml
+C:\Users\ADMIN\OneDrive\Máy tính\BTL_Nhom5\BTL_ASP.NET_NHOM_5\bin\System.Web.WebPages.xml
+C:\Users\ADMIN\OneDrive\Máy tính\BTL_Nhom5\BTL_ASP.NET_NHOM_5\bin\System.Web.WebPages.Deployment.xml
+C:\Users\ADMIN\OneDrive\Máy tính\BTL_Nhom5\BTL_ASP.NET_NHOM_5\bin\System.Web.WebPages.Razor.xml
+C:\Users\ADMIN\OneDrive\Máy tính\BTL_Nhom5\BTL_ASP.NET_NHOM_5\bin\Newtonsoft.Json.xml
+C:\Users\ADMIN\OneDrive\Máy tính\BTL_Nhom5\BTL_ASP.NET_NHOM_5\bin\Antlr3.Runtime.pdb
+C:\Users\ADMIN\OneDrive\Máy tính\BTL_Nhom5\BTL_ASP.NET_NHOM_5\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\ADMIN\OneDrive\Máy tính\BTL_Nhom5\BTL_ASP.NET_NHOM_5\obj\Debug\BTL_ASP.NET_NHOM_5.csproj.AssemblyReference.cache
+C:\Users\ADMIN\OneDrive\Máy tính\BTL_Nhom5\BTL_ASP.NET_NHOM_5\obj\Debug\BTL_ASP.NET_NHOM_5.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\OneDrive\Máy tính\BTL_Nhom5\BTL_ASP.NET_NHOM_5\obj\Debug\BTL_ASP.NET_NHOM_5.csproj.CopyComplete
+C:\Users\ADMIN\OneDrive\Máy tính\BTL_Nhom5\BTL_ASP.NET_NHOM_5\obj\Debug\BTL_ASP.NET_NHOM_5.dll
+C:\Users\ADMIN\OneDrive\Máy tính\BTL_Nhom5\BTL_ASP.NET_NHOM_5\obj\Debug\BTL_ASP.NET_NHOM_5.pdb
+D:\Ki 6\ASP.NET\BaiTapLon\BTL_Nhom5\BTL_ASP.NET_NHOM_5\bin\BTL_ASP.NET_NHOM_5.dll.config
+D:\Ki 6\ASP.NET\BaiTapLon\BTL_Nhom5\BTL_ASP.NET_NHOM_5\bin\BTL_ASP.NET_NHOM_5.dll
+D:\Ki 6\ASP.NET\BaiTapLon\BTL_Nhom5\BTL_ASP.NET_NHOM_5\bin\BTL_ASP.NET_NHOM_5.pdb
+D:\Ki 6\ASP.NET\BaiTapLon\BTL_Nhom5\BTL_ASP.NET_NHOM_5\bin\roslyn\csc.exe
+D:\Ki 6\ASP.NET\BaiTapLon\BTL_Nhom5\BTL_ASP.NET_NHOM_5\bin\roslyn\csc.exe.config
+D:\Ki 6\ASP.NET\BaiTapLon\BTL_Nhom5\BTL_ASP.NET_NHOM_5\bin\roslyn\csc.rsp
+D:\Ki 6\ASP.NET\BaiTapLon\BTL_Nhom5\BTL_ASP.NET_NHOM_5\bin\roslyn\csi.exe
+D:\Ki 6\ASP.NET\BaiTapLon\BTL_Nhom5\BTL_ASP.NET_NHOM_5\bin\roslyn\csi.exe.config
+D:\Ki 6\ASP.NET\BaiTapLon\BTL_Nhom5\BTL_ASP.NET_NHOM_5\bin\roslyn\csi.rsp
+D:\Ki 6\ASP.NET\BaiTapLon\BTL_Nhom5\BTL_ASP.NET_NHOM_5\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Ki 6\ASP.NET\BaiTapLon\BTL_Nhom5\BTL_ASP.NET_NHOM_5\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Ki 6\ASP.NET\BaiTapLon\BTL_Nhom5\BTL_ASP.NET_NHOM_5\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Ki 6\ASP.NET\BaiTapLon\BTL_Nhom5\BTL_ASP.NET_NHOM_5\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Ki 6\ASP.NET\BaiTapLon\BTL_Nhom5\BTL_ASP.NET_NHOM_5\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\Ki 6\ASP.NET\BaiTapLon\BTL_Nhom5\BTL_ASP.NET_NHOM_5\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Ki 6\ASP.NET\BaiTapLon\BTL_Nhom5\BTL_ASP.NET_NHOM_5\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Ki 6\ASP.NET\BaiTapLon\BTL_Nhom5\BTL_ASP.NET_NHOM_5\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\Ki 6\ASP.NET\BaiTapLon\BTL_Nhom5\BTL_ASP.NET_NHOM_5\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\Ki 6\ASP.NET\BaiTapLon\BTL_Nhom5\BTL_ASP.NET_NHOM_5\bin\roslyn\Microsoft.Managed.Core.targets
+D:\Ki 6\ASP.NET\BaiTapLon\BTL_Nhom5\BTL_ASP.NET_NHOM_5\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Ki 6\ASP.NET\BaiTapLon\BTL_Nhom5\BTL_ASP.NET_NHOM_5\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\Ki 6\ASP.NET\BaiTapLon\BTL_Nhom5\BTL_ASP.NET_NHOM_5\bin\roslyn\System.AppContext.dll
+D:\Ki 6\ASP.NET\BaiTapLon\BTL_Nhom5\BTL_ASP.NET_NHOM_5\bin\roslyn\System.Collections.Immutable.dll
+D:\Ki 6\ASP.NET\BaiTapLon\BTL_Nhom5\BTL_ASP.NET_NHOM_5\bin\roslyn\System.Console.dll
+D:\Ki 6\ASP.NET\BaiTapLon\BTL_Nhom5\BTL_ASP.NET_NHOM_5\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+D:\Ki 6\ASP.NET\BaiTapLon\BTL_Nhom5\BTL_ASP.NET_NHOM_5\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\Ki 6\ASP.NET\BaiTapLon\BTL_Nhom5\BTL_ASP.NET_NHOM_5\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\Ki 6\ASP.NET\BaiTapLon\BTL_Nhom5\BTL_ASP.NET_NHOM_5\bin\roslyn\System.Globalization.Calendars.dll
+D:\Ki 6\ASP.NET\BaiTapLon\BTL_Nhom5\BTL_ASP.NET_NHOM_5\bin\roslyn\System.IO.Compression.dll
+D:\Ki 6\ASP.NET\BaiTapLon\BTL_Nhom5\BTL_ASP.NET_NHOM_5\bin\roslyn\System.IO.Compression.ZipFile.dll
+D:\Ki 6\ASP.NET\BaiTapLon\BTL_Nhom5\BTL_ASP.NET_NHOM_5\bin\roslyn\System.IO.FileSystem.dll
+D:\Ki 6\ASP.NET\BaiTapLon\BTL_Nhom5\BTL_ASP.NET_NHOM_5\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\Ki 6\ASP.NET\BaiTapLon\BTL_Nhom5\BTL_ASP.NET_NHOM_5\bin\roslyn\System.Net.Http.dll
+D:\Ki 6\ASP.NET\BaiTapLon\BTL_Nhom5\BTL_ASP.NET_NHOM_5\bin\roslyn\System.Net.Sockets.dll
+D:\Ki 6\ASP.NET\BaiTapLon\BTL_Nhom5\BTL_ASP.NET_NHOM_5\bin\roslyn\System.Reflection.Metadata.dll
+D:\Ki 6\ASP.NET\BaiTapLon\BTL_Nhom5\BTL_ASP.NET_NHOM_5\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\Ki 6\ASP.NET\BaiTapLon\BTL_Nhom5\BTL_ASP.NET_NHOM_5\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\Ki 6\ASP.NET\BaiTapLon\BTL_Nhom5\BTL_ASP.NET_NHOM_5\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\Ki 6\ASP.NET\BaiTapLon\BTL_Nhom5\BTL_ASP.NET_NHOM_5\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\Ki 6\ASP.NET\BaiTapLon\BTL_Nhom5\BTL_ASP.NET_NHOM_5\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\Ki 6\ASP.NET\BaiTapLon\BTL_Nhom5\BTL_ASP.NET_NHOM_5\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\Ki 6\ASP.NET\BaiTapLon\BTL_Nhom5\BTL_ASP.NET_NHOM_5\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\Ki 6\ASP.NET\BaiTapLon\BTL_Nhom5\BTL_ASP.NET_NHOM_5\bin\roslyn\System.ValueTuple.dll
+D:\Ki 6\ASP.NET\BaiTapLon\BTL_Nhom5\BTL_ASP.NET_NHOM_5\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\Ki 6\ASP.NET\BaiTapLon\BTL_Nhom5\BTL_ASP.NET_NHOM_5\bin\roslyn\System.Xml.XmlDocument.dll
+D:\Ki 6\ASP.NET\BaiTapLon\BTL_Nhom5\BTL_ASP.NET_NHOM_5\bin\roslyn\System.Xml.XPath.dll
+D:\Ki 6\ASP.NET\BaiTapLon\BTL_Nhom5\BTL_ASP.NET_NHOM_5\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\Ki 6\ASP.NET\BaiTapLon\BTL_Nhom5\BTL_ASP.NET_NHOM_5\bin\roslyn\vbc.exe
+D:\Ki 6\ASP.NET\BaiTapLon\BTL_Nhom5\BTL_ASP.NET_NHOM_5\bin\roslyn\vbc.exe.config
+D:\Ki 6\ASP.NET\BaiTapLon\BTL_Nhom5\BTL_ASP.NET_NHOM_5\bin\roslyn\vbc.rsp
+D:\Ki 6\ASP.NET\BaiTapLon\BTL_Nhom5\BTL_ASP.NET_NHOM_5\bin\roslyn\VBCSCompiler.exe
+D:\Ki 6\ASP.NET\BaiTapLon\BTL_Nhom5\BTL_ASP.NET_NHOM_5\bin\roslyn\VBCSCompiler.exe.config
+D:\Ki 6\ASP.NET\BaiTapLon\BTL_Nhom5\BTL_ASP.NET_NHOM_5\bin\Antlr3.Runtime.dll
+D:\Ki 6\ASP.NET\BaiTapLon\BTL_Nhom5\BTL_ASP.NET_NHOM_5\bin\EntityFramework.dll
+D:\Ki 6\ASP.NET\BaiTapLon\BTL_Nhom5\BTL_ASP.NET_NHOM_5\bin\EntityFramework.SqlServer.dll
+D:\Ki 6\ASP.NET\BaiTapLon\BTL_Nhom5\BTL_ASP.NET_NHOM_5\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Ki 6\ASP.NET\BaiTapLon\BTL_Nhom5\BTL_ASP.NET_NHOM_5\bin\Microsoft.Web.Infrastructure.dll
+D:\Ki 6\ASP.NET\BaiTapLon\BTL_Nhom5\BTL_ASP.NET_NHOM_5\bin\Newtonsoft.Json.dll
+D:\Ki 6\ASP.NET\BaiTapLon\BTL_Nhom5\BTL_ASP.NET_NHOM_5\bin\PagedList.dll
+D:\Ki 6\ASP.NET\BaiTapLon\BTL_Nhom5\BTL_ASP.NET_NHOM_5\bin\PagedList.Mvc.dll
+D:\Ki 6\ASP.NET\BaiTapLon\BTL_Nhom5\BTL_ASP.NET_NHOM_5\bin\System.Buffers.dll
+D:\Ki 6\ASP.NET\BaiTapLon\BTL_Nhom5\BTL_ASP.NET_NHOM_5\bin\System.Runtime.CompilerServices.Unsafe.dll
+D:\Ki 6\ASP.NET\BaiTapLon\BTL_Nhom5\BTL_ASP.NET_NHOM_5\bin\System.Text.Encoding.CodePages.dll
+D:\Ki 6\ASP.NET\BaiTapLon\BTL_Nhom5\BTL_ASP.NET_NHOM_5\bin\System.Web.Helpers.dll
+D:\Ki 6\ASP.NET\BaiTapLon\BTL_Nhom5\BTL_ASP.NET_NHOM_5\bin\System.Web.Mvc.dll
+D:\Ki 6\ASP.NET\BaiTapLon\BTL_Nhom5\BTL_ASP.NET_NHOM_5\bin\System.Web.Optimization.dll
+D:\Ki 6\ASP.NET\BaiTapLon\BTL_Nhom5\BTL_ASP.NET_NHOM_5\bin\System.Web.Razor.dll
+D:\Ki 6\ASP.NET\BaiTapLon\BTL_Nhom5\BTL_ASP.NET_NHOM_5\bin\System.Web.WebPages.Deployment.dll
+D:\Ki 6\ASP.NET\BaiTapLon\BTL_Nhom5\BTL_ASP.NET_NHOM_5\bin\System.Web.WebPages.dll
+D:\Ki 6\ASP.NET\BaiTapLon\BTL_Nhom5\BTL_ASP.NET_NHOM_5\bin\System.Web.WebPages.Razor.dll
+D:\Ki 6\ASP.NET\BaiTapLon\BTL_Nhom5\BTL_ASP.NET_NHOM_5\bin\WebGrease.dll
+D:\Ki 6\ASP.NET\BaiTapLon\BTL_Nhom5\BTL_ASP.NET_NHOM_5\bin\EntityFramework.xml
+D:\Ki 6\ASP.NET\BaiTapLon\BTL_Nhom5\BTL_ASP.NET_NHOM_5\bin\EntityFramework.SqlServer.xml
+D:\Ki 6\ASP.NET\BaiTapLon\BTL_Nhom5\BTL_ASP.NET_NHOM_5\bin\PagedList.xml
+D:\Ki 6\ASP.NET\BaiTapLon\BTL_Nhom5\BTL_ASP.NET_NHOM_5\bin\PagedList.Mvc.xml
+D:\Ki 6\ASP.NET\BaiTapLon\BTL_Nhom5\BTL_ASP.NET_NHOM_5\bin\System.Buffers.xml
+D:\Ki 6\ASP.NET\BaiTapLon\BTL_Nhom5\BTL_ASP.NET_NHOM_5\bin\System.Runtime.CompilerServices.Unsafe.xml
+D:\Ki 6\ASP.NET\BaiTapLon\BTL_Nhom5\BTL_ASP.NET_NHOM_5\bin\System.Text.Encoding.CodePages.xml
+D:\Ki 6\ASP.NET\BaiTapLon\BTL_Nhom5\BTL_ASP.NET_NHOM_5\bin\System.Web.Helpers.xml
+D:\Ki 6\ASP.NET\BaiTapLon\BTL_Nhom5\BTL_ASP.NET_NHOM_5\bin\System.Web.Mvc.xml
+D:\Ki 6\ASP.NET\BaiTapLon\BTL_Nhom5\BTL_ASP.NET_NHOM_5\bin\System.Web.Optimization.xml
+D:\Ki 6\ASP.NET\BaiTapLon\BTL_Nhom5\BTL_ASP.NET_NHOM_5\bin\System.Web.Razor.xml
+D:\Ki 6\ASP.NET\BaiTapLon\BTL_Nhom5\BTL_ASP.NET_NHOM_5\bin\System.Web.WebPages.xml
+D:\Ki 6\ASP.NET\BaiTapLon\BTL_Nhom5\BTL_ASP.NET_NHOM_5\bin\System.Web.WebPages.Deployment.xml
+D:\Ki 6\ASP.NET\BaiTapLon\BTL_Nhom5\BTL_ASP.NET_NHOM_5\bin\System.Web.WebPages.Razor.xml
+D:\Ki 6\ASP.NET\BaiTapLon\BTL_Nhom5\BTL_ASP.NET_NHOM_5\bin\Newtonsoft.Json.xml
+D:\Ki 6\ASP.NET\BaiTapLon\BTL_Nhom5\BTL_ASP.NET_NHOM_5\bin\Antlr3.Runtime.pdb
+D:\Ki 6\ASP.NET\BaiTapLon\BTL_Nhom5\BTL_ASP.NET_NHOM_5\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Ki 6\ASP.NET\BaiTapLon\BTL_Nhom5\BTL_ASP.NET_NHOM_5\obj\Debug\BTL_ASP.NET_NHOM_5.csproj.AssemblyReference.cache
+D:\Ki 6\ASP.NET\BaiTapLon\BTL_Nhom5\BTL_ASP.NET_NHOM_5\obj\Debug\BTL_ASP.NET_NHOM_5.csproj.CoreCompileInputs.cache
+D:\Ki 6\ASP.NET\BaiTapLon\BTL_Nhom5\BTL_ASP.NET_NHOM_5\obj\Debug\BTL_ASP.NET_NHOM_5.csproj.CopyComplete
+D:\Ki 6\ASP.NET\BaiTapLon\BTL_Nhom5\BTL_ASP.NET_NHOM_5\obj\Debug\BTL_ASP.NET_NHOM_5.dll
+D:\Ki 6\ASP.NET\BaiTapLon\BTL_Nhom5\BTL_ASP.NET_NHOM_5\obj\Debug\BTL_ASP.NET_NHOM_5.pdb
+D:\BTL_Nhom5\BTL_ASP.NET_NHOM_5\bin\BTL_ASP.NET_NHOM_5.dll.config
+D:\BTL_Nhom5\BTL_ASP.NET_NHOM_5\bin\BTL_ASP.NET_NHOM_5.dll
+D:\BTL_Nhom5\BTL_ASP.NET_NHOM_5\bin\BTL_ASP.NET_NHOM_5.pdb
+D:\BTL_Nhom5\BTL_ASP.NET_NHOM_5\bin\roslyn\csc.exe
+D:\BTL_Nhom5\BTL_ASP.NET_NHOM_5\bin\roslyn\csc.exe.config
+D:\BTL_Nhom5\BTL_ASP.NET_NHOM_5\bin\roslyn\csc.rsp
+D:\BTL_Nhom5\BTL_ASP.NET_NHOM_5\bin\roslyn\csi.exe
+D:\BTL_Nhom5\BTL_ASP.NET_NHOM_5\bin\roslyn\csi.exe.config
+D:\BTL_Nhom5\BTL_ASP.NET_NHOM_5\bin\roslyn\csi.rsp
+D:\BTL_Nhom5\BTL_ASP.NET_NHOM_5\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\BTL_Nhom5\BTL_ASP.NET_NHOM_5\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\BTL_Nhom5\BTL_ASP.NET_NHOM_5\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\BTL_Nhom5\BTL_ASP.NET_NHOM_5\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\BTL_Nhom5\BTL_ASP.NET_NHOM_5\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\BTL_Nhom5\BTL_ASP.NET_NHOM_5\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\BTL_Nhom5\BTL_ASP.NET_NHOM_5\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\BTL_Nhom5\BTL_ASP.NET_NHOM_5\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\BTL_Nhom5\BTL_ASP.NET_NHOM_5\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\BTL_Nhom5\BTL_ASP.NET_NHOM_5\bin\roslyn\Microsoft.Managed.Core.targets
+D:\BTL_Nhom5\BTL_ASP.NET_NHOM_5\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\BTL_Nhom5\BTL_ASP.NET_NHOM_5\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\BTL_Nhom5\BTL_ASP.NET_NHOM_5\bin\roslyn\System.AppContext.dll
+D:\BTL_Nhom5\BTL_ASP.NET_NHOM_5\bin\roslyn\System.Collections.Immutable.dll
+D:\BTL_Nhom5\BTL_ASP.NET_NHOM_5\bin\roslyn\System.Console.dll
+D:\BTL_Nhom5\BTL_ASP.NET_NHOM_5\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+D:\BTL_Nhom5\BTL_ASP.NET_NHOM_5\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\BTL_Nhom5\BTL_ASP.NET_NHOM_5\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\BTL_Nhom5\BTL_ASP.NET_NHOM_5\bin\roslyn\System.Globalization.Calendars.dll
+D:\BTL_Nhom5\BTL_ASP.NET_NHOM_5\bin\roslyn\System.IO.Compression.dll
+D:\BTL_Nhom5\BTL_ASP.NET_NHOM_5\bin\roslyn\System.IO.Compression.ZipFile.dll
+D:\BTL_Nhom5\BTL_ASP.NET_NHOM_5\bin\roslyn\System.IO.FileSystem.dll
+D:\BTL_Nhom5\BTL_ASP.NET_NHOM_5\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\BTL_Nhom5\BTL_ASP.NET_NHOM_5\bin\roslyn\System.Net.Http.dll
+D:\BTL_Nhom5\BTL_ASP.NET_NHOM_5\bin\roslyn\System.Net.Sockets.dll
+D:\BTL_Nhom5\BTL_ASP.NET_NHOM_5\bin\roslyn\System.Reflection.Metadata.dll
+D:\BTL_Nhom5\BTL_ASP.NET_NHOM_5\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\BTL_Nhom5\BTL_ASP.NET_NHOM_5\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\BTL_Nhom5\BTL_ASP.NET_NHOM_5\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\BTL_Nhom5\BTL_ASP.NET_NHOM_5\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\BTL_Nhom5\BTL_ASP.NET_NHOM_5\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\BTL_Nhom5\BTL_ASP.NET_NHOM_5\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\BTL_Nhom5\BTL_ASP.NET_NHOM_5\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\BTL_Nhom5\BTL_ASP.NET_NHOM_5\bin\roslyn\System.ValueTuple.dll
+D:\BTL_Nhom5\BTL_ASP.NET_NHOM_5\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\BTL_Nhom5\BTL_ASP.NET_NHOM_5\bin\roslyn\System.Xml.XmlDocument.dll
+D:\BTL_Nhom5\BTL_ASP.NET_NHOM_5\bin\roslyn\System.Xml.XPath.dll
+D:\BTL_Nhom5\BTL_ASP.NET_NHOM_5\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\BTL_Nhom5\BTL_ASP.NET_NHOM_5\bin\roslyn\vbc.exe
+D:\BTL_Nhom5\BTL_ASP.NET_NHOM_5\bin\roslyn\vbc.exe.config
+D:\BTL_Nhom5\BTL_ASP.NET_NHOM_5\bin\roslyn\vbc.rsp
+D:\BTL_Nhom5\BTL_ASP.NET_NHOM_5\bin\roslyn\VBCSCompiler.exe
+D:\BTL_Nhom5\BTL_ASP.NET_NHOM_5\bin\roslyn\VBCSCompiler.exe.config
+D:\BTL_Nhom5\BTL_ASP.NET_NHOM_5\bin\Antlr3.Runtime.dll
+D:\BTL_Nhom5\BTL_ASP.NET_NHOM_5\bin\EntityFramework.dll
+D:\BTL_Nhom5\BTL_ASP.NET_NHOM_5\bin\EntityFramework.SqlServer.dll
+D:\BTL_Nhom5\BTL_ASP.NET_NHOM_5\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\BTL_Nhom5\BTL_ASP.NET_NHOM_5\bin\Microsoft.Web.Infrastructure.dll
+D:\BTL_Nhom5\BTL_ASP.NET_NHOM_5\bin\Newtonsoft.Json.dll
+D:\BTL_Nhom5\BTL_ASP.NET_NHOM_5\bin\PagedList.dll
+D:\BTL_Nhom5\BTL_ASP.NET_NHOM_5\bin\PagedList.Mvc.dll
+D:\BTL_Nhom5\BTL_ASP.NET_NHOM_5\bin\System.Buffers.dll
+D:\BTL_Nhom5\BTL_ASP.NET_NHOM_5\bin\System.Runtime.CompilerServices.Unsafe.dll
+D:\BTL_Nhom5\BTL_ASP.NET_NHOM_5\bin\System.Text.Encoding.CodePages.dll
+D:\BTL_Nhom5\BTL_ASP.NET_NHOM_5\bin\System.Web.Helpers.dll
+D:\BTL_Nhom5\BTL_ASP.NET_NHOM_5\bin\System.Web.Mvc.dll
+D:\BTL_Nhom5\BTL_ASP.NET_NHOM_5\bin\System.Web.Optimization.dll
+D:\BTL_Nhom5\BTL_ASP.NET_NHOM_5\bin\System.Web.Razor.dll
+D:\BTL_Nhom5\BTL_ASP.NET_NHOM_5\bin\System.Web.WebPages.Deployment.dll
+D:\BTL_Nhom5\BTL_ASP.NET_NHOM_5\bin\System.Web.WebPages.dll
+D:\BTL_Nhom5\BTL_ASP.NET_NHOM_5\bin\System.Web.WebPages.Razor.dll
+D:\BTL_Nhom5\BTL_ASP.NET_NHOM_5\bin\WebGrease.dll
+D:\BTL_Nhom5\BTL_ASP.NET_NHOM_5\bin\EntityFramework.xml
+D:\BTL_Nhom5\BTL_ASP.NET_NHOM_5\bin\EntityFramework.SqlServer.xml
+D:\BTL_Nhom5\BTL_ASP.NET_NHOM_5\bin\PagedList.xml
+D:\BTL_Nhom5\BTL_ASP.NET_NHOM_5\bin\PagedList.Mvc.xml
+D:\BTL_Nhom5\BTL_ASP.NET_NHOM_5\bin\System.Buffers.xml
+D:\BTL_Nhom5\BTL_ASP.NET_NHOM_5\bin\System.Runtime.CompilerServices.Unsafe.xml
+D:\BTL_Nhom5\BTL_ASP.NET_NHOM_5\bin\System.Text.Encoding.CodePages.xml
+D:\BTL_Nhom5\BTL_ASP.NET_NHOM_5\bin\System.Web.Helpers.xml
+D:\BTL_Nhom5\BTL_ASP.NET_NHOM_5\bin\System.Web.Mvc.xml
+D:\BTL_Nhom5\BTL_ASP.NET_NHOM_5\bin\System.Web.Optimization.xml
+D:\BTL_Nhom5\BTL_ASP.NET_NHOM_5\bin\System.Web.Razor.xml
+D:\BTL_Nhom5\BTL_ASP.NET_NHOM_5\bin\System.Web.WebPages.xml
+D:\BTL_Nhom5\BTL_ASP.NET_NHOM_5\bin\System.Web.WebPages.Deployment.xml
+D:\BTL_Nhom5\BTL_ASP.NET_NHOM_5\bin\System.Web.WebPages.Razor.xml
+D:\BTL_Nhom5\BTL_ASP.NET_NHOM_5\bin\Newtonsoft.Json.xml
+D:\BTL_Nhom5\BTL_ASP.NET_NHOM_5\bin\Antlr3.Runtime.pdb
+D:\BTL_Nhom5\BTL_ASP.NET_NHOM_5\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\BTL_Nhom5\BTL_ASP.NET_NHOM_5\obj\Debug\BTL_ASP.NET_NHOM_5.csproj.AssemblyReference.cache
+D:\BTL_Nhom5\BTL_ASP.NET_NHOM_5\obj\Debug\BTL_ASP.NET_NHOM_5.csproj.CoreCompileInputs.cache
+D:\BTL_Nhom5\BTL_ASP.NET_NHOM_5\obj\Debug\BTL_ASP.NET_NHOM_5.csproj.CopyComplete
+D:\BTL_Nhom5\BTL_ASP.NET_NHOM_5\obj\Debug\BTL_ASP.NET_NHOM_5.dll
+D:\BTL_Nhom5\BTL_ASP.NET_NHOM_5\obj\Debug\BTL_ASP.NET_NHOM_5.pdb

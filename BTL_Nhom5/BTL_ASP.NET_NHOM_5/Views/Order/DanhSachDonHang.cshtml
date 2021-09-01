@@ -1,0 +1,56 @@
+﻿@using BTL_ASP.NET_NHOM_5.Models
+@model PagedList.IPagedList<HoaDon>
+@using PagedList.Mvc;
+@{
+    ViewBag.Title = "DanhSachDonHang";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<div class="container">
+    @using (Html.BeginForm("DanhSachDonHang", "Order", FormMethod.Get))
+    {
+        <label for="email">Mã đơn hàng: </label>
+        <input type="text" name="MaDH" value="@ViewBag.MaDH" class="form-control">
+
+        <button type="submit" class="btn btn-default">Tìm kiếm</button>
+    }
+</div>
+
+<div class="container"> <h1>Danh sách đơn hàng</h1></div>
+<table class="table container">
+    <thead>
+        <tr>
+            <td>Mã hóa đơn</td>
+            <td>Ngày tạo </td>
+            <td>Người tạo</td>
+            <td>Trạng thái</td>
+            <td>Hành động</td>
+        </tr>
+    </thead>
+    <tbody>
+
+        @foreach (HoaDon x in Model)
+        {
+            <tr>
+                <td>@x.MaHD</td>
+                <td>@x.CreatedDate</td>
+                <td>@x.CreatedBy</td>
+                <td>@x.TrangThai</td>
+                <td><a href="/Order/ChiTietHoaDon/@x.MaHD">Xem chi tiết</a></td>
+            </tr>
+        }
+
+
+    </tbody>
+</table>
+
+<!-- Thêm mã phân trang -->
+<br />
+<div class="container">
+    Trang @(Model.PageCount < Model.PageNumber ? 0 : Model.PageNumber) / @Model.PageCount
+
+    @Html.PagedListPager(Model, page => Url.Action("DanhSachDonHang",
+        new { page, MaDH = ViewBag.MaDH }))
+    <!-- Kết thúc -->
+</div>
+   

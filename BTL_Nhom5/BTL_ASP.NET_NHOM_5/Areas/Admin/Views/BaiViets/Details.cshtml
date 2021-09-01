@@ -1,0 +1,83 @@
+﻿@model BTL_ASP.NET_NHOM_5.Models.BaiViet
+
+@{
+    ViewBag.Title = "Details";
+    Layout = "~/Areas/Admin/Views/Shared/_Layout.cshtml";
+}
+<div>
+    <h4>Bài Viết </h4>
+    <hr />
+    <div class="panel panel-primary">
+        <div class="panel-heading">Chi tiết bài viết </div>
+        <div class="panel-body">
+            <dl class="dl-horizontal">
+                <dt>
+                    @Html.DisplayNameFor(model => model.TieuDe)
+                </dt>
+
+                <dd>
+                    @Html.DisplayFor(model => model.TieuDe)
+                </dd>
+
+                <dt>
+                    @Html.DisplayNameFor(model => model.NoiDung)
+                </dt>
+
+                <dd>
+                    @Html.DisplayFor(model => model.NoiDung)
+                </dd>
+
+                <dt>
+                    @Html.DisplayNameFor(model => model.HinhAnh)
+                </dt>
+
+                <dd>
+                    @{
+                        // lấy đường dẫn ảnh
+                        string ImagePath = "~/wwwroot/" + Model.HinhAnh;
+                    }
+                    <img src="@Url.Content(ImagePath)" width="100" class="img-thumbnail" />
+                    <br />
+                    @Html.DisplayFor(model => Model.HinhAnh)
+                </dd>
+
+                <dt>
+                    @Html.DisplayNameFor(model => model.CreatedDate)
+                </dt>
+
+                <dd>
+                    @Html.DisplayFor(model => model.CreatedDate)
+                </dd>
+
+                <dt>
+                    @Html.DisplayNameFor(model => model.CreatedBy)
+                </dt>
+
+                <dd>
+                    @Html.DisplayFor(model => model.CreatedBy)
+                </dd>
+
+                <dt>
+                    @Html.DisplayNameFor(model => model.ModifiedDate)
+                </dt>
+
+                <dd>
+                    @Html.DisplayFor(model => model.ModifiedDate)
+                </dd>
+
+                <dt>
+                    @Html.DisplayNameFor(model => model.ModifiedBy)
+                </dt>
+
+                <dd>
+                    @Html.DisplayFor(model => model.ModifiedBy)
+                </dd>
+
+            </dl>
+            </div>
+        </div>
+        </div>
+        <p>
+            @Html.ActionLink("Sửa", "Edit", new { id = Model.MaBV }) |
+            @Html.ActionLink("Quay lại", "Index")
+        </p>

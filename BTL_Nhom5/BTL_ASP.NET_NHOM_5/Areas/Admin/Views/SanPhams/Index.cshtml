@@ -1,0 +1,98 @@
+﻿@model PagedList.IPagedList<BTL_ASP.NET_NHOM_5.Models.SanPham>
+@using PagedList.Mvc;
+<link href="~/Content/PagedList.css" rel="stylesheet" type="text/css" />
+
+@{
+    ViewBag.Title = "Index";
+    Layout = "~/Areas/Admin/Views/Shared/_Layout.cshtml";
+}
+
+    <div style="float:right;margin-bottom:10px;">
+        @using (Html.BeginForm())
+        {
+            <p>
+                <b>Tìm tên sản phẩm: </b> @Html.TextBox("SearchString",ViewBag.CurrentFilter as string)
+                <input type="submit" value="Tìm" class="btn btn-primary" />
+            </p>
+        }
+    </div>
+    <div style="margin-bottom:5px;">
+        <a href="~/Admin/SanPhams/Create" class="btn btn-primary">Thêm sản phẩm</a>
+    </div>
+    <div class="panel panel-primary">
+        <div class="panel-heading">Danh sách sản phẩm</div>
+        <div class="panel-body">
+            <table class="table table-bordered table-hover">
+                <tr>
+                    <th>
+                       Danh mục
+                    </th>
+                    <th>
+                       Khuyến mại
+                    </th>
+                    <th>
+                       Thương hiệu
+                    </th>
+                    <th>
+                      @Html.ActionLink("Tên sản phẩm","Index",new { sortOrder = ViewBag.SapTheoTen, currentFilter = ViewBag.CurrentFilter })
+                    </th>
+                    <th>
+                      Số lượng
+                    </th>
+                    <th>
+                        @Html.ActionLink("Đơn giá", "Index", new { sortOrder = ViewBag.SapTheoGia, currentFilter = ViewBag.CurrentFilter })
+                    </th>
+                    <th>
+                       Mô tả chi tiết
+                    </th>
+                    <th>
+                       Hình ảnh
+                    </th>
+                    <th></th>
+                </tr>
+
+                @foreach (var item in Model)
+                {
+                    <tr>
+                        <td>
+                            @Html.DisplayFor(modelItem => item.DanhMuc.TenDM)
+                        </td>
+                        <td>
+                            @Html.DisplayFor(modelItem => item.KhuyenMai.TenKM)
+                        </td>
+                        <td>
+                            @Html.DisplayFor(modelItem => item.ThuongHieu.TenTH)
+                        </td>
+                        <td>
+                            @Html.DisplayFor(modelItem => item.TenSP)
+                        </td>
+                        <td>
+                            @Html.DisplayFor(modelItem => item.SoLuong)
+                        </td>
+                        <td>
+                            @Html.DisplayFor(modelItem => item.DonGia)
+                        </td>
+                        <td>
+                            @Html.DisplayFor(modelItem => item.ChiTiet)
+                        </td>
+                        <td>
+                            @{
+                                // lấy đường dẫn ảnh
+                                string ImagePath = "~/wwwroot/images/" + item.HinhAnh;
+                            }
+                            <img src="@Url.Content(ImagePath)" width="100" class="img-thumbnail" />
+                            <br />
+                            @Html.DisplayFor(modelItem => item.HinhAnh)
+                        </td>
+                        <td>
+                            @Html.ActionLink("Sửa", "Edit", new { id = item.MaSP }) |
+                            @Html.ActionLink("Chi tiết", "Details", new { id = item.MaSP }) |
+                            @Html.ActionLink("Xóa", "Delete", new { id = item.MaSP })
+                        </td>
+                    </tr>
+                }
+            </table>
+            Trang @(Model.PageCount < Model.PageNumber ? 0 : Model.PageNumber)/@Model.PageCount
+            @Html.PagedListPager(Model, page => Url.Action("Index", new { page }))
+        </div>
+    </div>

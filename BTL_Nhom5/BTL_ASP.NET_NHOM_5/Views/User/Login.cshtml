@@ -1,0 +1,35 @@
+﻿@model BTL_ASP.NET_NHOM_5.Models.LoginModel
+@{
+    ViewBag.Title = "Login";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+<section class="log-reg container">
+    <div class="row">
+        <div class="col-lg-3 col-md-3 hidden-xs hidden-sm"></div><div class="col-lg-5 col-md-5 col-xs-12 col-sm-12 formUser">
+            <h6>Đăng nhập</h6>
+            @using (Html.BeginForm("Login", "User", FormMethod.Post))
+            {
+                @Html.AntiForgeryToken()
+                <ul>
+                    <li>
+                        <input name="username" type="text" class="tb validate[required]" id="username" placeholder="Tên đăng nhập" value="">
+                    </li>
+                    <li><input name="password" type="password" class="tb validate[required]" id="password" placeholder="Mật khẩu" value=""></li>
+                    <li class="btns"><input name="submit" type="submit" id="btnSubmit" class="htmlBtn first" value="Đăng nhập"></li>
+                    <li> @Html.ValidationSummary(true, "", new { @class = "text-danger" })</li>
+                </ul>
+            }
+
+            <a rel="follow" href="/User/Register" style="text-align: left;display: inline-block;width: 200px;float: left">
+                <i class="fa fa-sign-in"></i>
+                Đăng kí
+            </a>
+            <a rel="follow" href="#" style="text-align: left;display: inline-block;width: 200px;float: left">
+            </a><a class="getPass" rel="follow" href="/User/ForgotPassword" style="text-align: left;display: inline-block;width: 200px;float: left">
+                <i class="fa fa-question-circle"></i>
+                Quên mật khẩu
+            </a>
+        </div><div class="col-lg-3 col-md-3 hidden-xs hidden-sm"></div>
+    </div>
+</section>
+

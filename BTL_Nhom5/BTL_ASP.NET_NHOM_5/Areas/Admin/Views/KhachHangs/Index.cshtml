@@ -1,0 +1,96 @@
+﻿@model PagedList.IPagedList<BTL_ASP.NET_NHOM_5.Models.KhachHang>
+@using PagedList.Mvc;
+<link href="~/Content/PagedList.css" rel="stylesheet" type="text/css" />
+
+@{
+    ViewBag.Title = "Index";
+
+    Layout = "~/Areas/Admin/Views/Shared/_Layout.cshtml";
+}
+
+<div style="float:right;margin-bottom:10px;">
+    @using (Html.BeginForm())
+    {
+        <p>
+            <b>Tìm khách hàng: </b> @Html.TextBox("SearchString")
+            <input type="submit" value="Tìm" class="btn btn-primary" />
+        </p>
+    }
+</div>
+<div style="margin-bottom:5px;">
+    <a href="~/Admin/KhachHangs/Create" class="btn btn-primary">Thêm khách hàng</a>
+</div>
+<div class="panel panel-primary">
+    <div class="panel-heading">Danh sách khách hàng</div>
+    <div class="panel-body">
+        <table class="table table-bordered table-hover">
+            <tr>
+                <th>
+                    Họ tên khách hàng
+                </th>
+                <th>
+                    Email
+                </th>
+                <th>
+                    Địa chỉ
+                </th>
+                <th>
+                    Số điện thoại
+                </th>
+                <th>
+                    Username
+                </th>
+                <th>
+                    Mật khẩu
+                </th>
+                <th>
+                    Ảnh đại diện
+                </th>
+
+                <th></th>
+            </tr>
+
+            @foreach (var item in Model)
+            {
+                <tr>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.HoTen)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.Email)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.DiaChi)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.SoDT)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.TenDangNhap)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.MatKhau)
+                    </td>
+                    <td>
+                        @{
+                            // lấy đường dẫn ảnh
+                            string ImagePath = "~/wwwroot/" + item.Avatar;
+                        }
+                        <img src="@Url.Content(ImagePath)" width="100" class="img-thumbnail" />
+                        <br />
+                        @Html.DisplayFor(modelItem => item.Avatar)
+                    </td>
+
+                    <td>
+                        @Html.ActionLink("Sửa", "Edit", new { id = item.ID }) |
+                        @Html.ActionLink("Chi tiết", "Details", new { id = item.ID }) |
+                        @Html.ActionLink("Xóa", "Delete", new { id = item.ID })
+                    </td>
+                </tr>
+            }
+
+        </table>
+        Trang @(Model.PageCount < Model.PageNumber ? 0 : Model.PageNumber)/@Model.PageCount
+        @Html.PagedListPager(Model, page => Url.Action("Index", new { page }))
+    </div>
+</div>

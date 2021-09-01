@@ -1,0 +1,31 @@
+﻿@model List<BTL_ASP.NET_NHOM_5.Models.DanhMuc>
+<ul class="vertical-menu-list">
+
+    @foreach (var item in Model.Where(x => x.ParentID == -1).ToList())
+    {
+        var child = Model.Where(x => x.ParentID == item.MaDM).ToList();
+        <li class="active has-child tp_menu_item">
+            <a class="dropdown-toggle has-category parent current"
+               href="/Home/ViewProductsByCategory?cateId=@item.MaDM"
+               title=@item.MetaTitle>
+                <img class="icon-menu" alt="LÀM ĐẸP - SỨC KHỎE"
+                     src="https://truemart.vn/tp/T0199/img/temp/s2.png"><span class="">@item.TenDM</span>
+                </a>
+                @if (child.Count() > 0)
+                {
+                    <ul class="level1 biz_menu_child" role="menu">
+                        @foreach (var itemchild in child)
+                        {
+                            <li>
+                                <a href="/Home/ViewProductsByCategory?cateId=@itemchild.MaDM"
+                                   class="current" title=@itemchild.MetaTitle>
+                                    @itemchild.TenDM
+                                </a>
+                            </li>
+                        }
+
+                    </ul>
+                }
+            </li>
+        }
+</ul>

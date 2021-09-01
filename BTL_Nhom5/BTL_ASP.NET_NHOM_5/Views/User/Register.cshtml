@@ -1,0 +1,64 @@
+﻿@model BTL_ASP.NET_NHOM_5.Models.RegisterModel
+@{
+    ViewBag.Title = "Register";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+<section class="log-reg container">
+    <div class="row">
+        <div class="col-lg-4 col-md-4 hidden-xs hidden-sm"></div>
+        <div class="col-lg-4 col-md-4 col-xs-12 col-sm-12 formUser formSignUp">
+            <h6>Đăng ký</h6>
+            @using (Html.BeginForm("Register", "User", FormMethod.Post, new { @class = "f" }))
+            {
+                @Html.AntiForgeryToken()
+                <ul>
+                    <li>
+                        @Html.ValidationSummary(false, "", new { @class = "text-danger" })
+                        @if (ViewBag.Success != null)
+                        {
+                            <div class="alert alert-success">@ViewBag.Success</div>
+                            <p>Bạn có muốn <a href="/User/Login">đăng nhập</a> ngay không ?</p>
+                            
+                        }
+              
+                        
+
+                    </li>
+                    @if (ViewBag.Success == null)
+                    {
+                    <li>
+                        <input name="fullName" type="text" class="tb validate[required]" id="fullName" placeholder="Họ và tên" value="">
+                    </li>
+                    <li>
+                        <input name="userName" type="text" class="tb validate[required]" id="userName" placeholder="Tên đăng nhập" value="">
+                    </li>
+                    <li>
+                        <input name="email" type="text" class="tb validate[required]" id="email" placeholder="Email" value="">
+                    </li>
+                    <li>
+                        <input name="password" type="password" class="tb validate[required]" id="password" placeholder="Mật khẩu" value="">
+                    </li>
+                    <li>
+                        <input name="mobile" type="text" class="tb validate[required]" id="mobile" placeholder="Điện thoại" value="">
+                    </li>
+                    <li>
+                        <input name="adress" type="text" class="tb validate[required]" id="adress" placeholder="Địa chỉ" value="">
+                    </li>
+                    <li class="btns">
+                        <input name="submit" type="submit" id="btnSubmit" class="htmlBtn first" value="Đăng ký" >
+                    </li>
+                    }
+
+
+                </ul>
+                
+
+            }
+
+        </div>
+        <div class="col-lg-4 col-md-4 hidden-xs hidden-sm">
+        </div>
+    </div>
+</section>
+
+

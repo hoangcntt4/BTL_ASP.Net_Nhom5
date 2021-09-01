@@ -1,0 +1,67 @@
+﻿@model PagedList.IPagedList<BTL_ASP.NET_NHOM_5.Models.KhuyenMai>
+@using PagedList.Mvc;
+<link href="~/Content/PagedList.css" rel="stylesheet" type="text/css" />
+@{
+    ViewBag.Title = "Index";
+    Layout = "~/Areas/Admin/Views/Shared/_Layout.cshtml";
+}
+<div style="float:right;margin-bottom:10px;">
+    @using (Html.BeginForm())
+    {
+        <p>
+            <b>Tìm tên khuyến mại: </b> @Html.TextBox("SearchString")
+            <input type="submit" value="Tìm" class="btn btn-primary"/>
+        </p>
+    }
+</div>
+<div style="margin-bottom:5px;">
+    <a href="~/Admin/KhuyenMais/Create" class="btn btn-primary">Thêm khuyến mại</a>
+</div>
+<div class="panel panel-primary">
+    <div class="panel-heading">Danh sách khuyến mại</div>
+    <div class="panel-body">
+        <table class="table table-bordered table-hover">
+            <tr>
+                <th>
+                    Tên khuyến mại
+                </th>
+                <th>
+                    Ngày bắt đầu
+                </th>
+                <th>
+                    Ngày kết thúc
+                </th>
+                <th>
+                    Mã giảm giá
+                </th>
+                <th></th>
+            </tr>
+
+            @foreach (var item in Model)
+            {
+                <tr>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.TenKM)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.NgayBatDau)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.NgayKetThuc)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.Discount)
+                    </td>
+                    <td>
+                        @Html.ActionLink("Sửa", "Edit", new { id = item.MaKM }) |
+                        @Html.ActionLink("Chi tiết", "Details", new { id = item.MaKM }) |
+                        @Html.ActionLink("Xóa", "Delete", new { id = item.MaKM })
+                    </td>
+                </tr>
+            }
+
+        </table>
+        Trang @(Model.PageCount < Model.PageNumber ? 0 : Model.PageNumber)/@Model.PageCount
+        @Html.PagedListPager(Model, page => Url.Action("Index", new { page }))
+    </div>
+</div>

@@ -1,0 +1,98 @@
+﻿@model List<BTL_ASP.NET_NHOM_5.Models.CartItem>
+@{
+    ViewBag.Title = "Payment";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+    var session = (UserLogin)Session[BTL_ASP.NET_NHOM_5.Common.CommonConstants.USER_SESSION];
+}
+
+<section id="insCartPage" style="padding-bottom: 30px" class="cartPage bg_w ajax-cart-popup">
+    <div class="container">
+        <div class="content">
+            <div id="AjaxifyCart" class="ajaxcart">
+                <div class="cart">
+                    <h1 class="page-header">Giỏ hàng</h1>
+                    <div class="page-content">
+                        @if (Model.Count > 0)
+                        {
+                            <table class="table">
+                                <thead>
+                                    <tr>
+                                        <td>Mã SP</td>
+                                        <td>Tên SP</td>
+                                        <td>Ảnh SP</td>
+                                        <td>Số lượng</td>
+                                        <td>Đơn giá</td>
+                                        <td>Thành tiền</td>
+                                        <td></td>
+                                    </tr>
+                                </thead>
+                                <tbody>
+                                    @foreach (var item in Model)
+                                    {
+                                        var url = "~/wwwroot/images/" + item.Product.HinhAnh;
+                                        var donGia = Convert.ToDecimal(item.Product.DonGia) - Convert.ToDecimal(item.Product.DonGia) * Convert.ToDecimal(item.Product.KhuyenMai.Discount);
+                                        <tr>
+                                            <td>@item.Product.MaSP</td>
+                                            <td>@item.Product.TenSP</td>
+                                            <td><img src="@Url.Content(url)" width="100" /></td>
+                                            <td><input type="text" class="txtQuantity" data-id="@item.Product.MaSP" value="@item.Quantity" /></td>
+                                            <td>@donGia.ToString("N0")</td>
+                                            <td>@((donGia * item.Quantity).ToString("N0"))</td>
+                                            <td><a href="#" data-id="@item.Product.MaSP" class="btn-delete">Xoá</a></td>
+                                        </tr>
+                                    }
+
+                                </tbody>
+                            </table>
+                        }
+
+                        <div class="row">
+                            <div class="col-lg-4 col-md-4 hidden-xs hidden-sm"></div>
+                            <div class="col-lg-4 col-md-4 col-xs-12 col-sm-12 formUser formSignUp">
+                                @using (Html.BeginForm("Payment", "Cart", FormMethod.Post))
+                                {
+
+
+                                    if (session == null)
+                                    {
+                                        <span class="alert alert-danger">Bạn cần đăng nhập trước khi thanh toán</span>
+                                    }
+                                    else
+                                    {
+                            <ul>
+                                <li>
+                                    <label>Người nhận</label>
+                                    <input name="shipName" class="form-control" value="@session.Name" />
+                                </li>
+                                <li>
+                                    <label>Điện thoại</label>
+                                    <input name="mobile" class="form-control" value="@session.SoDT" />
+                                </li>
+                                <li>
+                                    <label>Địa chỉ</label>
+                                    <input name="address" class="form-control" value="@session.DiaChi" />
+                                </li>
+                                <li>
+                                    <label>Email</label>
+                                    <input name="email" class="form-control" value="@session.Email" />
+                                </li>
+                                <li class="btns">
+                                    <button type="submit" class="btn">Gửi đơn hàng</button>
+                                </li>
+                            </ul>
+                                       
+                                       
+                                    }
+
+                                }
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+
+           
+

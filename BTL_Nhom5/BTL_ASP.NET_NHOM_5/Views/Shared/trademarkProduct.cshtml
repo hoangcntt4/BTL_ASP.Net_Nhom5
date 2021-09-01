@@ -1,0 +1,23 @@
+﻿@model List<BTL_ASP.NET_NHOM_5.Models.ThuongHieu>
+<div class="group-filter viewtype style001">
+    <div class="layered_subtitle show">
+        Thương hiệu
+    </div>
+    <div class="content-group active">
+        <ul>
+            @foreach (var item in Model)
+            {
+                <li class="item-filter col-1" data-filter="#">
+                    <div class="form-check">
+                        <input type="checkbox" class="form-check-input filter-item">
+                        <label for="loai-got1" class="form-check-label">
+                            <span class="thuml-img"></span> @item.TenTH
+                        </label>
+                    </div>
+                </li>
+            }
+
+
+        </ul>
+    </div>
+</div>

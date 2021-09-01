@@ -1,0 +1,127 @@
+﻿@model BTL_ASP.NET_NHOM_5.Models.KhachHang
+
+@{
+    ViewBag.Title = "Delete";
+
+    Layout = "~/Areas/Admin/Views/Shared/_Layout.cshtml";
+}
+
+<h2>Delete</h2>
+
+<h3>Bạn có chắc muốn xóa không ?</h3>
+<div>
+    <h4>Khách Hàng</h4>
+    <hr />
+    <div class="col-md-12">
+        <div class="panel panel-primary">
+            <div class="panel-heading">Xóa khách hàng</div>
+            <div class="panel-body">
+                <dl class="dl-horizontal">
+                    <dt>
+                        @Html.DisplayNameFor(model => model.HoTen)
+                    </dt>
+
+                    <dd>
+                        @Html.DisplayFor(model => model.HoTen)
+                    </dd>
+
+                    <dt>
+                        @Html.DisplayNameFor(model => model.Email)
+                    </dt>
+
+                    <dd>
+                        @Html.DisplayFor(model => model.Email)
+                    </dd>
+
+                    <dt>
+                        @Html.DisplayNameFor(model => model.DiaChi)
+                    </dt>
+
+                    <dd>
+                        @Html.DisplayFor(model => model.DiaChi)
+                    </dd>
+
+                    <dt>
+                        @Html.DisplayNameFor(model => model.SoDT)
+                    </dt>
+
+                    <dd>
+                        @Html.DisplayFor(model => model.SoDT)
+                    </dd>
+
+                    <dt>
+                        @Html.DisplayNameFor(model => model.TenDangNhap)
+                    </dt>
+
+                    <dd>
+                        @Html.DisplayFor(model => model.TenDangNhap)
+                    </dd>
+
+                    <dt>
+                        @Html.DisplayNameFor(model => model.MatKhau)
+                    </dt>
+
+                    <dd>
+                        @Html.DisplayFor(model => model.MatKhau)
+                    </dd>
+
+                    <dt>
+                        @Html.DisplayNameFor(model => model.Avatar)
+                    </dt>
+
+                    <dd>
+                        @Html.DisplayFor(model => model.Avatar)
+                    </dd>
+
+                    <dt>
+                        @Html.DisplayNameFor(model => model.CreatedDate)
+                    </dt>
+
+                    <dd>
+                        @Html.DisplayFor(model => model.CreatedDate)
+                    </dd>
+
+                    <dt>
+                        @Html.DisplayNameFor(model => model.CreatedBy)
+                    </dt>
+
+                    <dd>
+                        @Html.DisplayFor(model => model.CreatedBy)
+                    </dd>
+
+                    <dt>
+                        @Html.DisplayNameFor(model => model.ModifiedDate)
+                    </dt>
+
+                    <dd>
+                        @Html.DisplayFor(model => model.ModifiedDate)
+                    </dd>
+
+                    <dt>
+                        @Html.DisplayNameFor(model => model.ModifiedBy)
+                    </dt>
+
+                    <dd>
+                        @Html.DisplayFor(model => model.ModifiedBy)
+                    </dd>
+
+                </dl>
+            </div>
+        </div>
+    </div>
+
+    @using (Html.BeginForm())
+    {
+        @Html.AntiForgeryToken()
+
+        <div class="form-actions no-color">
+            <input type="submit" value="Xóa" class="btn btn-default" /> |
+            @Html.ActionLink("Quay lại", "Index")
+        </div>
+    }
+</div>
+@if (ViewBag.Error != null)
+{
+    <br />
+    <div class="alert alert-danger" role="alert">@ViewBag.Error</div>
+}

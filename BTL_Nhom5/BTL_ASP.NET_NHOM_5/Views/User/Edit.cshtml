@@ -1,0 +1,48 @@
+﻿
+@{
+    ViewBag.Title = "QuanLyTaiKhoan";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+    var session = (UserLogin)Session[BTL_ASP.NET_NHOM_5.Common.CommonConstants.USER_SESSION];
+    var url = "/wwwroot/" + session.HinhAnh;
+}
+
+<div class="container" style="padding-top: 30px;">
+    <div class="row">
+        @{ Html.RenderAction("userManager", "User");}
+        <div class="col-xs-12 col-lg-9 col-md-12 col-sm-9 profileRight">
+            <div class="ctrl-wrapper">
+                <div id="profileContent">
+                    <div id="profileIf">
+                        @using (Html.BeginForm("Edit", "User", FormMethod.Post))
+                        {
+                            @Html.AntiForgeryToken()
+                            <table class="table profile" cellspacing="0">
+                                <tbody>
+                                    <tr class="head-table"><td colspan="2" style="text-align: center;font-size: 16px; font-weight: 700; padding: 10px 0 ">Sửa thông tin tài khoản cá nhân</td></tr>
+                                    <tr><td>Tên đăng nhập</td><td class="val">@session.UserName</td></tr>
+                                    <tr><td>Địa chỉ email</td><td class="val">@session.Email</td></tr>
+                                    <tr><td>Họ và tên</td><td class="val"><input type="text" name="fullName" value="@session.Name" class="validate[required] form-control"></td></tr>
+                                    <tr><td>Mobile</td><td class="val"><input name="mobile" type="text" value="@session.SoDT" class="validate[required] form-control"></td></tr>
+                                    <tr><td>Địa chỉ</td><td class="val"><input type="text" name="address" value="@session.DiaChi" class="validate[required] form-control"></td></tr>
+                                    <tr>
+                                        <td></td>
+                                        <td class="val">
+                                            <button type="submit" class="btn btn-outline">Xác nhận</button>
+                                        </td>
+                                    </tr>
+                                </tbody>
+                            </table>
+                            <ul>
+                                <li> @Html.ValidationSummary(true, "", new { @class = "text-danger" })</li>
+                            </ul>
+                        }
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+
+
+

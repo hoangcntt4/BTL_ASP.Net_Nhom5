@@ -1,0 +1,141 @@
+﻿@model PagedList.IPagedList<BTL_ASP.NET_NHOM_5.Models.ProductViewModel>
+@using PagedList.Mvc;
+@{
+    ViewBag.Title = "Search";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+   
+}
+
+        <div class="container">
+            <div class="main">
+                <div class="row">
+                    <div class="chir_breadcrumb">
+                    </div><div class="column col-xs-12 col-sm-4 col-md-3 left_column_sticky" id="left_column">
+                        <div class="box_sidebar bg_w">
+                            <div class="block left-module hidden-xs tp_product_category_filter_category">
+                                <p class="title_block">Danh mục sản phẩm <i class="visible-xs fa fa-angle-down" aria-hidden="true"></i></p><div class="block_content">
+                                    <div class="layered layered-category">
+                                        <div class="layered-content">
+                                            @{ Html.RenderAction("ProductCategory", "Home");}
+                                        </div>
+                                    </div>
+                                </div>
+                            </div><div class="block left-module title-variant">
+                                <p class="title_block">Lọc sản phẩm</p>
+                                <a href="javascript:void(0)" class="close-filter hidden-md hidden-lg">X</a><div class="variant tp_product_category_filter_attribute"></div><div class="variant tp_product_category_filter_attribute">
+                                    @{ Html.RenderAction("trademarkProduct", "Home");}
+                                </div><div class="block_content filter_xs">
+                                    <div class="layered layered-filter-price tp_product_category_filter_price">
+                                        <div class="widget_price_filter">
+                                            <div type="button" class="collapsed" data-toggle="collapse" data-target="#price_filter" aria-expanded="false">
+                                                <span class="sr-only">Toggle navigation</span><div class="title-wrapper"><div class="layered_subtitle">Giá</div></div>
+                                            </div><div class="price_slider_wrapper">
+                                                <span class="text-green" style="font-size: 14px">
+                                                    Từ
+                                                    <span id="price_form" data-size="0">
+                                                        0đ
+                                                    </span> :
+                                                    <span id="price_to" data-size="5000000" data-max="5000000">
+                                                        5,000,000đ
+                                                    </span>
+                                                </span><div id="slider-range" class="ui-slider ui-slider-horizontal ui-widget ui-widget-content ui-corner-all" aria-disabled="false"><div class="ui-slider-range ui-widget-header ui-corner-all" style="left: 0%; width: 100%;"></div><a class="ui-slider-handle ui-state-default ui-corner-all" href="#" style="left: 0%;"></a><a class="ui-slider-handle ui-state-default ui-corner-all" href="#" style="left: 100%;"></a></div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div><div class="center_column col-xs-12 col-sm-8 col-md-9 product-col" id="center_column">
+                        <div id="view-product-list" class="view-product-list">
+                            <div class="collection_head relative ">
+                                <div class="page_head">
+                                    <h1 class="collection_title ins_title">
+                                        CÓ (@ViewBag.sl) KẾT QUẢ CHO: "@ViewBag.CurrentFilter"
+                                    </h1>
+                                </div><div class="browse-tags">
+                                    <span>Sắp xếp theo:</span>
+                                    <span class="custom-dropdown custom-dropdown--white">
+
+                                        <select class="sort-by custom-dropdown__select custom-dropdown__select--white" onchange="window.location.href=this.value" >
+                                            <option value="" >@ViewBag.CurrentSort</option>
+                                            <option value="/Home/Search?q=@ViewBag.currentFilter&sortOrder=@ViewBag.SapXepTheoMacDinh">Mặc định</option>
+                                            <option value="/Home/Search?q=@ViewBag.currentFilter&sortOrder=@ViewBag.SapTheoGiaTang">Giá tăng dần</option>
+                                            <option value="/Home/Search?q=@ViewBag.currentFilter&sortOrder=@ViewBag.SapTheoGiaGiam">Giá giảm dần</option>
+                                            <option value="/Home/Search?q=@ViewBag.currentFilter&sortOrder=@ViewBag.SapTheoSale">Sale</option>
+                                        </select>
+
+
+                                    </span>
+                                </div>
+                            </div>
+                            <div id="pd_collection clearfix" itemtype="http://schema.org/SomeProducts">
+                                <ul class="product-list filter products">
+                                    @foreach (var item in Model)
+                                    {
+                                        var url = "~/wwwroot/images/" + item.hinhAnh;
+                                        var phantram = @item.giamGia * 100;
+                                        var gianew = Convert.ToDouble(@item.donGiaSp) - Convert.ToDouble(item.donGiaSp) * @item.giamGia;
+
+
+                                        <li itemscope="" itemtype="http://schema.org/Product" class="item_product item-product-cate col-md-3 col-sm-6 col-xs-6 ivt" data-type="1" id="33736372" data-id="33736372" data-storeid="8073">
+                                            <div class="chir_loop loop_item animated zoomIn">
+                                                <div class="chir-img insScroll">
+                                                    @if (phantram > 0)
+                                                    {<div class="pdLabel sale"><span>- @phantram%</span></div>}
+
+                                                    <a href="#" title="@item.metaTitleSp" class="33736372 itemHover">
+                                                        <img itemprop="image" data-hover="" data-sizes="auto" class="lazyautosizes lazyloaded" src="@Url.Content(@url)" data-src="@Url.Content(@url)" alt="@item.tenSp" sizes="206px">
+                                                    </a>
+                                                    <div class="chi-action">
+                                                        <a href="javascript:void(0)" rel="33798235" class="quick_views btn-quickview-1">
+                                                            <img data-sizes="auto" class="lazyautosizes ls-is-cached lazyloaded" src="https://truemart.vn/tp/T0199/img/zoom_w.png" data-src="https://truemart.vn/tp/T0199/img/zoom_w.png" alt="Xem nhanh" title="Xem nhanh" sizes="18px">
+                                                        </a>
+                                                        <a href="#" class="view_product">
+                                                            <img data-sizes="auto" class="lazyautosizes ls-is-cached lazyloaded" src="https://truemart.vn/tp/T0199/img/eye_w.png" data-src="https://truemart.vn/tp/T0199/img/eye_w.png" alt="Xem chi tiết" title="Xem chi tiết" sizes="18px">
+                                                        </a>
+                                                        <a href="/Cart/Add?productId=@item.maSp&quantity=1" style="border:none" ck="1" class="addToCart add-cart design_cart Soldoutcart" selid="33798235" psid="33798235" data-placement="top" title="Thêm vào giỏ">
+                                                            <img data-sizes="auto" class="lazyautosizes ls-is-cached lazyloaded" src="https://truemart.vn/tp/T0199/img/cart_w.png" data-src="https://truemart.vn/tp/T0199/img/cart_w.png" alt="Thêm vào giỏ" title="Thêm vào giỏ" sizes="18px">
+                                                        </a>
+                                                    </div>
+                                                </div><div class="product-detail clearfix">
+                                                    <h3 class="pro-name" itemprop="name">
+                                                        <a itemprop="url" href="#" class="tp_product_name" title="@item.metaTitleSp">
+                                                            @item.tenSp
+                                                        </a>
+                                                    </h3><meta itemprop="mpn" content="33736372"><p class="pro-price" itemprop="offers" itemscope="" itemtype="http://schema.org/Offer">
+                                                        <meta itemprop="url" content="/may-tre-hoa-da-tang-cuong-collagen-bang-anh-sang-homedics-7ls-beauty-fa7-1450j-p33736372.html"><meta itemprop="availability" content="http://schema.org/InStock"><meta itemprop="priceCurrency" content="VND"><meta itemprop="priceValidUntil" content="2020-11-16"><meta itemprop="price" content="6600000">
+                                                        @if (phantram > 0)
+                                                        {
+                                                            <span class="tp_product_price">@Convert.ToDecimal(gianew).ToString("N0") ₫</span><del class="compare-price tp_product_price_old">@Convert.ToDecimal(item.donGiaSp).ToString("N0") ₫</del>
+                                                        }
+                                                        else
+                                                        { <span class="tp_product_price">@Convert.ToDecimal(item.donGiaSp).ToString("N0") ₫</span>}
+                                                    </p><meta itemprop="brand" content="Homedics"><meta itemprop="description" content="Đang cập nhật"><meta itemprop="sku" content="Đang cập nhật"><div style="display: none">
+                                                        <span itemprop="aggregateRating" itemscope="" itemtype="http://schema.org/AggregateRating">
+                                                            <span itemprop="ratingValue">5.0</span> stars, based on <span itemprop="reviewCount">189</span> reviews
+                                                        </span>
+                                                        <span itemprop="review" itemscope="" itemtype="http://schema.org/review">
+                                                            <meta itemprop="author" content="Người dùng">
+                                                        </span>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </li>
+                                    }
+
+
+                                </ul>
+                                <div class="clearfix"></div>
+                                Trang @(Model.PageCount < Model.PageNumber ? 0 : Model.PageNumber) / @Model.PageCount
+                                @Html.PagedListPager(Model, page => Url.Action("Search", new {  page, sortOdrer = @ViewBag.CrtSort , currentFilter = ViewBag.CurrentFilter }))
+                            </div>
+                        </div>
+                    </div><div class="col-xs-12 col-sm-12 category-desc"></div>
+                </div>
+            </div>
+        </div>
+  <div class="btn-filter">
+        <i class="fa fa-filter" aria-hidden="true"></i>
+    </div><div class="overlay_chir filter visible-sm visible-xs"></div>
+
+

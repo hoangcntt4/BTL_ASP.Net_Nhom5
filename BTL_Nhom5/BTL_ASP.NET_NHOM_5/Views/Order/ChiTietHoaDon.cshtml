@@ -1,0 +1,43 @@
+﻿@using BTL_ASP.NET_NHOM_5.Models
+@model List<ChiTietHoaDon>
+@{
+    ViewBag.Title = "Chi tiết đơn hàng";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<div>
+    <h1>Đơn hàng: @ViewBag.MaHD</h1>
+</div>
+<table class="table container">
+    <thead>
+        <tr>
+
+            <td>Tên sản phẩm</td>
+            <td>Số lượng</td>
+            <td>Đơn giá</td>
+            <td>Thành tiền</td>
+        </tr>
+    </thead>
+    <tbody>
+        @{
+            decimal total = 0;
+        }
+        @foreach (ChiTietHoaDon x in Model)
+        {
+            <tr>
+
+                <td>@x.SanPham.TenSP</td>
+                <td>@x.SoLuong</td>
+                <td>@x.DonGia đ</td>
+                <td>@(@x.SoLuong * x.DonGia) đ</td>
+                @{
+                    total += x.SoLuong.Value * x.DonGia.Value;
+                }
+            </tr>
+        }
+
+
+    </tbody>
+</table>
+<div style="margin-left: 1000px; font:200px"> Tổng tiền của đơn hàng @ViewBag.MaHD là @total</div>
+

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<edmx:Edmx Version="3.0" xmlns:edmx="http://schemas.microsoft.com/ado/2009/11/edmx">
+ <!-- EF Designer content (DO NOT EDIT MANUALLY BELOW HERE) -->
+  <edmx:Designer xmlns="http://schemas.microsoft.com/ado/2009/11/edmx">
+    <!-- Diagram content (shape and connector positions) -->
+    <edmx:Diagrams>
+      <Diagram DiagramId="e491732f857c41e683fec0767d431cef" Name="Diagram1">
+        <EntityTypeShape EntityType="TrueMartModel.BaiViet" Width="1.5" PointX="5.75" PointY="5.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="TrueMartModel.ChiTietHoaDon" Width="1.5" PointX="5.25" PointY="2.5" IsExpanded="true" />
+        <EntityTypeShape EntityType="TrueMartModel.DanhMuc" Width="1.5" PointX="0.75" PointY="2.125" IsExpanded="true" />
+        <EntityTypeShape EntityType="TrueMartModel.HoaDon" Width="1.5" PointX="3" PointY="15.25" IsExpanded="true" />
+        <EntityTypeShape EntityType="TrueMartModel.KhachHang" Width="1.5" PointX="0.75" PointY="14.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="TrueMartModel.KhuyenMai" Width="1.5" PointX="0.75" PointY="7.25" IsExpanded="true" />
+        <EntityTypeShape EntityType="TrueMartModel.QuanTri" Width="1.5" PointX="7.75" PointY="0.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="TrueMartModel.SanPham" Width="1.5" PointX="3" PointY="1.125" IsExpanded="true" />
+        <EntityTypeShape EntityType="TrueMartModel.ThuongHieu" Width="1.5" PointX="0.75" PointY="11" IsExpanded="true" />
+        <AssociationConnector Association="TrueMartModel.FK__ChiTietHoa__MaHD__37A5467C" ManuallyRouted="false" />
+        <AssociationConnector Association="TrueMartModel.FK__ChiTietHoa__MaSP__33D4B598" ManuallyRouted="false" />
+        <AssociationConnector Association="TrueMartModel.FK__SanPham__MaDM__35BCFE0A" ManuallyRouted="false" />
+        <AssociationConnector Association="TrueMartModel.FK__HoaDon__ID__34C8D9D1" ManuallyRouted="false" />
+        <AssociationConnector Association="TrueMartModel.FK__SanPham__MaKM__38996AB5" ManuallyRouted="false" />
+        <AssociationConnector Association="TrueMartModel.FK__SanPham__MaTH__36B12243" ManuallyRouted="false" />
+      </Diagram>
+    </edmx:Diagrams>
+  </edmx:Designer>
+</edmx:Edmx>

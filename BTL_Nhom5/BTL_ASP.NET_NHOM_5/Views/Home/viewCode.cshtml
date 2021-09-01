@@ -1,0 +1,217 @@
+﻿
+@{
+    ViewBag.Title = "viewCode";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+    var session = (UserLogin)Session[BTL_ASP.NET_NHOM_5.Common.CommonConstants.USER_SESSION];
+
+}
+
+<style type="text/css">
+.tableAffOrder a {
+        color: #125d96;
+    }
+    .tableAffOrder a:hover {
+        color: #125d96;
+        text-decoration: underline;
+    }
+    #affiliate h1 {
+    	text-align: center;
+    	font-size: 27px;
+    	margin: 30px auto 50px;
+    	line-height: 30px;
+    }
+    #affiliate {
+    	width: 80%;
+    	margin: auto;
+    	padding-bottom: 15px;
+    }
+    #createCodeCt {
+    	width: 60%;
+    	margin: 50px auto;
+    }
+    #affiliateCode {
+        width: 80%;
+        height: 42px;
+        padding: 10px;
+        border-radius: 5px 0 0 5px !important;
+    	display: inline-block;
+    	vertical-align: top;
+    	margin-bottom: 0;
+    	border: 1px solid #ccc;
+    }
+    #titleStep {
+    	font-size: 19px;
+    	margin-bottom: 15px;
+    }
+    #getAffiliate {
+        border: 1px solid #f37021;
+        padding: 11px 7px 13px;
+        margin-left: -5px;
+        color: #fff;
+        background: #f37021;
+        border-radius: 0 5px 5px 0 !important;
+        font-weight: bold;
+    	cursor: pointer;
+    	display: inline-block;
+    	vertical-align: top;
+    	text-transform: unset;
+    	margin-bottom: 0;
+    	width: 20%;
+        height: 42px;
+    }
+    .fa-warning {
+        color: #e00808;
+    }
+    .menuSocial{
+        display: inline-block;
+        vertical-align: top;
+    	padding: 0;
+    	margin: 0;
+    	line-height: 0;
+    }
+    .menuSocial>li {
+    	display: inline-block;
+    	margin: 0 5px;
+    	vertical-align: top;
+    }
+    .menuSocial>li>a {
+    	border-radius: 3px;
+    	padding: 5px 10px 5px 0;
+    	color: #fff;
+    }
+    .menuSocial>li>a.shareFace {
+        background: #4267B2;
+    }
+    .menuSocial>li>a>.fa-facebook {
+        background: #3B5998;
+    }
+    .menuSocial>li>a.shareGg {
+        background: #e84c3d;
+    }
+    .menuSocial>li>a>.fa-google-plus {
+        background: #ce3b2d;
+    }
+    .menuSocial>li>a.shareTw {
+        background: #1da1f2;
+    }
+    .menuSocial>li>a>.fa-twitter {
+        background: #0f89d5;
+    }
+    .menuSocial>li>a>i {
+    	padding: 5px 0;
+    	border-right: 1px solid #fff;
+    	width: 30px;
+    	text-align: center;
+    }
+    .paddingNoneCode {
+    	margin-top: 30px;
+    }
+    #affCusCode>ul>li:FIRST-CHILD,
+    #affCusCode>ul>li.active.borderNone,
+    #affCusCode>ul>li:HOVER {
+        border: 2px solid #f37021;
+    }
+    #affCusCode>ul>li.borderNone {
+        border-color:#eee;
+    }
+    #affCusCode>ul {
+    	margin-bottom: 20px;
+    	padding: 0;
+    }
+    #affCusCode>ul>li {
+        background: #eee;
+        padding: 8px 15px;
+        font-size: 18px;
+        color: #c42026;
+        margin-right: 10px;
+        border: 2px solid #eee;
+        cursor: pointer;
+    	display: inline-block;
+    	vertical-align: top;
+    }
+    #affiliate table {
+    	width: 100%;
+    	border: 1px solid #b4afaf;
+    	border-collapse: collapse;
+    }
+    #affiliate table th {
+    	background: #eee;
+    }
+    #affiliate table tr,
+    #affiliate table td,
+    #affiliate table th {
+    	border: 1px solid #b4afaf;
+    	padding: 8px;
+        text-align: center;
+    }
+    #media screen and (max-width: 1024px) {
+    	#affiliate,
+    	#createCodeCt {
+            width: 100%;
+        }
+    }
+    #media screen and (max-width: 500px) {
+        #affiliateCode {
+            width: 100% !important;
+        	border-radius: 0 !important;
+        }
+        #getAffiliate {
+            border-radius: 0 !important;
+        	margin: 5px auto !important;
+        	display: block !important;
+        	width: 50% !important;
+        }
+        .menuSocial>li {
+        	margin-bottom: 10px !important;
+    }</style>
+
+<div id="affiliate">
+    <div class="container-fluid" id="affiliateHead">
+        <div class="">
+            <h1>Nhận thưởng ngay khi giới thiệu khách hàng</h1><div class="step1" id="createdCode">
+                <div id="createCodeCt">
+                    <div class="aff-grp">
+                        <form method="post">
+                            <input type="text" name="q" maxlength="45" class="form-control" id="affiliateCode" placeholder="Chấp nhận 3 => 45 chữ, chữ số và dấu _">
+                            <button id="getAffiliate"> Tạo mã giới thiệu</button>
+                        </form>
+                    </div><p style="color: #e00808;margin-bottom: 0;margin-top: 5px;" class="errors"></p><div class="paddingNoneCode" style="text-align: left;"><p id="titleStep"><i class="fa fa-share-alt" style="color: #f37021;font-size: 18px;"></i> Chia sẻ mã giới thiệu của bạn</p></div><div style="padding: 0 0 15px 0">
+    @if (session == null)
+    {
+        <br />
+        <div class="alert alert-danger" role="alert">Bạn cần <a href="/User/Login">đăng nhập</a> hệ thống để tạo mã giới thiệu</div>
+                    }
+    else if (ViewBag.ma != null)
+    {
+        <p>Mã giới thiệu: @ViewBag.ma</p>
+        <p>Trạng thái: Chờ duyệt</p>
+        <p>Thông tin người giới thiệu: </p>
+        <p>- Họ và tên: @session.Name</p>
+        <p>- Số điện thoại: @session.SoDT</p>
+        <p>- Email: @session.Email</p>
+        <p>- Địa chỉ: @session.DiaChi</p>
+    }
+
+
+    @if (ViewBag.Error != null)
+    {
+        <br />
+                        <div class="alert alert-danger" role="alert">@ViewBag.Error</div>
+
+                    }
+    <p style="margin-bottom: 10px;">
+        <b>Link chia sẻ: </b>
+        <a target="_blank" data-link="#" href="#" id="linkHomeCopy" class="linkShareAff" style="color: #4080ff">http://truemart.vn</a>
+    </p><p style="display: inline-block;margin: 0;vertical-align: top;" id="titleShare"><b>Chia sẻ ngay: </b></p><ul class="menuSocial"><li style="width: 68px;"><div class="fb-share-button fb_iframe_widget" data-href="#" data-layout="button" data-size="small" data-mobile-iframe="true" fb-xfbml-state="rendered" fb-iframe-plugin-query="app_id=&amp;container_width=68&amp;href=https%3A%2F%2Ftruemart.vn%2Faffiliate&amp;layout=button&amp;locale=vi_VN&amp;mobile_iframe=true&amp;sdk=joey&amp;size=small"><span style="vertical-align: bottom; width: 76px; height: 20px;"><iframe name="f2dcf21c7cd4f74" width="1000px" height="1000px" data-testid="fb:share_button Facebook Social Plugin" title="fb:share_button Facebook Social Plugin" frameborder="0" allowtransparency="true" allowfullscreen="true" scrolling="no" allow="encrypted-media" src="https://www.facebook.com/v3.3/plugins/share_button.php?app_id=&amp;channel=https%3A%2F%2Fstaticxx.facebook.com%2Fx%2Fconnect%2Fxd_arbiter%2F%3Fversion%3D46%23cb%3Df8bc1013a4dd%26domain%3Dtruemart.vn%26is_canvas%3Dfalse%26origin%3Dhttps%253A%252F%252Ftruemart.vn%252Ffeb4a788cf65c8%26relation%3Dparent.parent&amp;container_width=68&amp;href=https%3A%2F%2Ftruemart.vn%2Faffiliate&amp;layout=button&amp;locale=vi_VN&amp;mobile_iframe=true&amp;sdk=joey&amp;size=small" style="border: none; visibility: visible; width: 76px; height: 20px;" __idm_frm__="143" class=""></iframe></span></div></li><li><div class="zalo-share-button" data-href="https://truemart.vn/affiliate" data-oaid="579745863508352884" data-layout="1" data-color="blue" data-customize="false" style="overflow: hidden; display: inline-block; width: 70px; height: 20px;"><iframe frameborder="0" allowfullscreen="" scrolling="no" width="70px" height="20px" src="https://sp.zalo.me/plugins/share?dev=null&amp;color=blue&amp;oaid=579745863508352884&amp;href=https%3A%2F%2Ftruemart.vn%2Faffiliate&amp;layout=1&amp;customize=false&amp;callback=null&amp;id=b65d50ed-983b-4fdf-950b-99faa855007f&amp;domain=truemart.vn&amp;android=false&amp;ios=false"></iframe></div></li></ul>
+</div><div style="text-align: left;">
+                        <p id="titleStep">
+                            <i class="fa fa-file-text-o" style="color: #f37021;font-size: 18px;"></i>
+                            Thống kê các mã giới thiệu có đơn hàng thành công (<a href="#" target="_blank" style="color: #4080ff; font-size: 15px;text-decoration: underline;">Xem chi tiết</a>)
+                        </p>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+

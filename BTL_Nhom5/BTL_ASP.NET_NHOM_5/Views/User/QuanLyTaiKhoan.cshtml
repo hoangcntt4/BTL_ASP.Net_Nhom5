@@ -1,0 +1,45 @@
+﻿
+@{
+    ViewBag.Title = "QuanLyTaiKhoan";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+    var session = (UserLogin)Session[BTL_ASP.NET_NHOM_5.Common.CommonConstants.USER_SESSION];
+    var url = "/wwwroot/" + session.HinhAnh;
+}
+
+<div class="container" style="padding-top: 30px">
+    <div class="row">
+        @{ Html.RenderAction("userManager", "User");}
+        <div class="col-xs-12 col-lg-9 col-md-9 col-sm-9 profileRight">
+            <div class="ctrl-wrapper">
+                <div id="profileContent">
+                    <div id="profileIf">
+                        <table class="table table-cart" id="my-orders-table">
+                            <thead class="thead-default">
+                                <tr>
+                                    <th>Họ tên</th>
+                                    <th>Tên tài khoản</th>
+                                    <th>Địa chỉ</th>
+                                    <th>Điện thoại</th>
+                                    <th>Email</th>
+
+
+                                </tr>
+                            </thead>
+                            <tbody>
+                                <tr class="first odd">
+                                    <td>@session.Name</td>
+                                    <td>@session.UserName</td>
+                                    <td>@session.DiaChi</td>
+                                    <td>@session.SoDT</td>
+                                    <td>@session.Email</td>
+                                </tr>
+                            </tbody>
+                        </table>
+                        <a href="/User/Edit" class="btn btn-outline">Sửa</a>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+

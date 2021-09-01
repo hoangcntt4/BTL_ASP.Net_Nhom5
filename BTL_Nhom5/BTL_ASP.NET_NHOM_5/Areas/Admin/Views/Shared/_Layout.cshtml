@@ -1,4 +1,8 @@
-﻿
+﻿@{
+    var session = (UserLogin)Session[BTL_ASP.NET_NHOM_5.Common.CommonConstants.USER_SESSION_ADMIN];
+    var url = "~/wwwroot/" + session.HinhAnh;
+
+}
 <!DOCTYPE html>
 <html>
 <head>
@@ -24,7 +28,7 @@
 
         <header class="main-header">
             <!-- Logo -->
-            <a href="index2.html" class="logo">
+            <a href="#" class="logo">
                 <!-- mini logo for sidebar mini 50x50 pixels -->
                 <span class="logo-mini"><b>A</b>LT</span>
                 <!-- logo for regular state and mobile devices -->
@@ -42,13 +46,13 @@
                         <!-- User Account: style can be found in dropdown.less -->
                         <li class="dropdown user user-menu">
                             <a href="#" class="dropdown-toggle" data-toggle="dropdown">
-                                <img src="~/Assets/admin/images/user2-160x160.jpg" class="user-image" alt="User Image">
-                                <span class="hidden-xs">Your name</span>
+                                <img src="@Url.Content(url)" class="user-image" alt="User Image">
+                                <span class="hidden-xs">@session.UserName</span>
                             </a>
                             <ul class="dropdown-menu">
                                 <!-- User image -->
                                 <li class="user-header">
-                                    <img src="~/Assets/admin/images/user2-160x160.jpg" class="img-circle" alt="User Image">
+                                    <img src="@Url.Content(url)" class="img-circle" alt="User Image">
 
                                     <p>
                                         Your profile
@@ -58,10 +62,10 @@
                                 <!-- Menu Footer-->
                                 <li class="user-footer">
                                     <div class="pull-left">
-                                        <a href="#" class="btn btn-default btn-flat">Profile</a>
+                                        <a href="~/Admin/QuanTris/Details/@session.UserID" class="btn btn-default btn-flat">Profile</a>
                                     </div>
                                     <div class="pull-right">
-                                        <a href="#" class="btn btn-default btn-flat">Sign out</a>
+                                        <a href="~/Admin/Login/Logout" class="btn btn-default btn-flat">Sign out</a>
                                     </div>
                                 </li>
                             </ul>
@@ -77,39 +81,64 @@
                 <!-- Sidebar user panel -->
                 <div class="user-panel">
                     <div class="pull-left image">
-                        <img src="~/Assets/admin/images/user2-160x160.jpg" class="img-circle" alt="User Image">
+                        <img src="@Url.Content(url)" class="img-circle" alt="User Image">
                     </div>
                     <div class="pull-left info">
-                        <p>Your name</p>
+                        <p>@session.UserName</p>
                         <a href="#"><i class="fa fa-circle text-success"></i> Online</a>
                     </div>
                 </div>
                 <!-- sidebar menu: : style can be found in sidebar.less -->
                 <ul class="sidebar-menu" data-widget="tree">
                     <li class="header">LAOYOUT ADMIN</li>
-
                     <li>
-                        <a href="pages/widgets.html">
-                            <i class="fa fa-th"></i> <span>Danh mục sản phẩm</span>
+                        <a href="~/Admin/ThongKes/Index">
+                            <i class="fa fa-th"></i> <span>Thống kê</span>
                         </a>
                     </li>
                     <li>
-                        <a href="pages/widgets.html">
+                        <a href="~/Admin/DanhMucs/Index">
+                            <i class="fa fa-th"></i> <span>Danh mục sản phẩm</span>
+                        </a>
+                    </li>
+
+                    <li>
+                        <a href="~/Admin/SanPhams/Index">
                             <i class="fa fa-th"></i> <span>Danh sách sản phẩm</span>
                         </a>
                     </li>
                     <li>
-                        <a href="pages/widgets.html">
-                            <i class="fa fa-th"></i> <span>Đơn hàng</span>
+                        <a href="~/Admin/ThuongHieux/Index">
+                            <i class="fa fa-th"></i> <span>Quản lý thương hiệu</span>
                         </a>
                     </li>
                     <li>
-                        <a href="pages/widgets.html">
-                            <i class="fa fa-th"></i> <span>Tin tứcs</span>
+                        <a href="~/Admin/KhuyenMais/Index">
+                            <i class="fa fa-th"></i> <span>Quản lý khuyến mại</span>
                         </a>
                     </li>
                     <li>
-                        <a href="pages/widgets.html">
+                        <a href="~/Admin/HoaDons/Index">
+                            <i class="fa fa-th"></i> <span>Quản lý hóa đơn</span>
+                        </a>
+                    </li>
+                    <li>
+                        <a href="~/Admin/KhachHangs/Index">
+                            <i class="fa fa-th"></i> <span>Quản lý khách hàng</span>
+                        </a>
+                    </li>
+                    @*<li>
+            <a href="pages/widgets.html">
+                <i class="fa fa-th"></i> <span>Đơn hàng</span>
+            </a>
+        </li>*@
+                    <li>
+                        <a href="~/Admin/BaiViets/Index">
+                            <i class="fa fa-th"></i> <span>Quản lý bài viết</span>
+                        </a>
+                    </li>
+                    <li>
+                        <a href="~/Admin/QuanTris/Index">
                             <i class="fa fa-code"></i> <span>Quản lý user</span>
                             <span class="pull-right-container">
                                 <!--<small class="label pull-right bg-green">new</small>-->

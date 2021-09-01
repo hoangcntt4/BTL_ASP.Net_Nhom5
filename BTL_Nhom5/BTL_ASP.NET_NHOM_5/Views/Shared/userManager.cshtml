@@ -1,0 +1,16 @@
+﻿@{
+    var session = (UserLogin)Session[BTL_ASP.NET_NHOM_5.Common.CommonConstants.USER_SESSION];
+    var url = "/wwwroot/" + session.HinhAnh;
+}
+<div class="col-xs-12 col-lg-3 col-md-8 col-sm-3">
+    <div class="sidebar">
+        <div id="headerProfile">
+            <p id="avatarProfile">
+                <img src="@Url.Content(url)" alt="avatar">
+            </p><h3>@session.Name</h3><p>@session.Email</p>
+            <span class="clearfix"></span>
+        </div>
+        <label class="prfTile">Đơn hàng</label><ul id="profileMenu"><li><a href="/Order/DanhSachDonHang"><i class="fa fa-fw fa-envelope" aria-hidden="true"></i> Quản trị đơn hàng</a></li></ul><label class="prfTile">Hồ sơ</label><ul id="profileMenu"><li class="active"><a rel="follow" href="/User/QuanLyTaiKhoan"><i class="fa fa-fw fa-user" aria-hidden="true"></i> Trang cá nhân</a></li><li><a rel="follow" href="#"><i class="fa fa-heart" aria-hidden="true"></i> Sản phẩm yêu thích</a></li><li><a rel="follow" href="/User/changepassword"><i class="fa fa-fw fa-wrench" aria-hidden="true"></i> Thay đổi mật khẩu</a></li><li><a rel="follow" href="/User/Logout"><i class="fa fa-sign-in" aria-hidden="true"></i> Thoát</a></li></ul>
+    </div>
+</div>
+
